@@ -1,7 +1,0 @@
-INFO  12:34:46,913 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
-INFO  12:34:46,991 - #2 program
-INFO  12:34:46,991 - #15 MJProgram
-INFO  12:34:46,991 - #3 {
-INFO  12:34:46,992 - #4 }
-ERROR 12:34:47,014 - Semanticka greska: nije nadjena main funkcija
-INFO  12:34:47,014 - Print calls = 0
