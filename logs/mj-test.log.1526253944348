@@ -1,0 +1,70 @@
+INFO  01:14:50,968 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:14:51,033 - #2 program
+INFO  01:14:51,033 - #15 MJProgram
+INFO  01:14:51,033 - #15 int
+INFO  01:14:51,035 - #15 x
+INFO  01:14:51,035 - #5 ;
+INFO  01:14:51,036 - #3 {
+INFO  01:14:51,037 - #15 int
+INFO  01:14:51,037 - #15 fja3
+INFO  01:14:51,038 - #6 (
+INFO  01:14:51,038 - #15 int
+INFO  01:14:51,038 - #15 aa
+INFO  01:14:51,038 - #8 ,
+INFO  01:14:51,039 - #15 int
+INFO  01:14:51,039 - #15 b
+INFO  01:14:51,039 - #7 )
+INFO  01:14:51,040 - #3 {
+INFO  01:14:51,042 - #10 return
+INFO  01:14:51,043 - #19 4
+INFO  01:14:51,043 - #5 ;
+INFO  01:14:51,043 - #4 }
+INFO  01:14:51,044 - #14 void
+INFO  01:14:51,046 - #15 main
+INFO  01:14:51,046 - #6 (
+INFO  01:14:51,046 - #7 )
+INFO  01:14:51,047 - #15 int
+INFO  01:14:51,047 - #15 x4
+INFO  01:14:51,047 - #5 ;
+INFO  01:14:51,047 - #15 char
+INFO  01:14:51,047 - #15 x5
+INFO  01:14:51,048 - #5 ;
+INFO  01:14:51,048 - #15 bool
+INFO  01:14:51,048 - #15 x6
+INFO  01:14:51,048 - #5 ;
+INFO  01:14:51,048 - #3 {
+INFO  01:14:51,048 - #9 print
+INFO  01:14:51,048 - #6 (
+INFO  01:14:51,048 - #19 3
+INFO  01:14:51,048 - #7 )
+INFO  01:14:51,049 - #5 ;
+INFO  01:14:51,049 - #15 x
+INFO  01:14:51,049 - #31 ++
+INFO  01:14:51,049 - #5 ;
+INFO  01:14:51,050 - #15 x
+INFO  01:14:51,050 - #13 =
+INFO  01:14:51,050 - #15 fja3
+INFO  01:14:51,050 - #6 (
+INFO  01:14:51,051 - #19 2
+INFO  01:14:51,051 - #8 ,
+INFO  01:14:51,051 - #15 fja3
+INFO  01:14:51,051 - #6 (
+INFO  01:14:51,052 - #19 1
+INFO  01:14:51,052 - #8 ,
+INFO  01:14:51,052 - #19 2
+INFO  01:14:51,052 - #7 )
+INFO  01:14:51,053 - #7 )
+INFO  01:14:51,053 - #5 ;
+INFO  01:14:51,053 - #4 }
+INFO  01:14:51,053 - #4 }
+INFO  01:14:51,081 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:14:51,081 - Deklarisan je formalni parametar aa na liniji 22
+INFO  01:14:51,081 - Deklarisan je formalni parametar b na liniji 22
+INFO  01:14:51,082 - Deklarisana je lokalna promenljiva x4 na liniji 26
+INFO  01:14:51,082 - Deklarisana je lokalna promenljiva x5 na liniji 26
+INFO  01:14:51,082 - Deklarisana je lokalna promenljiva x6 na liniji 26
+INFO  01:14:51,082 - Pronadjen poziv funkcije fja3 na liniji 31
+ERROR 01:14:51,083 - Greska na liniji 31 :broj formalnih i stvarnih argumenata u funkciji nije isti
+INFO  01:14:51,083 - Pronadjen poziv funkcije fja3 na liniji 31
+ERROR 01:14:51,085 - Greska na liniji 31 :broj formalnih i stvarnih argumenata u funkciji nije isti
+INFO  01:14:51,086 - Print calls = 0

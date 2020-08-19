@@ -1,0 +1,45 @@
+INFO  23:06:03,855 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:06:03,914 - #2 program
+INFO  23:06:03,914 - #15 MJProgram
+INFO  23:06:03,914 - #15 int
+INFO  23:06:03,915 - #15 x
+INFO  23:06:03,916 - #8 ,
+INFO  23:06:03,916 - #15 y
+INFO  23:06:03,917 - #22 [
+INFO  23:06:03,917 - #23 ]
+INFO  23:06:03,917 - #5 ;
+INFO  23:06:03,917 - #15 char
+INFO  23:06:03,918 - #15 c
+INFO  23:06:03,918 - #5 ;
+INFO  23:06:03,919 - #18 const
+INFO  23:06:03,919 - #15 int
+INFO  23:06:03,919 - #15 p
+INFO  23:06:03,919 - #13 =
+INFO  23:06:03,919 - #19 2
+INFO  23:06:03,920 - #5 ;
+INFO  23:06:03,920 - #3 {
+INFO  23:06:03,922 - #15 int
+INFO  23:06:03,923 - #15 metoda
+INFO  23:06:03,923 - #6 (
+INFO  23:06:03,923 - #7 )
+INFO  23:06:03,924 - #3 {
+INFO  23:06:03,925 - #10 return
+INFO  23:06:03,926 - #15 y
+INFO  23:06:03,926 - #22 [
+INFO  23:06:03,926 - #19 1
+INFO  23:06:03,926 - #23 ]
+INFO  23:06:03,927 - #11 +
+INFO  23:06:03,927 - #19 2
+INFO  23:06:03,928 - #5 ;
+INFO  23:06:03,928 - #4 }
+INFO  23:06:03,929 - #14 void
+INFO  23:06:03,930 - #15 main
+INFO  23:06:03,930 - #6 (
+INFO  23:06:03,930 - #7 )
+INFO  23:06:03,930 - #3 {
+INFO  23:06:03,930 - #4 }
+INFO  23:06:03,930 - #4 }
+INFO  23:06:03,948 - Deklarisana promenljiva x na liniji 2
+INFO  23:06:03,948 - Deklarisana promenljiva y na liniji 2
+INFO  23:06:03,948 - Deklarisana promenljiva c na liniji 3
+INFO  23:06:03,948 - Print calls = 0

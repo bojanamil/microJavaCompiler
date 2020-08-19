@@ -1,0 +1,42 @@
+INFO  22:28:10,359 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:28:10,422 - #2 program
+INFO  22:28:10,422 - #15 MJProgram
+INFO  22:28:10,422 - #15 int
+INFO  22:28:10,423 - #15 x
+INFO  22:28:10,424 - #5 ;
+INFO  22:28:10,424 - #15 char
+INFO  22:28:10,425 - #15 y
+INFO  22:28:10,426 - #5 ;
+INFO  22:28:10,426 - #3 {
+INFO  22:28:10,426 - #15 int
+INFO  22:28:10,427 - #15 k
+INFO  22:28:10,427 - #6 (
+INFO  22:28:10,427 - #7 )
+INFO  22:28:10,428 - #15 int
+INFO  22:28:10,429 - #15 c
+INFO  22:28:10,429 - #5 ;
+INFO  22:28:10,429 - #3 {
+INFO  22:28:10,430 - #15 c
+INFO  22:28:10,431 - #13 =
+INFO  22:28:10,431 - #19 1
+INFO  22:28:10,431 - #5 ;
+INFO  22:28:10,433 - #10 return
+INFO  22:28:10,433 - #15 c
+INFO  22:28:10,433 - #11 +
+INFO  22:28:10,433 - #19 2
+INFO  22:28:10,435 - #5 ;
+INFO  22:28:10,435 - #4 }
+INFO  22:28:10,435 - #14 void
+INFO  22:28:10,437 - #15 main
+INFO  22:28:10,437 - #6 (
+INFO  22:28:10,438 - #7 )
+INFO  22:28:10,438 - #3 {
+INFO  22:28:10,438 - #10 return
+INFO  22:28:10,438 - #19 0
+INFO  22:28:10,438 - #5 ;
+INFO  22:28:10,438 - #4 }
+INFO  22:28:10,439 - #4 }
+INFO  22:28:10,458 - Deklarisana promenljiva x na liniji 2
+INFO  22:28:10,458 - Deklarisana promenljiva y na liniji 2
+INFO  22:28:10,458 - Deklarisana promenljiva c na liniji 5
+INFO  22:28:10,458 - Print calls = 0

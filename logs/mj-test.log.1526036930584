@@ -1,0 +1,23 @@
+INFO  13:05:08,852 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:05:08,929 - #2 program
+INFO  13:05:08,929 - #15 MJProgram
+INFO  13:05:08,929 - #15 int
+INFO  13:05:08,931 - #15 x
+INFO  13:05:08,932 - #5 ;
+INFO  13:05:08,932 - #3 {
+INFO  13:05:08,933 - #14 void
+INFO  13:05:08,934 - #15 main
+INFO  13:05:08,934 - #6 (
+INFO  13:05:08,935 - #7 )
+INFO  13:05:08,936 - #3 {
+INFO  13:05:08,937 - #9 print
+INFO  13:05:08,938 - #6 (
+INFO  13:05:08,938 - #19 3
+INFO  13:05:08,938 - #7 )
+INFO  13:05:08,939 - #5 ;
+INFO  13:05:08,939 - #4 }
+INFO  13:05:08,939 - #4 }
+INFO  13:05:08,989 - Deklarisana promenljiva x a ispis objektnog cvora:SingleSameTypeVarDeclNotArray(
+ x
+) [SingleSameTypeVarDeclNotArray] na liniji 3
+INFO  13:05:08,990 - Print calls = 0

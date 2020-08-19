@@ -1,0 +1,69 @@
+INFO  00:32:18,874 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:32:18,935 - #2 program
+INFO  00:32:18,935 - #15 MJProgram
+INFO  00:32:18,935 - #15 int
+INFO  00:32:18,936 - #15 x
+INFO  00:32:18,937 - #5 ;
+INFO  00:32:18,937 - #18 const
+INFO  00:32:18,938 - #15 int
+INFO  00:32:18,938 - #15 c1
+INFO  00:32:18,939 - #13 =
+INFO  00:32:18,940 - #19 1
+INFO  00:32:18,940 - #5 ;
+INFO  00:32:18,941 - #18 const
+INFO  00:32:18,943 - #15 int
+INFO  00:32:18,943 - #15 c2
+INFO  00:32:18,943 - #13 =
+INFO  00:32:18,943 - #19 2
+INFO  00:32:18,943 - #8 ,
+INFO  00:32:18,943 - #15 c3
+INFO  00:32:18,943 - #13 =
+INFO  00:32:18,944 - #19 3
+INFO  00:32:18,944 - #5 ;
+INFO  00:32:18,944 - #18 const
+INFO  00:32:18,944 - #15 char
+INFO  00:32:18,944 - #15 c4
+INFO  00:32:18,944 - #13 =
+INFO  00:32:18,945 - #20 a
+INFO  00:32:18,945 - #5 ;
+INFO  00:32:18,945 - #15 int
+INFO  00:32:18,945 - #15 y
+INFO  00:32:18,945 - #5 ;
+INFO  00:32:18,945 - #18 const
+INFO  00:32:18,945 - #15 char
+INFO  00:32:18,945 - #15 c5
+INFO  00:32:18,945 - #13 =
+INFO  00:32:18,945 - #20 u
+INFO  00:32:18,946 - #5 ;
+INFO  00:32:18,946 - #18 const
+INFO  00:32:18,946 - #15 bool
+INFO  00:32:18,946 - #15 c6
+INFO  00:32:18,946 - #13 =
+INFO  00:32:18,946 - #21 true
+INFO  00:32:18,946 - #5 ;
+INFO  00:32:18,946 - #15 bool
+INFO  00:32:18,946 - #15 z
+INFO  00:32:18,947 - #5 ;
+INFO  00:32:18,947 - #3 {
+INFO  00:32:18,947 - #14 void
+INFO  00:32:18,948 - #15 main
+INFO  00:32:18,948 - #6 (
+INFO  00:32:18,948 - #7 )
+INFO  00:32:18,949 - #3 {
+INFO  00:32:18,950 - #9 print
+INFO  00:32:18,950 - #6 (
+INFO  00:32:18,951 - #19 3
+INFO  00:32:18,951 - #7 )
+INFO  00:32:18,951 - #5 ;
+INFO  00:32:18,951 - #4 }
+INFO  00:32:18,952 - #4 }
+INFO  00:32:18,971 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  00:32:18,971 - Deklarisana je konstanta c1 na liniji 4
+INFO  00:32:18,971 - Deklarisana je konstanta c2 na liniji 5
+INFO  00:32:18,971 - Deklarisana je konstanta c3 na liniji 5
+INFO  00:32:18,971 - Deklarisana je konstanta c4 na liniji 6
+INFO  00:32:18,971 - Deklarisana je globalna promenljiva y na liniji 7
+INFO  00:32:18,972 - Deklarisana je konstanta c5 na liniji 8
+INFO  00:32:18,972 - Deklarisana je konstanta c6 na liniji 9
+INFO  00:32:18,972 - Deklarisana je globalna promenljiva z na liniji 10
+INFO  00:32:18,974 - Print calls = 0

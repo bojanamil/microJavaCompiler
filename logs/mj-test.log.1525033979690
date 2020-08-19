@@ -1,0 +1,62 @@
+INFO  22:28:57,750 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:28:57,809 - #2 program
+INFO  22:28:57,809 - #15 MJProgram
+INFO  22:28:57,809 - #15 int
+INFO  22:28:57,811 - #15 x
+INFO  22:28:57,811 - #5 ;
+INFO  22:28:57,812 - #15 bool
+INFO  22:28:57,813 - #15 y
+INFO  22:28:57,813 - #5 ;
+INFO  22:28:57,813 - #15 char
+INFO  22:28:57,813 - #15 z
+INFO  22:28:57,813 - #5 ;
+INFO  22:28:57,813 - #3 {
+INFO  22:28:57,814 - #15 int
+INFO  22:28:57,814 - #15 k
+INFO  22:28:57,814 - #6 (
+INFO  22:28:57,815 - #7 )
+INFO  22:28:57,816 - #15 int
+INFO  22:28:57,817 - #15 c
+INFO  22:28:57,817 - #5 ;
+INFO  22:28:57,817 - #3 {
+INFO  22:28:57,818 - #15 c
+INFO  22:28:57,819 - #13 =
+INFO  22:28:57,819 - #19 1
+INFO  22:28:57,819 - #5 ;
+INFO  22:28:57,820 - #10 return
+INFO  22:28:57,820 - #15 c
+INFO  22:28:57,820 - #11 +
+INFO  22:28:57,820 - #19 2
+INFO  22:28:57,821 - #5 ;
+INFO  22:28:57,822 - #4 }
+INFO  22:28:57,822 - #14 void
+INFO  22:28:57,823 - #15 main
+INFO  22:28:57,823 - #6 (
+INFO  22:28:57,823 - #7 )
+INFO  22:28:57,823 - #3 {
+INFO  22:28:57,823 - #10 return
+INFO  22:28:57,823 - #19 0
+INFO  22:28:57,823 - #5 ;
+INFO  22:28:57,824 - #15 x
+INFO  22:28:57,824 - #13 =
+INFO  22:28:57,824 - #19 3
+INFO  22:28:57,824 - #5 ;
+INFO  22:28:57,824 - #15 y
+INFO  22:28:57,824 - #13 =
+INFO  22:28:57,824 - #21 true
+INFO  22:28:57,825 - #5 ;
+INFO  22:28:57,825 - #15 z
+INFO  22:28:57,826 - #13 =
+INFO  22:28:57,826 - #20 a
+INFO  22:28:57,826 - #5 ;
+INFO  22:28:57,826 - #4 }
+INFO  22:28:57,826 - #4 }
+INFO  22:28:57,843 - Deklarisana promenljiva x na liniji 2
+INFO  22:28:57,843 - Deklarisana promenljiva y na liniji 2
+INFO  22:28:57,843 - Deklarisana promenljiva z na liniji 2
+INFO  22:28:57,843 - Deklarisana promenljiva c na liniji 5
+ERROR 22:28:57,843 - Semanticka greska: tip izraza mora biti Integer  na liniji 17
+ERROR 22:28:57,843 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 17
+ERROR 22:28:57,843 - Semanticka greska: tip izraza mora biti Integer  na liniji 18
+ERROR 22:28:57,844 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 18
+INFO  22:28:57,844 - Print calls = 0

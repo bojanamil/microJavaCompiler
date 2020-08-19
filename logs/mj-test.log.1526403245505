@@ -1,0 +1,61 @@
+INFO  01:32:21,860 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:32:21,938 - #2 program
+INFO  01:32:21,939 - #15 MJProgram
+INFO  01:32:21,939 - #15 int
+INFO  01:32:21,941 - #15 x
+INFO  01:32:21,942 - #5 ;
+INFO  01:32:21,943 - #3 {
+INFO  01:32:21,944 - #15 int
+INFO  01:32:21,945 - #15 fja3
+INFO  01:32:21,945 - #6 (
+INFO  01:32:21,945 - #15 int
+INFO  01:32:21,945 - #15 aa
+INFO  01:32:21,945 - #8 ,
+INFO  01:32:21,946 - #15 int
+INFO  01:32:21,946 - #15 b
+INFO  01:32:21,946 - #7 )
+INFO  01:32:21,947 - #3 {
+INFO  01:32:21,948 - #10 return
+INFO  01:32:21,949 - #19 4
+INFO  01:32:21,949 - #5 ;
+INFO  01:32:21,949 - #4 }
+INFO  01:32:21,950 - #15 int
+INFO  01:32:21,952 - #15 fja4
+INFO  01:32:21,952 - #6 (
+INFO  01:32:21,952 - #7 )
+INFO  01:32:21,953 - #3 {
+INFO  01:32:21,953 - #10 return
+INFO  01:32:21,953 - #19 5
+INFO  01:32:21,953 - #5 ;
+INFO  01:32:21,953 - #4 }
+INFO  01:32:21,953 - #14 void
+INFO  01:32:21,953 - #15 main
+INFO  01:32:21,953 - #6 (
+INFO  01:32:21,953 - #7 )
+INFO  01:32:21,954 - #15 int
+INFO  01:32:21,954 - #15 x4
+INFO  01:32:21,954 - #5 ;
+INFO  01:32:21,954 - #15 char
+INFO  01:32:21,954 - #15 x5
+INFO  01:32:21,954 - #5 ;
+INFO  01:32:21,955 - #15 bool
+INFO  01:32:21,955 - #15 x6
+INFO  01:32:21,955 - #5 ;
+INFO  01:32:21,955 - #3 {
+INFO  01:32:21,955 - #9 print
+INFO  01:32:21,955 - #6 (
+INFO  01:32:21,955 - #19 3
+INFO  01:32:21,955 - #7 )
+INFO  01:32:21,956 - #5 ;
+INFO  01:32:21,956 - #15 x
+INFO  01:32:21,956 - #31 ++
+INFO  01:32:21,957 - #5 ;
+INFO  01:32:21,957 - #4 }
+INFO  01:32:21,957 - #4 }
+INFO  01:32:21,978 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:32:21,978 - Deklarisan je formalni parametar aa na liniji 22
+INFO  01:32:21,979 - Deklarisan je formalni parametar b na liniji 22
+INFO  01:32:21,979 - Deklarisana je lokalna promenljiva x4 na liniji 30
+INFO  01:32:21,979 - Deklarisana je lokalna promenljiva x5 na liniji 30
+INFO  01:32:21,979 - Deklarisana je lokalna promenljiva x6 na liniji 30
+INFO  01:32:21,979 - Print calls = 0

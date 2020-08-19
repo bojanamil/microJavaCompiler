@@ -1,0 +1,65 @@
+INFO  13:10:01,115 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:10:01,188 - #2 program
+INFO  13:10:01,188 - #15 MJProgram
+INFO  13:10:01,189 - #15 int
+INFO  13:10:01,190 - #15 x
+INFO  13:10:01,191 - #5 ;
+INFO  13:10:01,191 - #15 int
+INFO  13:10:01,192 - #15 y
+INFO  13:10:01,192 - #5 ;
+INFO  13:10:01,193 - #3 {
+INFO  13:10:01,193 - #15 int
+INFO  13:10:01,194 - #15 k
+INFO  13:10:01,194 - #6 (
+INFO  13:10:01,194 - #7 )
+INFO  13:10:01,196 - #15 int
+INFO  13:10:01,197 - #15 c
+INFO  13:10:01,197 - #5 ;
+INFO  13:10:01,197 - #3 {
+INFO  13:10:01,197 - #15 c
+INFO  13:10:01,198 - #13 =
+INFO  13:10:01,199 - #19 1
+INFO  13:10:01,199 - #5 ;
+INFO  13:10:01,203 - #10 return
+INFO  13:10:01,203 - #15 c
+INFO  13:10:01,204 - #11 +
+INFO  13:10:01,204 - #19 2
+INFO  13:10:01,205 - #5 ;
+INFO  13:10:01,206 - #4 }
+INFO  13:10:01,206 - #14 void
+INFO  13:10:01,208 - #15 main
+INFO  13:10:01,208 - #6 (
+INFO  13:10:01,208 - #7 )
+INFO  13:10:01,208 - #3 {
+INFO  13:10:01,208 - #15 y
+INFO  13:10:01,208 - #13 =
+INFO  13:10:01,208 - #19 2
+INFO  13:10:01,208 - #5 ;
+INFO  13:10:01,209 - #15 x
+INFO  13:10:01,209 - #13 =
+INFO  13:10:01,209 - #15 y
+INFO  13:10:01,209 - #11 +
+INFO  13:10:01,209 - #19 2
+INFO  13:10:01,209 - #5 ;
+INFO  13:10:01,209 - #15 y
+INFO  13:10:01,210 - #13 =
+INFO  13:10:01,210 - #15 k
+INFO  13:10:01,210 - #6 (
+INFO  13:10:01,210 - #7 )
+INFO  13:10:01,212 - #11 +
+INFO  13:10:01,212 - #19 3
+INFO  13:10:01,212 - #5 ;
+INFO  13:10:01,212 - #9 print
+INFO  13:10:01,213 - #6 (
+INFO  13:10:01,213 - #15 y
+INFO  13:10:01,213 - #7 )
+INFO  13:10:01,213 - #5 ;
+INFO  13:10:01,213 - #10 return
+INFO  13:10:01,213 - #19 0
+INFO  13:10:01,214 - #5 ;
+INFO  13:10:01,214 - #4 }
+INFO  13:10:01,214 - #4 }
+INFO  13:13:26,905 - Deklarisana promenljiva x na liniji 2
+INFO  13:13:38,445 - Deklarisana promenljiva y na liniji 2
+INFO  13:14:13,489 - Deklarisana promenljiva c na liniji 5
+ERROR 13:14:33,648 - Semanticka greska: tip izraza mora biti Integer  na liniji 6

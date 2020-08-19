@@ -1,0 +1,17 @@
+INFO  16:51:08,390 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:51:08,451 - #2 program
+INFO  16:51:08,451 - #15 MJProgram
+INFO  16:51:08,451 - #3 {
+INFO  16:51:08,453 - #14 void
+INFO  16:51:08,453 - #15 main
+INFO  16:51:08,454 - #6 (
+INFO  16:51:08,454 - #7 )
+INFO  16:51:08,455 - #3 {
+INFO  16:51:08,456 - #15 c
+INFO  16:51:08,457 - #13 =
+INFO  16:51:08,457 - #19 3
+INFO  16:51:08,458 - #5 ;
+INFO  16:51:08,459 - #4 }
+INFO  16:51:08,459 - #4 }
+ERROR 16:51:08,476 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom c na liniji 6
+INFO  16:51:08,477 - Print calls = 0

@@ -1,0 +1,58 @@
+INFO  01:09:59,120 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:09:59,182 - #2 program
+INFO  01:09:59,182 - #15 MJProgram
+INFO  01:09:59,182 - #15 int
+INFO  01:09:59,183 - #15 x
+INFO  01:09:59,184 - #5 ;
+INFO  01:09:59,185 - #3 {
+INFO  01:09:59,186 - #14 void
+INFO  01:09:59,187 - #15 fja3
+INFO  01:09:59,187 - #6 (
+INFO  01:09:59,187 - #15 int
+INFO  01:09:59,187 - #15 aa
+INFO  01:09:59,187 - #8 ,
+INFO  01:09:59,188 - #15 int
+INFO  01:09:59,188 - #15 b
+INFO  01:09:59,188 - #7 )
+INFO  01:09:59,189 - #3 {
+INFO  01:09:59,190 - #4 }
+INFO  01:09:59,191 - #14 void
+INFO  01:09:59,192 - #15 main
+INFO  01:09:59,192 - #6 (
+INFO  01:09:59,192 - #7 )
+INFO  01:09:59,193 - #15 int
+INFO  01:09:59,193 - #15 x4
+INFO  01:09:59,193 - #5 ;
+INFO  01:09:59,193 - #15 char
+INFO  01:09:59,194 - #15 x5
+INFO  01:09:59,194 - #5 ;
+INFO  01:09:59,194 - #15 bool
+INFO  01:09:59,194 - #15 x6
+INFO  01:09:59,194 - #5 ;
+INFO  01:09:59,194 - #3 {
+INFO  01:09:59,194 - #9 print
+INFO  01:09:59,194 - #6 (
+INFO  01:09:59,194 - #19 3
+INFO  01:09:59,194 - #7 )
+INFO  01:09:59,195 - #5 ;
+INFO  01:09:59,195 - #15 x
+INFO  01:09:59,195 - #31 ++
+INFO  01:09:59,196 - #5 ;
+INFO  01:09:59,196 - #15 fja3
+INFO  01:09:59,196 - #6 (
+INFO  01:09:59,196 - #19 1
+INFO  01:09:59,196 - #8 ,
+INFO  01:09:59,197 - #20 c
+INFO  01:09:59,197 - #7 )
+INFO  01:09:59,197 - #5 ;
+INFO  01:09:59,197 - #4 }
+INFO  01:09:59,198 - #4 }
+INFO  01:09:59,216 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:09:59,216 - Deklarisan je formalni parametar aa na liniji 22
+INFO  01:09:59,216 - Deklarisan je formalni parametar b na liniji 22
+INFO  01:09:59,217 - Deklarisana je lokalna promenljiva x4 na liniji 25
+INFO  01:09:59,217 - Deklarisana je lokalna promenljiva x5 na liniji 25
+INFO  01:09:59,217 - Deklarisana je lokalna promenljiva x6 na liniji 25
+INFO  01:09:59,217 - Pronadjen poziv funkcije fja3 na liniji 30
+ERROR 01:09:59,218 - Greska na liniji 30 ne slazu se tipovi formalnih i stvarnih argumenata u pozivu funkcije
+INFO  01:09:59,218 - Print calls = 0

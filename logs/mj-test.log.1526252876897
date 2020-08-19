@@ -1,0 +1,49 @@
+INFO  01:07:18,666 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:07:18,727 - #2 program
+INFO  01:07:18,728 - #15 MJProgram
+INFO  01:07:18,728 - #15 int
+INFO  01:07:18,729 - #15 x
+INFO  01:07:18,730 - #5 ;
+INFO  01:07:18,730 - #3 {
+INFO  01:07:18,732 - #14 void
+INFO  01:07:18,733 - #15 fja3
+INFO  01:07:18,733 - #6 (
+INFO  01:07:18,733 - #15 int
+INFO  01:07:18,733 - #15 aa
+INFO  01:07:18,733 - #8 ,
+INFO  01:07:18,734 - #15 int
+INFO  01:07:18,734 - #15 b
+INFO  01:07:18,734 - #7 )
+INFO  01:07:18,735 - #3 {
+INFO  01:07:18,737 - #4 }
+INFO  01:07:18,738 - #14 void
+INFO  01:07:18,739 - #15 main
+INFO  01:07:18,739 - #6 (
+INFO  01:07:18,739 - #7 )
+INFO  01:07:18,740 - #15 int
+INFO  01:07:18,740 - #15 x4
+INFO  01:07:18,740 - #5 ;
+INFO  01:07:18,740 - #15 char
+INFO  01:07:18,740 - #15 x5
+INFO  01:07:18,741 - #5 ;
+INFO  01:07:18,741 - #15 bool
+INFO  01:07:18,741 - #15 x6
+INFO  01:07:18,741 - #5 ;
+INFO  01:07:18,741 - #3 {
+INFO  01:07:18,741 - #15 fja3
+INFO  01:07:18,741 - #6 (
+INFO  01:07:18,741 - #19 1
+INFO  01:07:18,741 - #8 ,
+INFO  01:07:18,742 - #19 2
+INFO  01:07:18,743 - #7 )
+INFO  01:07:18,743 - #5 ;
+INFO  01:07:18,743 - #4 }
+INFO  01:07:18,744 - #4 }
+INFO  01:07:18,767 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:07:18,768 - Deklarisan je formalni parametar aa na liniji 22
+INFO  01:07:18,768 - Deklarisan je formalni parametar b na liniji 22
+INFO  01:07:18,768 - Deklarisana je lokalna promenljiva x4 na liniji 25
+INFO  01:07:18,768 - Deklarisana je lokalna promenljiva x5 na liniji 25
+INFO  01:07:18,768 - Deklarisana je lokalna promenljiva x6 na liniji 25
+INFO  01:07:18,769 - Pronadjen poziv funkcije fja3 na liniji 29
+INFO  01:07:18,769 - Print calls = 0

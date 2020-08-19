@@ -1,0 +1,23 @@
+INFO  12:19:57,455 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:19:57,523 - #2 program
+INFO  12:19:57,523 - #15 MJProgram
+INFO  12:19:57,523 - #15 int
+INFO  12:19:57,524 - #8 ,
+ERROR 12:19:57,526 - 
+Sintaksna greska na liniji 2
+INFO  12:19:57,526 - #5 ;
+INFO  12:19:57,526 - #3 {
+INFO  12:19:57,526 - #14 void
+INFO  12:19:57,527 - #15 main
+INFO  12:19:57,530 - #6 (
+INFO  12:19:57,531 - #7 )
+INFO  12:19:57,532 - #3 {
+INFO  12:19:57,533 - #9 print
+INFO  12:19:57,534 - #6 (
+INFO  12:19:57,534 - #19 3
+INFO  12:19:57,534 - #7 )
+INFO  12:19:57,535 - #5 ;
+INFO  12:19:57,535 - #4 }
+INFO  12:19:57,536 - #4 }
+ERROR 12:19:57,554 - Uspesan oporavak od greske pri deklarisanju globalne promenljive
+INFO  12:19:57,554 - Print calls = 0

@@ -1,0 +1,68 @@
+INFO  01:14:25,029 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:14:25,095 - #2 program
+INFO  01:14:25,096 - #15 MJProgram
+INFO  01:14:25,096 - #15 int
+INFO  01:14:25,097 - #15 x
+INFO  01:14:25,098 - #5 ;
+INFO  01:14:25,098 - #3 {
+INFO  01:14:25,099 - #15 int
+INFO  01:14:25,100 - #15 fja3
+INFO  01:14:25,100 - #6 (
+INFO  01:14:25,100 - #15 int
+INFO  01:14:25,101 - #15 aa
+INFO  01:14:25,101 - #8 ,
+INFO  01:14:25,101 - #15 int
+INFO  01:14:25,101 - #15 b
+INFO  01:14:25,101 - #7 )
+INFO  01:14:25,102 - #3 {
+INFO  01:14:25,104 - #10 return
+INFO  01:14:25,105 - #19 4
+INFO  01:14:25,105 - #5 ;
+INFO  01:14:25,106 - #4 }
+INFO  01:14:25,106 - #14 void
+INFO  01:14:25,108 - #15 main
+INFO  01:14:25,108 - #6 (
+INFO  01:14:25,108 - #7 )
+INFO  01:14:25,109 - #15 int
+INFO  01:14:25,109 - #15 x4
+INFO  01:14:25,109 - #5 ;
+INFO  01:14:25,109 - #15 char
+INFO  01:14:25,109 - #15 x5
+INFO  01:14:25,109 - #5 ;
+INFO  01:14:25,109 - #15 bool
+INFO  01:14:25,109 - #15 x6
+INFO  01:14:25,109 - #5 ;
+INFO  01:14:25,109 - #3 {
+INFO  01:14:25,110 - #9 print
+INFO  01:14:25,110 - #6 (
+INFO  01:14:25,110 - #19 3
+INFO  01:14:25,110 - #7 )
+INFO  01:14:25,110 - #5 ;
+INFO  01:14:25,110 - #15 x
+INFO  01:14:25,110 - #31 ++
+INFO  01:14:25,110 - #5 ;
+INFO  01:14:25,111 - #15 x
+INFO  01:14:25,111 - #13 =
+INFO  01:14:25,111 - #15 fja
+INFO  01:14:25,111 - #6 (
+INFO  01:14:25,111 - #19 2
+INFO  01:14:25,111 - #8 ,
+INFO  01:14:25,112 - #15 fja
+INFO  01:14:25,112 - #6 (
+INFO  01:14:25,112 - #19 1
+INFO  01:14:25,112 - #8 ,
+INFO  01:14:25,112 - #19 2
+INFO  01:14:25,113 - #7 )
+INFO  01:14:25,113 - #7 )
+INFO  01:14:25,114 - #5 ;
+INFO  01:14:25,114 - #4 }
+INFO  01:14:25,114 - #4 }
+INFO  01:14:25,133 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:14:25,134 - Deklarisan je formalni parametar aa na liniji 22
+INFO  01:14:25,134 - Deklarisan je formalni parametar b na liniji 22
+INFO  01:14:25,134 - Deklarisana je lokalna promenljiva x4 na liniji 26
+INFO  01:14:25,134 - Deklarisana je lokalna promenljiva x5 na liniji 26
+INFO  01:14:25,134 - Deklarisana je lokalna promenljiva x6 na liniji 26
+ERROR 01:14:25,135 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom fja na liniji 31
+ERROR 01:14:25,135 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom fja na liniji 31
+INFO  01:14:25,135 - Print calls = 0

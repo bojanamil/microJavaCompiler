@@ -1,0 +1,38 @@
+INFO  19:40:19,684 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:40:19,745 - #2 program
+INFO  19:40:19,746 - #15 MJProgram
+INFO  19:40:19,746 - #15 int
+INFO  19:40:19,747 - #15 a
+INFO  19:40:19,748 - #22 [
+INFO  19:40:19,748 - #23 ]
+INFO  19:40:19,748 - #5 ;
+INFO  19:40:19,748 - #15 int
+INFO  19:40:19,750 - #15 x
+INFO  19:40:19,750 - #5 ;
+INFO  19:40:19,750 - #3 {
+INFO  19:40:19,751 - #14 void
+INFO  19:40:19,751 - #15 main
+INFO  19:40:19,752 - #6 (
+INFO  19:40:19,752 - #7 )
+INFO  19:40:19,753 - #3 {
+INFO  19:40:19,753 - #15 a
+INFO  19:40:19,754 - #22 [
+INFO  19:40:19,754 - #19 2
+INFO  19:40:19,754 - #23 ]
+INFO  19:40:19,755 - #13 =
+INFO  19:40:19,755 - #19 3
+INFO  19:40:19,756 - #5 ;
+INFO  19:40:19,756 - #30 read
+INFO  19:40:19,756 - #6 (
+INFO  19:40:19,756 - #15 a
+INFO  19:40:19,756 - #22 [
+INFO  19:40:19,756 - #19 3
+INFO  19:40:19,757 - #23 ]
+INFO  19:40:19,757 - #7 )
+INFO  19:40:19,757 - #5 ;
+INFO  19:40:19,757 - #4 }
+INFO  19:40:19,757 - #4 }
+INFO  19:40:19,777 - Deklarisana promenljiva a na liniji 2
+INFO  19:40:19,777 - Deklarisana promenljiva x na liniji 2
+ERROR 19:40:19,778 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 8
+INFO  19:40:19,778 - Print calls = 0

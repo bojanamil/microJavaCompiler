@@ -1,0 +1,59 @@
+INFO  12:53:54,178 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:53:54,235 - #2 program
+INFO  12:53:54,235 - #15 MJProgram
+INFO  12:53:54,235 - #15 int
+INFO  12:53:54,237 - #15 x
+INFO  12:53:54,238 - #5 ;
+INFO  12:53:54,239 - #18 const
+INFO  12:53:54,240 - #15 int
+INFO  12:53:54,240 - #15 y
+INFO  12:53:54,240 - #13 =
+INFO  12:53:54,241 - #19 4
+INFO  12:53:54,241 - #5 ;
+INFO  12:53:54,241 - #15 int
+INFO  12:53:54,243 - #15 z
+INFO  12:53:54,243 - #5 ;
+INFO  12:53:54,243 - #3 {
+INFO  12:53:54,243 - #15 int
+INFO  12:53:54,244 - #15 k
+INFO  12:53:54,244 - #6 (
+INFO  12:53:54,244 - #7 )
+INFO  12:53:54,246 - #15 int
+INFO  12:53:54,246 - #15 o
+INFO  12:53:54,247 - #5 ;
+INFO  12:53:54,247 - #15 int
+INFO  12:53:54,247 - #15 p
+INFO  12:53:54,247 - #5 ;
+INFO  12:53:54,247 - #3 {
+INFO  12:53:54,247 - #9 print
+INFO  12:53:54,248 - #6 (
+INFO  12:53:54,248 - #19 2
+INFO  12:53:54,248 - #7 )
+INFO  12:53:54,249 - #5 ;
+INFO  12:53:54,249 - #10 return
+INFO  12:53:54,249 - #19 2
+INFO  12:53:54,249 - #5 ;
+INFO  12:53:54,249 - #4 }
+INFO  12:53:54,249 - #14 void
+INFO  12:53:54,251 - #15 main
+INFO  12:53:54,251 - #6 (
+INFO  12:53:54,251 - #7 )
+INFO  12:53:54,251 - #3 {
+INFO  12:53:54,251 - #15 x
+INFO  12:53:54,252 - #13 =
+INFO  12:53:54,252 - #19 8
+INFO  12:53:54,252 - #5 ;
+INFO  12:53:54,252 - #15 k
+INFO  12:53:54,253 - #6 (
+INFO  12:53:54,253 - #7 )
+INFO  12:53:54,254 - #5 ;
+INFO  12:53:54,254 - #4 }
+INFO  12:53:54,254 - #4 }
+INFO  12:53:54,273 - Deklarisana promenljiva x na liniji 2
+INFO  12:53:54,273 - Deklarisana promenljiva z na liniji 4
+INFO  12:53:54,274 - Deklarisana promenljiva o na liniji 7
+INFO  12:53:54,274 - Deklarisana promenljiva p na liniji 7
+INFO  12:53:54,274 - Pronadjen poziv funkcije k na liniji 26
+INFO  12:53:54,274 - Print calls = 1
+INFO  12:53:54,275 - Generating bytecode file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:53:54,290 - Parsiranje uspesno zavrseno!

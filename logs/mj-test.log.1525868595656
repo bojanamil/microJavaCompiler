@@ -1,0 +1,40 @@
+INFO  14:23:05,863 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:23:05,927 - #2 program
+INFO  14:23:05,928 - #15 MJProgram
+INFO  14:23:05,928 - #15 int
+INFO  14:23:05,929 - #15 y
+INFO  14:23:05,930 - #5 ;
+INFO  14:23:05,930 - #3 {
+INFO  14:23:05,931 - #15 int
+INFO  14:23:05,932 - #15 fja
+INFO  14:23:05,932 - #6 (
+INFO  14:23:05,932 - #15 int
+INFO  14:23:05,932 - #15 x
+INFO  14:23:05,932 - #7 )
+INFO  14:23:05,933 - #15 int
+INFO  14:23:05,934 - #15 y
+INFO  14:23:05,934 - #5 ;
+INFO  14:23:05,934 - #3 {
+INFO  14:23:05,934 - #10 return
+INFO  14:23:05,935 - #19 5
+INFO  14:23:05,936 - #5 ;
+INFO  14:23:05,936 - #4 }
+INFO  14:23:05,937 - #14 void
+INFO  14:23:05,939 - #15 main
+INFO  14:23:05,939 - #6 (
+INFO  14:23:05,939 - #7 )
+INFO  14:23:05,940 - #3 {
+INFO  14:23:05,940 - #15 fja
+INFO  14:23:05,940 - #6 (
+INFO  14:23:05,941 - #19 3
+INFO  14:23:05,941 - #7 )
+INFO  14:23:05,941 - #5 ;
+INFO  14:23:05,941 - #4 }
+INFO  14:23:05,941 - #4 }
+INFO  14:23:05,960 - Deklarisana promenljiva y na liniji 2
+INFO  14:23:05,961 - Deklarisana promenljiva x na liniji 5
+INFO  14:23:05,961 - Deklarisana promenljiva y na liniji 5
+INFO  14:23:05,962 - Pronadjen poziv funkcije fja na liniji 10
+INFO  14:23:05,962 - Print calls = 0
+INFO  14:23:05,963 - Generating bytecode file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  14:23:05,974 - Parsiranje uspesno zavrseno!

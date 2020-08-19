@@ -1,0 +1,20 @@
+INFO  21:32:48,775 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:32:48,873 - #2 program
+INFO  21:32:48,873 - #15 MJProgram
+INFO  21:32:48,873 - #3 {
+INFO  21:32:48,874 - #14 void
+INFO  21:32:48,875 - #15 main
+INFO  21:32:48,875 - #6 (
+INFO  21:32:48,876 - #7 )
+INFO  21:32:48,877 - #3 {
+INFO  21:32:48,878 - #15 x
+INFO  21:32:48,880 - #22 [
+INFO  21:32:48,880 - #19 2
+INFO  21:32:48,880 - #23 ]
+INFO  21:32:48,881 - #13 =
+INFO  21:32:48,881 - #19 3
+INFO  21:32:48,881 - #5 ;
+INFO  21:32:48,882 - #4 }
+INFO  21:32:48,882 - #4 }
+ERROR 21:32:51,700 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom x na liniji 9
+ERROR 21:33:36,744 - Semanticka greska: tip od noObj mora biti Array na liniji 9

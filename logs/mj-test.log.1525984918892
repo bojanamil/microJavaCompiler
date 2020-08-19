@@ -1,0 +1,22 @@
+INFO  22:41:02,074 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:41:02,140 - #2 program
+INFO  22:41:02,140 - #15 MJProgram
+INFO  22:41:02,140 - #15 int
+INFO  22:41:02,142 - #15 x
+INFO  22:41:02,143 - #5 ;
+INFO  22:41:02,144 - #3 {
+INFO  22:41:02,145 - #14 void
+INFO  22:41:02,146 - #15 main
+INFO  22:41:02,146 - #6 (
+INFO  22:41:02,146 - #7 )
+INFO  22:41:02,147 - #3 {
+INFO  22:41:02,148 - #15 x
+INFO  22:41:02,149 - #13 =
+INFO  22:41:02,149 - #19 2
+INFO  22:41:02,149 - #11 +
+INFO  22:41:02,150 - #5 ;
+ERROR 22:41:02,150 - 
+Sintaksna greska na liniji 7
+INFO  22:41:02,150 - #4 }
+INFO  22:41:02,150 - #4 }
+DEBUG 22:41:02,151 - Uspesan oporavak od greske pri dodeli vrednosti.

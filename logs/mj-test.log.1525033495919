@@ -1,0 +1,66 @@
+INFO  22:22:33,532 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:22:33,594 - #2 program
+INFO  22:22:33,594 - #15 MJProgram
+INFO  22:22:33,594 - #15 int
+INFO  22:22:33,595 - #15 x
+INFO  22:22:33,596 - #5 ;
+INFO  22:22:33,596 - #15 int
+INFO  22:22:33,598 - #15 y
+INFO  22:22:33,598 - #5 ;
+INFO  22:22:33,598 - #3 {
+INFO  22:22:33,598 - #15 int
+INFO  22:22:33,599 - #15 k
+INFO  22:22:33,599 - #6 (
+INFO  22:22:33,599 - #7 )
+INFO  22:22:33,600 - #15 int
+INFO  22:22:33,601 - #15 c
+INFO  22:22:33,601 - #5 ;
+INFO  22:22:33,601 - #3 {
+INFO  22:22:33,602 - #15 c
+INFO  22:22:33,603 - #13 =
+INFO  22:22:33,603 - #19 1
+INFO  22:22:33,603 - #5 ;
+INFO  22:22:33,605 - #10 return
+INFO  22:22:33,605 - #15 c
+INFO  22:22:33,605 - #11 +
+INFO  22:22:33,606 - #19 2
+INFO  22:22:33,607 - #5 ;
+INFO  22:22:33,607 - #4 }
+INFO  22:22:33,607 - #14 void
+INFO  22:22:33,608 - #15 main
+INFO  22:22:33,608 - #6 (
+INFO  22:22:33,609 - #7 )
+INFO  22:22:33,609 - #3 {
+INFO  22:22:33,609 - #15 y
+INFO  22:22:33,609 - #13 =
+INFO  22:22:33,609 - #19 2
+INFO  22:22:33,609 - #5 ;
+INFO  22:22:33,609 - #15 x
+INFO  22:22:33,609 - #13 =
+INFO  22:22:33,609 - #15 y
+INFO  22:22:33,609 - #11 +
+INFO  22:22:33,609 - #19 2
+INFO  22:22:33,610 - #5 ;
+INFO  22:22:33,610 - #15 y
+INFO  22:22:33,610 - #13 =
+INFO  22:22:33,610 - #15 k
+INFO  22:22:33,610 - #6 (
+INFO  22:22:33,610 - #7 )
+INFO  22:22:33,611 - #11 +
+INFO  22:22:33,612 - #19 3
+INFO  22:22:33,612 - #5 ;
+INFO  22:22:33,612 - #9 print
+INFO  22:22:33,612 - #6 (
+INFO  22:22:33,612 - #15 y
+INFO  22:22:33,612 - #7 )
+INFO  22:22:33,612 - #5 ;
+INFO  22:22:33,613 - #10 return
+INFO  22:22:33,613 - #19 0
+INFO  22:22:33,613 - #5 ;
+INFO  22:22:33,613 - #4 }
+INFO  22:22:33,613 - #4 }
+INFO  22:22:33,631 - Deklarisana promenljiva x na liniji 2
+INFO  22:22:33,631 - Deklarisana promenljiva y na liniji 2
+INFO  22:22:33,631 - Deklarisana promenljiva c na liniji 5
+ERROR 22:22:33,632 - qqqqq na liniji 13
+INFO  22:22:33,632 - Print calls = 1

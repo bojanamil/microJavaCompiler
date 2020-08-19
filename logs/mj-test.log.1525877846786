@@ -1,0 +1,23 @@
+INFO  16:55:37,372 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:55:37,436 - #2 program
+INFO  16:55:37,437 - #15 MJProgram
+INFO  16:55:37,437 - #15 int
+INFO  16:55:37,438 - #15 y
+INFO  16:55:37,439 - #5 ;
+INFO  16:55:37,439 - #3 {
+INFO  16:55:37,440 - #14 void
+INFO  16:55:37,441 - #15 main
+INFO  16:55:37,441 - #6 (
+INFO  16:55:37,442 - #7 )
+INFO  16:55:37,443 - #3 {
+INFO  16:55:37,444 - #15 y
+INFO  16:55:37,445 - #13 =
+INFO  16:55:37,445 - #19 3
+INFO  16:55:37,445 - #5 ;
+INFO  16:55:37,446 - #15 if
+INFO  16:55:37,447 - #6 (
+INFO  16:55:37,447 - #19 2
+INFO  16:55:37,447 - #37 >
+ERROR 16:55:37,448 - 
+Sintaksna greska na liniji 13
+ERROR 16:55:37,448 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

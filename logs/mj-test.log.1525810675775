@@ -1,0 +1,87 @@
+INFO  22:17:25,491 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:17:25,562 - #2 program
+INFO  22:17:25,562 - #15 MJProgram
+INFO  22:17:25,563 - #15 int
+INFO  22:17:25,564 - #15 x
+INFO  22:17:25,565 - #8 ,
+INFO  22:17:25,565 - #15 y
+INFO  22:17:25,565 - #8 ,
+INFO  22:17:25,565 - #15 z
+INFO  22:17:25,565 - #5 ;
+INFO  22:17:25,566 - #3 {
+INFO  22:17:25,567 - #15 int
+INFO  22:17:25,567 - #15 f
+INFO  22:17:25,567 - #6 (
+INFO  22:17:25,568 - #15 int
+INFO  22:17:25,568 - #15 g
+INFO  22:17:25,568 - #8 ,
+INFO  22:17:25,568 - #15 int
+INFO  22:17:25,569 - #15 o
+INFO  22:17:25,569 - #7 )
+INFO  22:17:25,569 - #15 char
+INFO  22:17:25,570 - #15 x
+INFO  22:17:25,570 - #5 ;
+INFO  22:17:25,570 - #3 {
+INFO  22:17:25,571 - #15 x
+INFO  22:17:25,572 - #13 =
+INFO  22:17:25,572 - #20 a
+INFO  22:17:25,572 - #5 ;
+INFO  22:17:25,573 - #10 return
+INFO  22:17:25,573 - #19 4
+INFO  22:17:25,573 - #5 ;
+INFO  22:17:25,573 - #4 }
+INFO  22:17:25,574 - #15 bool
+INFO  22:17:25,575 - #15 func
+INFO  22:17:25,575 - #6 (
+INFO  22:17:25,575 - #7 )
+INFO  22:17:25,575 - #3 {
+INFO  22:17:25,576 - #10 return
+INFO  22:17:25,576 - #21 true
+INFO  22:17:25,576 - #5 ;
+INFO  22:17:25,576 - #4 }
+INFO  22:17:25,576 - #14 void
+INFO  22:17:25,576 - #15 fja
+INFO  22:17:25,576 - #6 (
+INFO  22:17:25,577 - #7 )
+INFO  22:17:25,577 - #3 {
+INFO  22:17:25,577 - #4 }
+INFO  22:17:25,577 - #14 void
+INFO  22:17:25,577 - #15 main
+INFO  22:17:25,577 - #6 (
+INFO  22:17:25,577 - #7 )
+INFO  22:17:25,578 - #3 {
+INFO  22:17:25,578 - #15 fja
+INFO  22:17:25,578 - #6 (
+INFO  22:17:25,578 - #7 )
+INFO  22:17:25,579 - #5 ;
+INFO  22:17:25,580 - #15 x
+INFO  22:17:25,580 - #13 =
+INFO  22:17:25,580 - #15 f
+INFO  22:17:25,580 - #6 (
+INFO  22:17:25,580 - #19 4
+INFO  22:17:25,580 - #8 ,
+INFO  22:17:25,580 - #21 true
+INFO  22:17:25,580 - #7 )
+INFO  22:17:25,581 - #11 +
+INFO  22:17:25,581 - #19 3
+INFO  22:17:25,584 - #5 ;
+INFO  22:17:25,585 - #15 x
+INFO  22:17:25,585 - #13 =
+INFO  22:17:25,588 - #15 func
+INFO  22:17:25,588 - #6 (
+INFO  22:17:25,588 - #7 )
+INFO  22:17:25,588 - #5 ;
+INFO  22:17:25,588 - #4 }
+INFO  22:17:25,588 - #4 }
+INFO  22:17:25,610 - Deklarisana promenljiva x na liniji 2
+INFO  22:17:25,610 - Deklarisana promenljiva y na liniji 2
+INFO  22:17:25,610 - Deklarisana promenljiva z na liniji 2
+INFO  22:17:25,610 - Deklarisana promenljiva g na liniji 4
+INFO  22:17:25,611 - Deklarisana promenljiva o na liniji 4
+INFO  22:17:25,611 - Deklarisana promenljiva x na liniji 4
+INFO  22:17:25,611 - Pronadjen poziv funkcije fja na liniji 16
+INFO  22:17:25,611 - Pronadjen poziv funkcije f na liniji 18
+INFO  22:17:25,611 - Pronadjen poziv funkcije func na liniji 20
+ERROR 22:17:25,611 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 20
+INFO  22:17:25,612 - Print calls = 0
+ERROR 22:17:25,613 - Parsiranje NIJE uspesno zavrseno!

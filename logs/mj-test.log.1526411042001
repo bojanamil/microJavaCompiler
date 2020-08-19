@@ -1,0 +1,73 @@
+INFO  21:01:36,097 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:01:36,589 - #2 program
+INFO  21:01:36,589 - #15 MJProgram
+INFO  21:01:36,589 - #15 int
+INFO  21:01:36,605 - #15 x
+INFO  21:01:36,605 - #5 ;
+INFO  21:01:36,605 - #3 {
+INFO  21:01:36,620 - #15 int
+INFO  21:01:36,620 - #15 fja3
+INFO  21:01:36,620 - #6 (
+INFO  21:01:36,620 - #15 int
+INFO  21:01:36,620 - #15 aa
+INFO  21:01:36,620 - #8 ,
+INFO  21:01:36,620 - #15 char
+INFO  21:01:36,620 - #15 b
+INFO  21:01:36,620 - #8 ,
+INFO  21:01:36,620 - #15 int
+INFO  21:01:36,620 - #15 c
+INFO  21:01:36,620 - #7 )
+INFO  21:01:36,620 - #3 {
+INFO  21:01:36,620 - #10 return
+INFO  21:01:36,620 - #19 4
+INFO  21:01:36,636 - #5 ;
+INFO  21:01:36,636 - #4 }
+INFO  21:01:36,636 - #14 void
+INFO  21:01:36,636 - #15 main
+INFO  21:01:36,636 - #6 (
+INFO  21:01:36,636 - #7 )
+INFO  21:01:36,636 - #15 int
+INFO  21:01:36,636 - #15 x4
+INFO  21:01:36,636 - #5 ;
+INFO  21:01:36,636 - #15 char
+INFO  21:01:36,636 - #15 x5
+INFO  21:01:36,636 - #5 ;
+INFO  21:01:36,636 - #15 bool
+INFO  21:01:36,636 - #15 x6
+INFO  21:01:36,636 - #22 [
+INFO  21:01:36,636 - #23 ]
+INFO  21:01:36,636 - #5 ;
+INFO  21:01:36,636 - #3 {
+INFO  21:01:36,636 - #9 print
+INFO  21:01:36,636 - #6 (
+INFO  21:01:36,636 - #19 3
+INFO  21:01:36,636 - #7 )
+INFO  21:01:36,636 - #5 ;
+INFO  21:01:36,636 - #15 x
+INFO  21:01:36,636 - #31 ++
+INFO  21:01:36,636 - #5 ;
+INFO  21:01:36,636 - #15 x
+INFO  21:01:36,636 - #13 =
+INFO  21:01:36,636 - #15 fja3
+INFO  21:01:36,636 - #6 (
+INFO  21:01:36,636 - #19 2
+INFO  21:01:36,636 - #8 ,
+INFO  21:01:36,636 - #20 c
+INFO  21:01:36,636 - #8 ,
+INFO  21:01:36,636 - #15 fja3
+INFO  21:01:36,636 - #6 (
+INFO  21:01:36,636 - #19 2
+INFO  21:01:36,636 - #8 ,
+INFO  21:01:36,636 - #20 c
+INFO  21:01:36,636 - #8 ,
+INFO  21:01:36,636 - #19 4
+INFO  21:01:36,636 - #7 )
+INFO  21:01:36,636 - #7 )
+INFO  21:01:36,636 - #5 ;
+INFO  21:01:36,636 - #4 }
+INFO  21:01:36,636 - #4 }
+INFO  21:01:36,980 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  21:01:36,980 - Deklarisan je formalni parametar aa na liniji 22
+INFO  21:01:36,980 - Deklarisan je formalni parametar b na liniji 22
+INFO  21:01:36,980 - Deklarisan je formalni parametar c na liniji 22
+INFO  21:01:51,957 - Deklarisana je lokalna promenljiva x4 na liniji 30

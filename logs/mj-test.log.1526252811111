@@ -1,0 +1,133 @@
+INFO  00:52:21,499 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:52:21,588 - #2 program
+INFO  00:52:21,589 - #15 MJProgram
+INFO  00:52:21,589 - #15 int
+INFO  00:52:21,590 - #15 x
+INFO  00:52:21,591 - #5 ;
+INFO  00:52:21,592 - #18 const
+INFO  00:52:21,593 - #15 int
+INFO  00:52:21,593 - #15 c1
+INFO  00:52:21,593 - #13 =
+INFO  00:52:21,594 - #19 1
+INFO  00:52:21,594 - #5 ;
+INFO  00:52:21,595 - #15 char
+INFO  00:52:21,596 - #15 y
+INFO  00:52:21,596 - #5 ;
+INFO  00:52:21,597 - #18 const
+INFO  00:52:21,597 - #15 char
+INFO  00:52:21,597 - #15 c2
+INFO  00:52:21,597 - #13 =
+INFO  00:52:21,598 - #20 c
+INFO  00:52:21,598 - #5 ;
+INFO  00:52:21,598 - #15 bool
+INFO  00:52:21,599 - #15 z
+INFO  00:52:21,599 - #5 ;
+INFO  00:52:21,599 - #18 const
+INFO  00:52:21,599 - #15 bool
+INFO  00:52:21,599 - #15 c3
+INFO  00:52:21,599 - #13 =
+INFO  00:52:21,600 - #21 false
+INFO  00:52:21,600 - #5 ;
+INFO  00:52:21,600 - #3 {
+INFO  00:52:21,600 - #15 int
+INFO  00:52:21,601 - #15 fja1
+INFO  00:52:21,601 - #6 (
+INFO  00:52:21,601 - #15 int
+INFO  00:52:21,601 - #15 ff
+INFO  00:52:21,602 - #8 ,
+INFO  00:52:21,602 - #15 int
+INFO  00:52:21,603 - #15 gg
+INFO  00:52:21,603 - #7 )
+INFO  00:52:21,603 - #15 int
+INFO  00:52:21,605 - #15 xx
+INFO  00:52:21,605 - #5 ;
+INFO  00:52:21,605 - #15 int
+INFO  00:52:21,605 - #15 yy
+INFO  00:52:21,605 - #5 ;
+INFO  00:52:21,606 - #3 {
+INFO  00:52:21,607 - #10 return
+INFO  00:52:21,608 - #19 2
+INFO  00:52:21,608 - #5 ;
+INFO  00:52:21,609 - #4 }
+INFO  00:52:21,609 - #15 int
+INFO  00:52:21,610 - #15 fja2
+INFO  00:52:21,610 - #6 (
+INFO  00:52:21,610 - #7 )
+INFO  00:52:21,611 - #15 int
+INFO  00:52:21,611 - #15 xxx
+INFO  00:52:21,611 - #5 ;
+INFO  00:52:21,611 - #15 int
+INFO  00:52:21,612 - #15 yyy
+INFO  00:52:21,612 - #5 ;
+INFO  00:52:21,612 - #3 {
+INFO  00:52:21,612 - #10 return
+INFO  00:52:21,612 - #19 3
+INFO  00:52:21,612 - #5 ;
+INFO  00:52:21,612 - #4 }
+INFO  00:52:21,613 - #14 void
+INFO  00:52:21,613 - #15 fja3
+INFO  00:52:21,613 - #6 (
+INFO  00:52:21,613 - #15 int
+INFO  00:52:21,613 - #15 aa
+INFO  00:52:21,613 - #8 ,
+INFO  00:52:21,614 - #15 int
+INFO  00:52:21,614 - #15 b
+INFO  00:52:21,614 - #7 )
+INFO  00:52:21,615 - #3 {
+INFO  00:52:21,615 - #4 }
+INFO  00:52:21,615 - #14 void
+INFO  00:52:21,615 - #15 main
+INFO  00:52:21,615 - #6 (
+INFO  00:52:21,615 - #7 )
+INFO  00:52:21,615 - #15 int
+INFO  00:52:21,615 - #15 x4
+INFO  00:52:21,615 - #5 ;
+INFO  00:52:21,615 - #15 char
+INFO  00:52:21,616 - #15 x5
+INFO  00:52:21,616 - #5 ;
+INFO  00:52:21,616 - #15 bool
+INFO  00:52:21,616 - #15 x6
+INFO  00:52:21,616 - #5 ;
+INFO  00:52:21,616 - #3 {
+INFO  00:52:21,616 - #9 print
+INFO  00:52:21,616 - #6 (
+INFO  00:52:21,616 - #19 3
+INFO  00:52:21,616 - #7 )
+INFO  00:52:21,616 - #5 ;
+INFO  00:52:21,617 - #15 x
+INFO  00:52:21,617 - #13 =
+INFO  00:52:21,617 - #15 fja
+INFO  00:52:21,617 - #6 (
+INFO  00:52:21,617 - #19 2
+INFO  00:52:21,617 - #8 ,
+INFO  00:52:21,618 - #19 3
+INFO  00:52:21,618 - #7 )
+INFO  00:52:21,618 - #5 ;
+INFO  00:52:21,619 - #15 fja3
+INFO  00:52:21,619 - #6 (
+INFO  00:52:21,619 - #19 1
+INFO  00:52:21,619 - #8 ,
+INFO  00:52:21,619 - #19 2
+INFO  00:52:21,619 - #7 )
+INFO  00:52:21,619 - #5 ;
+INFO  00:52:21,620 - #4 }
+INFO  00:52:21,620 - #4 }
+INFO  00:52:21,719 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  00:52:24,818 - Deklarisana je konstanta c1 na liniji 4
+INFO  00:52:27,340 - Deklarisana je globalna promenljiva y na liniji 5
+INFO  00:52:29,109 - Deklarisana je konstanta c2 na liniji 6
+INFO  00:52:32,524 - Deklarisana je globalna promenljiva z na liniji 7
+INFO  00:52:34,267 - Deklarisana je konstanta c3 na liniji 8
+INFO  00:52:36,571 - Deklarisan je formalni parametar ff na liniji 11
+INFO  00:52:36,573 - Deklarisan je formalni parametar gg na liniji 11
+INFO  00:52:38,047 - Deklarisana je lokalna promenljiva xx na liniji 11
+INFO  00:52:39,691 - Deklarisana je lokalna promenljiva yy na liniji 12
+INFO  00:52:44,187 - Deklarisana je lokalna promenljiva xxx na liniji 16
+INFO  00:52:45,701 - Deklarisana je lokalna promenljiva yyy na liniji 18
+INFO  00:52:49,622 - Deklarisan je formalni parametar aa na liniji 22
+INFO  00:52:49,624 - Deklarisan je formalni parametar b na liniji 22
+INFO  00:53:08,501 - Deklarisana je lokalna promenljiva x4 na liniji 25
+INFO  00:53:10,683 - Deklarisana je lokalna promenljiva x5 na liniji 25
+INFO  00:53:12,824 - Deklarisana je lokalna promenljiva x6 na liniji 25
+ERROR 00:53:18,492 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom fja na liniji 28
+INFO  00:53:43,380 - Pronadjen poziv funkcije fja3 na liniji 29

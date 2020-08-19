@@ -1,0 +1,109 @@
+INFO  18:00:43,014 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:00:43,061 - #2 program
+INFO  18:00:43,061 - #15 MJProgram
+INFO  18:00:43,061 - #15 int
+INFO  18:00:43,061 - #15 x
+INFO  18:00:43,061 - #5 ;
+INFO  18:00:43,061 - #3 {
+INFO  18:00:43,076 - #15 int
+INFO  18:00:43,076 - #15 fja5
+INFO  18:00:43,076 - #6 (
+INFO  18:00:43,076 - #15 int
+INFO  18:00:43,076 - #15 x
+INFO  18:00:43,076 - #8 ,
+INFO  18:00:43,076 - #15 int
+INFO  18:00:43,076 - #15 y
+INFO  18:00:43,076 - #7 )
+INFO  18:00:43,076 - #3 {
+INFO  18:00:43,076 - #10 return
+INFO  18:00:43,076 - #19 3
+INFO  18:00:43,076 - #5 ;
+INFO  18:00:43,076 - #4 }
+INFO  18:00:43,076 - #14 void
+INFO  18:00:43,076 - #15 main
+INFO  18:00:43,076 - #6 (
+INFO  18:00:43,076 - #7 )
+INFO  18:00:43,076 - #15 int
+INFO  18:00:43,076 - #15 x4
+INFO  18:00:43,076 - #5 ;
+INFO  18:00:43,092 - #15 char
+INFO  18:00:43,092 - #15 x5
+INFO  18:00:43,092 - #5 ;
+INFO  18:00:43,092 - #15 bool
+INFO  18:00:43,092 - #15 x6
+INFO  18:00:43,092 - #22 [
+INFO  18:00:43,092 - #23 ]
+INFO  18:00:43,092 - #5 ;
+INFO  18:00:43,092 - #3 {
+INFO  18:00:43,092 - #9 print
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #19 3
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #5 ;
+INFO  18:00:43,092 - #15 x
+INFO  18:00:43,092 - #31 ++
+INFO  18:00:43,092 - #5 ;
+INFO  18:00:43,092 - #15 nepostojeca_fja
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #5 ;
+INFO  18:00:43,092 - #15 x
+INFO  18:00:43,092 - #13 =
+INFO  18:00:43,092 - #15 fja5
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #15 fja5
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #19 2
+INFO  18:00:43,092 - #8 ,
+INFO  18:00:43,092 - #15 fja5
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #19 2
+INFO  18:00:43,092 - #8 ,
+INFO  18:00:43,092 - #19 3
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #8 ,
+INFO  18:00:43,092 - #19 3
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #5 ;
+INFO  18:00:43,092 - #15 x
+INFO  18:00:43,092 - #13 =
+INFO  18:00:43,092 - #15 fja5
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #15 fja5
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #19 2
+INFO  18:00:43,092 - #8 ,
+INFO  18:00:43,092 - #19 3
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #8 ,
+INFO  18:00:43,092 - #15 fja5
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #19 2
+INFO  18:00:43,092 - #8 ,
+INFO  18:00:43,092 - #15 fja5
+INFO  18:00:43,092 - #6 (
+INFO  18:00:43,092 - #19 2
+INFO  18:00:43,092 - #8 ,
+INFO  18:00:43,092 - #19 3
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #7 )
+INFO  18:00:43,092 - #5 ;
+INFO  18:00:43,092 - #4 }
+INFO  18:00:43,092 - #4 }
+INFO  18:00:43,123 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  18:00:43,123 - Deklarisan je formalni parametar x na liniji 30
+INFO  18:00:43,123 - Deklarisan je formalni parametar y na liniji 30
+INFO  18:00:43,123 - Deklarisana je lokalna promenljiva x4 na liniji 34
+INFO  18:00:43,123 - Deklarisana je lokalna promenljiva x5 na liniji 34
+INFO  18:00:43,123 - Deklarisana je lokalna promenljiva x6 na liniji 34
+ERROR 18:00:43,123 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom nepostojeca_fja na liniji 48
+INFO  18:00:43,123 - Pronadjen poziv funkcije fja5 na liniji 52
+INFO  18:00:43,123 - Pronadjen poziv funkcije fja5 na liniji 50
+INFO  18:00:43,123 - Pronadjen poziv funkcije fja5 na liniji 49
+INFO  18:00:43,123 - Pronadjen poziv funkcije fja5 na liniji 57
+INFO  18:00:43,123 - Pronadjen poziv funkcije fja5 na liniji 59
+INFO  18:00:43,123 - Pronadjen poziv funkcije fja5 na liniji 58
+INFO  18:00:43,123 - Pronadjen poziv funkcije fja5 na liniji 56
+INFO  18:00:43,123 - Print calls = 0

@@ -1,0 +1,48 @@
+INFO  20:10:23,637 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:10:23,699 - #2 program
+INFO  20:10:23,699 - #15 MJProgram
+INFO  20:10:23,699 - #15 int
+INFO  20:10:23,701 - #15 x
+INFO  20:10:23,702 - #8 ,
+INFO  20:10:23,702 - #15 y
+INFO  20:10:23,702 - #8 ,
+INFO  20:10:23,702 - #15 z
+INFO  20:10:23,703 - #5 ;
+INFO  20:10:23,703 - #3 {
+INFO  20:10:23,704 - #15 int
+INFO  20:10:23,705 - #15 f
+INFO  20:10:23,705 - #6 (
+INFO  20:10:23,705 - #7 )
+INFO  20:10:23,706 - #3 {
+INFO  20:10:23,707 - #10 return
+INFO  20:10:23,707 - #19 4
+INFO  20:10:23,708 - #5 ;
+INFO  20:10:23,709 - #4 }
+INFO  20:10:23,709 - #14 void
+INFO  20:10:23,711 - #15 fja
+INFO  20:10:23,711 - #6 (
+INFO  20:10:23,711 - #7 )
+INFO  20:10:23,711 - #3 {
+INFO  20:10:23,711 - #4 }
+INFO  20:10:23,711 - #14 void
+INFO  20:10:23,711 - #15 main
+INFO  20:10:23,711 - #6 (
+INFO  20:10:23,711 - #7 )
+INFO  20:10:23,711 - #3 {
+INFO  20:10:23,711 - #15 fja
+INFO  20:10:23,711 - #6 (
+INFO  20:10:23,712 - #7 )
+INFO  20:10:23,712 - #5 ;
+INFO  20:10:23,713 - #15 f
+INFO  20:10:23,713 - #6 (
+INFO  20:10:23,714 - #7 )
+INFO  20:10:23,714 - #5 ;
+INFO  20:10:23,714 - #4 }
+INFO  20:10:23,714 - #4 }
+INFO  20:10:23,732 - Deklarisana promenljiva x na liniji 2
+INFO  20:10:23,732 - Deklarisana promenljiva y na liniji 2
+INFO  20:10:23,733 - Deklarisana promenljiva z na liniji 2
+INFO  20:10:23,733 - Pronadjen poziv funkcije fja na liniji 11
+INFO  20:10:23,733 - Pronadjen poziv funkcije f na liniji 12
+ERROR 20:10:23,733 - Greska na liniji 12 : funkcija f ima povratni tip!
+INFO  20:10:23,733 - Print calls = 0

@@ -1,0 +1,28 @@
+INFO  19:08:44,371 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:08:44,433 - #2 program
+INFO  19:08:44,433 - #15 MJProgram
+INFO  19:08:44,433 - #15 int
+INFO  19:08:44,434 - #15 x
+INFO  19:08:44,435 - #22 [
+INFO  19:08:44,436 - #23 ]
+INFO  19:08:44,436 - #5 ;
+INFO  19:08:44,436 - #3 {
+INFO  19:08:44,437 - #14 void
+INFO  19:08:44,438 - #15 main
+INFO  19:08:44,438 - #6 (
+INFO  19:08:44,439 - #7 )
+INFO  19:08:44,439 - #3 {
+INFO  19:08:44,440 - #15 x
+INFO  19:08:44,441 - #13 =
+INFO  19:08:44,441 - #19 3
+INFO  19:08:44,441 - #5 ;
+INFO  19:08:44,442 - #30 read
+INFO  19:08:44,442 - #6 (
+INFO  19:08:44,442 - #15 a
+INFO  19:08:44,442 - #7 )
+INFO  19:08:44,443 - #5 ;
+INFO  19:08:44,443 - #4 }
+INFO  19:08:44,443 - #4 }
+INFO  19:08:44,460 - Deklarisana promenljiva x na liniji 2
+ERROR 19:08:44,461 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom a na liniji 8
+INFO  19:08:44,461 - Print calls = 0

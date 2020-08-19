@@ -1,0 +1,19 @@
+program MJProgram 
+	int x[];
+	int y;
+	{
+	
+	int fja(){
+		return 4;
+	}
+
+	void main(){
+
+			x=new int[5];
+			y=3;
+			y++;
+			x[4]++;
+			y=x[4];
+			fja();
+  		}
+}

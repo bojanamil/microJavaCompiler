@@ -1,0 +1,56 @@
+INFO  13:04:50,884 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:04:50,962 - #2 program
+INFO  13:04:50,962 - #15 MJProgram
+INFO  13:04:50,962 - #15 int
+INFO  13:04:50,962 - #15 x
+INFO  13:04:50,962 - #5 ;
+INFO  13:04:50,962 - #3 {
+INFO  13:04:50,962 - #15 int
+INFO  13:04:50,962 - #15 fja5
+INFO  13:04:50,962 - #6 (
+INFO  13:04:50,962 - #15 int
+INFO  13:04:50,962 - #8 ,
+ERROR 13:04:50,962 - 
+Sintaksna greska na liniji 30
+INFO  13:04:50,962 - #15 int
+INFO  13:04:50,962 - #8 ,
+INFO  13:04:50,962 - #8 ,
+INFO  13:04:50,962 - #8 ,
+INFO  13:04:50,962 - #7 )
+INFO  13:04:50,962 - #3 {
+INFO  13:04:50,962 - #10 return
+INFO  13:04:50,962 - #19 3
+INFO  13:04:50,978 - #5 ;
+INFO  13:04:50,978 - #4 }
+INFO  13:04:50,978 - #14 void
+INFO  13:04:50,978 - #15 main
+INFO  13:04:50,978 - #6 (
+INFO  13:04:50,978 - #7 )
+INFO  13:04:50,978 - #15 int
+INFO  13:04:50,978 - #15 x4
+INFO  13:04:50,978 - #5 ;
+INFO  13:04:50,978 - #15 char
+INFO  13:04:50,978 - #15 x5
+INFO  13:04:50,978 - #5 ;
+INFO  13:04:50,978 - #15 bool
+INFO  13:04:50,978 - #15 x6
+INFO  13:04:50,978 - #22 [
+INFO  13:04:50,978 - #23 ]
+INFO  13:04:50,978 - #5 ;
+INFO  13:04:50,978 - #3 {
+INFO  13:04:50,978 - #9 print
+INFO  13:04:50,978 - #6 (
+INFO  13:04:50,978 - #19 3
+INFO  13:04:50,978 - #7 )
+INFO  13:04:50,978 - #5 ;
+INFO  13:04:50,978 - #15 x
+INFO  13:04:50,978 - #31 ++
+INFO  13:04:50,978 - #5 ;
+INFO  13:04:50,978 - #4 }
+INFO  13:04:50,978 - #4 }
+INFO  13:04:51,009 - Deklarisana je globalna promenljiva x na liniji 3
+ERROR 13:04:51,009 - Uspesan oporavak od greske pri deklarisanju formalnog parametra funkcije
+INFO  13:04:51,009 - Deklarisana je lokalna promenljiva x4 na liniji 34
+INFO  13:04:51,009 - Deklarisana je lokalna promenljiva x5 na liniji 34
+INFO  13:04:51,009 - Deklarisana je lokalna promenljiva x6 na liniji 34
+INFO  13:04:51,009 - Print calls = 0

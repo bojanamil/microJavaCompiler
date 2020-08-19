@@ -1,0 +1,103 @@
+INFO  17:42:54,241 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:42:54,305 - #2 program
+INFO  17:42:54,306 - #15 MJProgram
+INFO  17:42:54,306 - #15 int
+INFO  17:42:54,307 - #15 x
+INFO  17:42:54,308 - #5 ;
+INFO  17:42:54,308 - #3 {
+INFO  17:42:54,310 - #15 int
+INFO  17:42:54,311 - #15 fja5
+INFO  17:42:54,311 - #6 (
+INFO  17:42:54,311 - #15 int
+INFO  17:42:54,311 - #15 x
+INFO  17:42:54,311 - #8 ,
+INFO  17:42:54,312 - #15 int
+INFO  17:42:54,312 - #15 y
+INFO  17:42:54,312 - #7 )
+INFO  17:42:54,312 - #3 {
+INFO  17:42:54,314 - #10 return
+INFO  17:42:54,316 - #19 3
+INFO  17:42:54,316 - #5 ;
+INFO  17:42:54,317 - #4 }
+INFO  17:42:54,317 - #14 void
+INFO  17:42:54,319 - #15 main
+INFO  17:42:54,319 - #6 (
+INFO  17:42:54,319 - #7 )
+INFO  17:42:54,320 - #15 int
+INFO  17:42:54,320 - #15 x4
+INFO  17:42:54,320 - #5 ;
+INFO  17:42:54,320 - #15 char
+INFO  17:42:54,320 - #15 x5
+INFO  17:42:54,320 - #5 ;
+INFO  17:42:54,320 - #15 bool
+INFO  17:42:54,320 - #15 x6
+INFO  17:42:54,320 - #22 [
+INFO  17:42:54,321 - #23 ]
+INFO  17:42:54,321 - #5 ;
+INFO  17:42:54,321 - #3 {
+INFO  17:42:54,321 - #9 print
+INFO  17:42:54,321 - #6 (
+INFO  17:42:54,321 - #19 3
+INFO  17:42:54,321 - #7 )
+INFO  17:42:54,322 - #5 ;
+INFO  17:42:54,322 - #15 x
+INFO  17:42:54,322 - #31 ++
+INFO  17:42:54,322 - #5 ;
+INFO  17:42:54,323 - #15 nepostojeca_fja
+INFO  17:42:54,323 - #6 (
+INFO  17:42:54,323 - #7 )
+INFO  17:42:54,324 - #5 ;
+INFO  17:42:54,324 - #15 x
+INFO  17:42:54,324 - #13 =
+INFO  17:42:54,324 - #15 fja5
+INFO  17:42:54,324 - #6 (
+INFO  17:42:54,324 - #15 fja5
+INFO  17:42:54,324 - #6 (
+INFO  17:42:54,324 - #19 2
+INFO  17:42:54,324 - #8 ,
+INFO  17:42:54,324 - #15 fja5
+INFO  17:42:54,324 - #6 (
+INFO  17:42:54,324 - #19 2
+INFO  17:42:54,324 - #8 ,
+INFO  17:42:54,324 - #19 3
+INFO  17:42:54,324 - #7 )
+INFO  17:42:54,324 - #7 )
+INFO  17:42:54,324 - #8 ,
+INFO  17:42:54,324 - #19 3
+INFO  17:42:54,324 - #7 )
+INFO  17:42:54,324 - #5 ;
+INFO  17:42:54,324 - #15 x
+INFO  17:42:54,324 - #13 =
+INFO  17:42:54,324 - #15 fja5
+INFO  17:42:54,324 - #6 (
+INFO  17:42:54,324 - #15 fja5
+INFO  17:42:54,324 - #6 (
+INFO  17:42:54,324 - #19 2
+INFO  17:42:54,324 - #8 ,
+INFO  17:42:54,324 - #19 3
+INFO  17:42:54,324 - #7 )
+INFO  17:42:54,324 - #8 ,
+INFO  17:42:54,324 - #15 fja5
+INFO  17:42:54,324 - #6 (
+INFO  17:42:54,324 - #19 2
+INFO  17:42:54,324 - #8 ,
+INFO  17:42:54,324 - #19 3
+INFO  17:42:54,324 - #7 )
+INFO  17:42:54,324 - #7 )
+INFO  17:42:54,324 - #5 ;
+INFO  17:42:54,324 - #4 }
+INFO  17:42:54,324 - #4 }
+INFO  17:42:54,340 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  17:42:54,340 - Deklarisan je formalni parametar x na liniji 30
+INFO  17:42:54,340 - Deklarisan je formalni parametar y na liniji 30
+INFO  17:42:54,340 - Deklarisana je lokalna promenljiva x4 na liniji 34
+INFO  17:42:54,340 - Deklarisana je lokalna promenljiva x5 na liniji 34
+INFO  17:42:54,340 - Deklarisana je lokalna promenljiva x6 na liniji 34
+ERROR 17:42:54,340 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom nepostojeca_fja na liniji 48
+INFO  17:42:54,340 - Pronadjen poziv funkcije fja5 na liniji 52
+INFO  17:42:54,340 - Pronadjen poziv funkcije fja5 na liniji 50
+INFO  17:42:54,340 - Pronadjen poziv funkcije fja5 na liniji 49
+INFO  17:42:54,340 - Pronadjen poziv funkcije fja5 na liniji 57
+INFO  17:42:54,340 - Pronadjen poziv funkcije fja5 na liniji 58
+INFO  17:42:54,340 - Pronadjen poziv funkcije fja5 na liniji 56
+INFO  17:42:54,340 - Print calls = 0

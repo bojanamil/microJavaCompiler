@@ -1,0 +1,36 @@
+INFO  12:19:17,365 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:19:17,444 - #2 program
+INFO  12:19:17,444 - #15 MJProgram
+INFO  12:19:17,444 - #15 int
+INFO  12:19:17,446 - #15 x
+INFO  12:19:17,447 - #5 ;
+INFO  12:19:17,447 - #18 const
+INFO  12:19:17,449 - #15 int
+INFO  12:19:17,450 - #15 y
+INFO  12:19:17,450 - #13 =
+INFO  12:19:17,450 - #19 4
+INFO  12:19:17,450 - #5 ;
+INFO  12:19:17,450 - #15 int
+INFO  12:19:17,452 - #15 z
+INFO  12:19:17,452 - #5 ;
+INFO  12:19:17,452 - #3 {
+INFO  12:19:17,452 - #14 void
+INFO  12:19:17,453 - #15 main
+INFO  12:19:17,454 - #6 (
+INFO  12:19:17,454 - #7 )
+INFO  12:19:17,455 - #3 {
+INFO  12:19:17,456 - #15 x
+INFO  12:19:17,457 - #13 =
+INFO  12:19:17,458 - #19 8
+INFO  12:19:17,458 - #5 ;
+INFO  12:19:17,458 - #9 print
+INFO  12:19:17,459 - #6 (
+INFO  12:19:17,459 - #15 x
+INFO  12:19:17,459 - #7 )
+INFO  12:19:17,459 - #5 ;
+INFO  12:19:17,459 - #4 }
+INFO  12:19:17,459 - #4 }
+INFO  12:19:28,537 - Deklarisana promenljiva x na liniji 2
+INFO  12:19:36,418 - Deklarisana promenljiva z na liniji 4
+INFO  12:20:19,015 - Print calls = 1
+INFO  12:20:22,480 - Generating bytecode file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.obj

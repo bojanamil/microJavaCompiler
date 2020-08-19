@@ -1,0 +1,39 @@
+INFO  19:10:54,333 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:10:54,455 - #2 program
+INFO  19:10:54,456 - #15 MJProgram
+INFO  19:10:54,456 - #15 int
+INFO  19:10:54,458 - #15 x
+INFO  19:10:54,459 - #5 ;
+INFO  19:10:54,459 - #3 {
+INFO  19:10:54,461 - #14 void
+INFO  19:10:54,462 - #15 main
+INFO  19:10:54,463 - #6 (
+INFO  19:10:54,463 - #7 )
+INFO  19:10:54,465 - #3 {
+INFO  19:10:54,466 - #15 if
+INFO  19:10:54,467 - #6 (
+INFO  19:10:54,468 - #19 3
+INFO  19:10:54,468 - #37 >
+ERROR 19:10:54,470 - 
+Sintaksna greska na liniji 8
+ERROR 19:10:54,471 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8
+INFO  19:13:22,532 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:13:22,591 - #2 program
+INFO  19:13:22,591 - #15 MJProgram
+INFO  19:13:22,592 - #15 int
+INFO  19:13:22,593 - #15 x
+INFO  19:13:22,594 - #5 ;
+INFO  19:13:22,595 - #3 {
+INFO  19:13:22,596 - #14 void
+INFO  19:13:22,597 - #15 main
+INFO  19:13:22,597 - #6 (
+INFO  19:13:22,598 - #7 )
+INFO  19:13:22,599 - #3 {
+INFO  19:13:22,600 - #15 if
+INFO  19:13:22,601 - #6 (
+INFO  19:13:22,601 - #21 true
+INFO  19:13:22,601 - #7 )
+INFO  19:13:22,602 - #15 x
+ERROR 19:13:22,602 - 
+Sintaksna greska na liniji 9
+ERROR 19:13:22,602 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

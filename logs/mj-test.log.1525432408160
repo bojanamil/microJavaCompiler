@@ -1,0 +1,12 @@
+INFO  13:13:18,454 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:13:18,516 - #2 program
+INFO  13:13:18,516 - #15 MJProgram
+INFO  13:13:18,517 - #3 {
+INFO  13:13:18,518 - #14 void
+INFO  13:13:18,518 - #15 main
+INFO  13:13:18,519 - #6 (
+INFO  13:13:18,519 - #7 )
+INFO  13:13:18,520 - #3 {
+INFO  13:13:18,520 - #4 }
+INFO  13:13:18,521 - #4 }
+INFO  13:13:18,540 - Print calls = 0

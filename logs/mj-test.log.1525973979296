@@ -1,0 +1,24 @@
+INFO  19:34:21,892 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:34:21,902 - #2 program
+INFO  19:34:21,902 - #15 MJProgram
+INFO  19:34:21,902 - #15 int
+INFO  19:34:21,902 - #15 x
+INFO  19:34:21,902 - #5 ;
+INFO  19:34:21,902 - #3 {
+INFO  19:34:21,903 - #14 void
+INFO  19:34:21,903 - #15 main
+INFO  19:34:21,903 - #6 (
+INFO  19:34:21,903 - #7 )
+INFO  19:34:21,903 - #3 {
+INFO  19:34:21,903 - #16 if
+INFO  19:34:21,903 - #6 (
+INFO  19:34:21,903 - #19 3
+INFO  19:34:21,903 - #37 >
+INFO  19:34:21,903 - #19 4
+INFO  19:34:21,904 - #7 )
+INFO  19:34:21,904 - #15 x
+INFO  19:34:21,904 - #13 =
+INFO  19:34:21,904 - #19 5
+INFO  19:34:21,904 - #5 ;
+INFO  19:34:21,905 - #4 }
+INFO  19:34:21,905 - #4 }

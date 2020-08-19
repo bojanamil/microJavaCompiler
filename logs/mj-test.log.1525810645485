@@ -1,0 +1,88 @@
+INFO  21:32:39,345 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:32:39,472 - #2 program
+INFO  21:32:39,472 - #15 MJProgram
+INFO  21:32:39,472 - #15 int
+INFO  21:32:39,474 - #15 x
+INFO  21:32:39,474 - #8 ,
+INFO  21:32:39,475 - #15 y
+INFO  21:32:39,475 - #8 ,
+INFO  21:32:39,475 - #15 z
+INFO  21:32:39,475 - #5 ;
+INFO  21:32:39,476 - #3 {
+INFO  21:32:39,477 - #15 int
+INFO  21:32:39,478 - #15 f
+INFO  21:32:39,478 - #6 (
+INFO  21:32:39,478 - #15 int
+INFO  21:32:39,478 - #15 g
+INFO  21:32:39,478 - #8 ,
+INFO  21:32:39,479 - #15 int
+INFO  21:32:39,479 - #15 o
+INFO  21:32:39,479 - #7 )
+INFO  21:32:39,480 - #15 char
+INFO  21:32:39,481 - #15 x
+INFO  21:32:39,481 - #5 ;
+INFO  21:32:39,481 - #3 {
+INFO  21:32:39,482 - #15 x
+INFO  21:32:39,482 - #13 =
+INFO  21:32:39,483 - #20 a
+INFO  21:32:39,483 - #5 ;
+INFO  21:32:39,483 - #10 return
+INFO  21:32:39,484 - #19 4
+INFO  21:32:39,484 - #5 ;
+INFO  21:32:39,484 - #4 }
+INFO  21:32:39,484 - #15 bool
+INFO  21:32:39,485 - #15 func
+INFO  21:32:39,486 - #6 (
+INFO  21:32:39,486 - #7 )
+INFO  21:32:39,487 - #3 {
+INFO  21:32:39,487 - #10 return
+INFO  21:32:39,487 - #21 true
+INFO  21:32:39,488 - #5 ;
+INFO  21:32:39,488 - #4 }
+INFO  21:32:39,488 - #14 void
+INFO  21:32:39,488 - #15 fja
+INFO  21:32:39,488 - #6 (
+INFO  21:32:39,488 - #7 )
+INFO  21:32:39,489 - #3 {
+INFO  21:32:39,489 - #4 }
+INFO  21:32:39,489 - #14 void
+INFO  21:32:39,489 - #15 main
+INFO  21:32:39,489 - #6 (
+INFO  21:32:39,489 - #7 )
+INFO  21:32:39,489 - #3 {
+INFO  21:32:39,489 - #15 fja
+INFO  21:32:39,490 - #6 (
+INFO  21:32:39,490 - #7 )
+INFO  21:32:39,491 - #5 ;
+INFO  21:32:39,491 - #15 x
+INFO  21:32:39,491 - #13 =
+INFO  21:32:39,491 - #15 f
+INFO  21:32:39,492 - #6 (
+INFO  21:32:39,492 - #19 4
+INFO  21:32:39,492 - #8 ,
+INFO  21:32:39,492 - #21 true
+INFO  21:32:39,492 - #7 )
+INFO  21:32:39,493 - #11 +
+INFO  21:32:39,493 - #19 3
+INFO  21:32:39,495 - #5 ;
+INFO  21:32:39,495 - #15 x
+INFO  21:32:39,495 - #13 =
+INFO  21:32:39,499 - #15 func
+INFO  21:32:39,499 - #6 (
+INFO  21:32:39,499 - #7 )
+INFO  21:32:39,499 - #5 ;
+INFO  21:32:39,499 - #4 }
+INFO  21:32:39,499 - #4 }
+INFO  21:32:39,517 - Deklarisana promenljiva x na liniji 2
+INFO  21:32:39,517 - Deklarisana promenljiva y na liniji 2
+INFO  21:32:39,517 - Deklarisana promenljiva z na liniji 2
+INFO  21:32:39,517 - Deklarisana promenljiva g na liniji 4
+INFO  21:32:39,517 - Deklarisana promenljiva o na liniji 4
+INFO  21:32:39,517 - Deklarisana promenljiva x na liniji 4
+INFO  21:32:39,518 - Pronadjen poziv funkcije fja na liniji 16
+INFO  21:32:39,518 - Pronadjen poziv funkcije f na liniji 18
+ERROR 21:32:39,519 - proba na liniji 18 : funkcija f ima stvarnih argumenatars.ac.bg.etf.pp1.CounterVisitor$ActualParamCounter@433c675d
+INFO  21:32:39,519 - Pronadjen poziv funkcije func na liniji 20
+ERROR 21:32:39,520 - proba na liniji 20 : funkcija func ima stvarnih argumenatars.ac.bg.etf.pp1.CounterVisitor$ActualParamCounter@3f91beef
+ERROR 21:32:39,520 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 20
+INFO  21:32:39,520 - Print calls = 0

@@ -1,0 +1,22 @@
+INFO  23:15:10,992 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:15:11,066 - #2 program
+INFO  23:15:11,067 - #15 MJProgram
+INFO  23:15:11,067 - #15 int
+INFO  23:15:11,068 - #15 x
+INFO  23:15:11,069 - #5 ;
+INFO  23:15:11,070 - #3 {
+INFO  23:15:11,071 - #14 void
+INFO  23:15:11,073 - #15 main
+INFO  23:15:11,073 - #6 (
+INFO  23:15:11,073 - #7 )
+INFO  23:15:11,074 - #3 {
+INFO  23:15:11,075 - #15 x
+INFO  23:15:11,076 - #13 =
+INFO  23:15:11,077 - #19 5
+INFO  23:15:11,077 - #11 +
+INFO  23:15:11,077 - #5 ;
+ERROR 23:15:11,078 - 
+Sintaksna greska na liniji 7
+INFO  23:15:11,078 - #9 print
+INFO  23:15:11,078 - #6 (
+INFO  23:15:11,078 - #19 3

@@ -1,0 +1,36 @@
+INFO  14:20:24,692 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:20:24,757 - #2 program
+INFO  14:20:24,757 - #15 MJProgram
+INFO  14:20:24,758 - #15 int
+INFO  14:20:24,759 - #15 y
+INFO  14:20:24,760 - #5 ;
+INFO  14:20:24,761 - #3 {
+INFO  14:20:24,762 - #15 int
+INFO  14:20:24,763 - #15 fja
+INFO  14:20:24,763 - #6 (
+INFO  14:20:24,763 - #15 int
+INFO  14:20:24,764 - #15 x
+INFO  14:20:24,764 - #7 )
+INFO  14:20:24,764 - #3 {
+INFO  14:20:24,765 - #10 return
+INFO  14:20:24,766 - #19 5
+INFO  14:20:24,766 - #5 ;
+INFO  14:20:24,767 - #4 }
+INFO  14:20:24,768 - #14 void
+INFO  14:20:24,769 - #15 main
+INFO  14:20:24,769 - #6 (
+INFO  14:20:24,769 - #7 )
+INFO  14:20:24,770 - #3 {
+INFO  14:20:24,770 - #15 fja
+INFO  14:20:24,771 - #6 (
+INFO  14:20:24,771 - #19 3
+INFO  14:20:24,771 - #7 )
+INFO  14:20:24,771 - #5 ;
+INFO  14:20:24,771 - #4 }
+INFO  14:20:24,772 - #4 }
+INFO  14:20:24,790 - Deklarisana promenljiva y na liniji 2
+INFO  14:20:24,790 - Deklarisana promenljiva x na liniji 5
+ERROR 14:20:24,791 - Greska na liniji 10 : ne slazu se tipovi formalnih i stvarnih argumenata u funkciji 
+INFO  14:20:24,791 - Pronadjen poziv funkcije fja na liniji 10
+INFO  14:20:24,791 - Print calls = 0
+ERROR 14:20:24,793 - Parsiranje NIJE uspesno zavrseno!

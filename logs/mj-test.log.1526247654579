@@ -1,0 +1,102 @@
+INFO  01:26:30,446 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:26:30,509 - #2 program
+INFO  01:26:30,509 - #15 MJProgram
+INFO  01:26:30,509 - #15 int
+INFO  01:26:30,510 - #15 x
+INFO  01:26:30,511 - #5 ;
+INFO  01:26:30,512 - #18 const
+INFO  01:26:30,513 - #15 int
+INFO  01:26:30,513 - #15 c1
+INFO  01:26:30,513 - #13 =
+INFO  01:26:30,513 - #19 1
+INFO  01:26:30,513 - #5 ;
+INFO  01:26:30,514 - #15 char
+INFO  01:26:30,516 - #15 y
+INFO  01:26:30,516 - #5 ;
+INFO  01:26:30,516 - #18 const
+INFO  01:26:30,517 - #15 char
+INFO  01:26:30,517 - #15 c2
+INFO  01:26:30,517 - #13 =
+INFO  01:26:30,517 - #20 c
+INFO  01:26:30,517 - #5 ;
+INFO  01:26:30,518 - #15 bool
+INFO  01:26:30,518 - #15 z
+INFO  01:26:30,518 - #5 ;
+INFO  01:26:30,518 - #18 const
+INFO  01:26:30,518 - #15 bool
+INFO  01:26:30,518 - #15 c3
+INFO  01:26:30,519 - #13 =
+INFO  01:26:30,519 - #21 false
+INFO  01:26:30,519 - #5 ;
+INFO  01:26:30,519 - #3 {
+INFO  01:26:30,519 - #15 int
+INFO  01:26:30,520 - #15 fja1
+INFO  01:26:30,520 - #6 (
+INFO  01:26:30,520 - #7 )
+INFO  01:26:30,521 - #15 int
+INFO  01:26:30,522 - #15 xx
+INFO  01:26:30,522 - #5 ;
+INFO  01:26:30,522 - #15 int
+INFO  01:26:30,522 - #15 yy
+INFO  01:26:30,522 - #5 ;
+INFO  01:26:30,522 - #3 {
+INFO  01:26:30,523 - #10 return
+INFO  01:26:30,524 - #19 2
+INFO  01:26:30,525 - #5 ;
+INFO  01:26:30,525 - #4 }
+INFO  01:26:30,526 - #15 int
+INFO  01:26:30,527 - #15 fja2
+INFO  01:26:30,527 - #6 (
+INFO  01:26:30,527 - #7 )
+INFO  01:26:30,527 - #15 int
+INFO  01:26:30,527 - #15 xxx
+INFO  01:26:30,528 - #5 ;
+INFO  01:26:30,528 - #15 int
+INFO  01:26:30,528 - #15 yyy
+INFO  01:26:30,528 - #5 ;
+INFO  01:26:30,528 - #3 {
+INFO  01:26:30,528 - #10 return
+INFO  01:26:30,528 - #19 3
+INFO  01:26:30,528 - #5 ;
+INFO  01:26:30,528 - #4 }
+INFO  01:26:30,528 - #14 void
+INFO  01:26:30,529 - #15 fja3
+INFO  01:26:30,529 - #6 (
+INFO  01:26:30,529 - #7 )
+INFO  01:26:30,529 - #3 {
+INFO  01:26:30,529 - #4 }
+INFO  01:26:30,529 - #14 void
+INFO  01:26:30,529 - #15 main
+INFO  01:26:30,529 - #6 (
+INFO  01:26:30,529 - #7 )
+INFO  01:26:30,529 - #15 int
+INFO  01:26:30,530 - #15 x4
+INFO  01:26:30,530 - #5 ;
+INFO  01:26:30,530 - #15 char
+INFO  01:26:30,530 - #15 x5
+INFO  01:26:30,530 - #5 ;
+INFO  01:26:30,530 - #15 bool
+INFO  01:26:30,530 - #15 x6
+INFO  01:26:30,530 - #5 ;
+INFO  01:26:30,530 - #3 {
+INFO  01:26:30,530 - #9 print
+INFO  01:26:30,530 - #6 (
+INFO  01:26:30,530 - #19 3
+INFO  01:26:30,531 - #7 )
+INFO  01:26:30,531 - #5 ;
+INFO  01:26:30,531 - #4 }
+INFO  01:26:30,531 - #4 }
+INFO  01:26:30,549 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:26:30,549 - Deklarisana je konstanta c1 na liniji 4
+INFO  01:26:30,549 - Deklarisana je globalna promenljiva y na liniji 5
+INFO  01:26:30,549 - Deklarisana je konstanta c2 na liniji 6
+INFO  01:26:30,549 - Deklarisana je globalna promenljiva z na liniji 7
+INFO  01:26:30,549 - Deklarisana je konstanta c3 na liniji 8
+INFO  01:26:30,550 - Deklarisana je lokalna promenljiva xx na liniji 11
+INFO  01:26:30,550 - Deklarisana je lokalna promenljiva yy na liniji 12
+INFO  01:26:30,550 - Deklarisana je lokalna promenljiva xxx na liniji 16
+INFO  01:26:30,550 - Deklarisana je lokalna promenljiva yyy na liniji 18
+INFO  01:26:30,550 - Deklarisana je lokalna promenljiva x4 na liniji 25
+INFO  01:26:30,551 - Deklarisana je lokalna promenljiva x5 na liniji 25
+INFO  01:26:30,551 - Deklarisana je lokalna promenljiva x6 na liniji 25
+INFO  01:26:30,551 - Print calls = 0

@@ -1,0 +1,40 @@
+INFO  23:10:54,441 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:10:54,500 - #2 program
+INFO  23:10:54,500 - #15 MJProgram
+INFO  23:10:54,500 - #15 int
+INFO  23:10:54,501 - #15 x
+INFO  23:10:54,502 - #5 ;
+INFO  23:10:54,503 - #18 const
+INFO  23:10:54,504 - #15 int
+INFO  23:10:54,504 - #15 c1
+INFO  23:10:54,504 - #13 =
+INFO  23:10:54,504 - #19 1
+INFO  23:10:54,504 - #5 ;
+INFO  23:10:54,505 - #18 const
+INFO  23:10:54,506 - #15 int
+INFO  23:10:54,506 - #15 c2
+INFO  23:10:54,507 - #13 =
+INFO  23:10:54,507 - #19 2
+INFO  23:10:54,507 - #8 ,
+INFO  23:10:54,507 - #15 c3
+INFO  23:10:54,507 - #13 =
+INFO  23:10:54,507 - #19 3
+INFO  23:10:54,507 - #5 ;
+INFO  23:10:54,508 - #3 {
+INFO  23:10:54,508 - #14 void
+INFO  23:10:54,509 - #15 main
+INFO  23:10:54,509 - #6 (
+INFO  23:10:54,510 - #7 )
+INFO  23:10:54,510 - #3 {
+INFO  23:10:54,511 - #9 print
+INFO  23:10:54,512 - #6 (
+INFO  23:10:54,512 - #19 3
+INFO  23:10:54,512 - #7 )
+INFO  23:10:54,512 - #5 ;
+INFO  23:10:54,512 - #4 }
+INFO  23:10:54,513 - #4 }
+INFO  23:10:54,539 - Deklarisana promenljiva x na liniji 3
+INFO  23:10:54,539 - Deklarisana je konstanta0 na liniji 4
+INFO  23:10:54,539 - Deklarisana je konstanta0 na liniji 5
+INFO  23:10:54,540 - Deklarisana je konstanta1 na liniji 5
+INFO  23:10:54,540 - Print calls = 0

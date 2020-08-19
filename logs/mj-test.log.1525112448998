@@ -1,0 +1,75 @@
+INFO  19:56:53,176 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:56:53,264 - #2 program
+INFO  19:56:53,264 - #15 MJProgram
+INFO  19:56:53,264 - #15 int
+INFO  19:56:53,267 - #15 a
+INFO  19:56:53,268 - #22 [
+INFO  19:56:53,268 - #23 ]
+INFO  19:56:53,268 - #5 ;
+INFO  19:56:53,269 - #3 {
+INFO  19:56:53,271 - #14 void
+INFO  19:56:53,272 - #15 main
+INFO  19:56:53,272 - #6 (
+INFO  19:56:53,273 - #7 )
+INFO  19:56:53,274 - #3 {
+INFO  19:56:53,275 - #15 a
+INFO  19:56:53,277 - #22 [
+INFO  19:56:53,277 - #19 2
+INFO  19:56:53,277 - #23 ]
+INFO  19:56:53,278 - #13 =
+INFO  19:56:53,279 - #19 3
+INFO  19:56:53,279 - #5 ;
+INFO  19:56:53,279 - #4 }
+INFO  19:56:53,280 - #4 }
+INFO  19:57:01,345 - Deklarisana promenljiva a na liniji 2
+INFO  20:00:02,074 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:00:02,132 - #2 program
+INFO  20:00:02,132 - #15 MJProgram
+INFO  20:00:02,132 - #15 int
+INFO  20:00:02,133 - #15 a
+INFO  20:00:02,134 - #22 [
+INFO  20:00:02,134 - #23 ]
+INFO  20:00:02,134 - #5 ;
+INFO  20:00:02,135 - #3 {
+INFO  20:00:02,136 - #14 void
+INFO  20:00:02,137 - #15 main
+INFO  20:00:02,137 - #6 (
+INFO  20:00:02,137 - #7 )
+INFO  20:00:02,138 - #3 {
+INFO  20:00:02,139 - #15 a
+INFO  20:00:02,140 - #22 [
+INFO  20:00:02,141 - #19 2
+INFO  20:00:02,141 - #23 ]
+INFO  20:00:02,142 - #13 =
+INFO  20:00:02,142 - #19 3
+INFO  20:00:02,142 - #5 ;
+INFO  20:00:02,142 - #4 }
+INFO  20:00:02,143 - #4 }
+INFO  20:00:02,160 - Deklarisana promenljiva a na liniji 2
+INFO  20:00:02,160 - Print calls = 0
+INFO  20:19:40,311 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:19:40,378 - #2 program
+INFO  20:19:40,378 - #15 MJProgram
+INFO  20:19:40,378 - #15 int
+INFO  20:19:40,379 - #15 a
+INFO  20:19:40,380 - #22 [
+INFO  20:19:40,380 - #23 ]
+INFO  20:19:40,380 - #5 ;
+INFO  20:19:40,380 - #3 {
+INFO  20:19:40,381 - #14 void
+INFO  20:19:40,382 - #15 main
+INFO  20:19:40,383 - #6 (
+INFO  20:19:40,383 - #7 )
+INFO  20:19:40,385 - #3 {
+INFO  20:19:40,386 - #15 w
+INFO  20:19:40,386 - #22 [
+INFO  20:19:40,387 - #19 3
+INFO  20:19:40,387 - #23 ]
+INFO  20:19:40,387 - #13 =
+INFO  20:19:40,388 - #19 3
+INFO  20:19:40,388 - #5 ;
+INFO  20:19:40,388 - #4 }
+INFO  20:19:40,389 - #4 }
+INFO  20:19:40,412 - Deklarisana promenljiva a na liniji 2
+ERROR 20:19:40,413 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom w na liniji 10
+ERROR 20:19:40,413 - Semanticka greska: tip od noObj mora biti Array na liniji 10

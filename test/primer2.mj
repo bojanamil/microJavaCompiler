@@ -1,0 +1,47 @@
+program MJProgram 
+	int nizA[];
+	int nizB[];
+	char nizC[];
+	bool nizD[];
+	const int konstanta = 5;
+	int x;
+	int y;
+{
+
+	int fja1(int x, int y)int z;{
+		z= 3*x+y/4+5-6;
+		return z;
+	}
+
+	void main() int x,y; bool b;{
+		x=5;
+		y=1*8%4 + x*5/4-3+4+7/5;
+		b=true;
+		y=fja1(x,y);
+		
+		y= fja1(fja1(1,2),fja1(fja1(1,2),3));
+		nizA = new int[10];
+		nizB = new int[9];
+		nizC = new char[5];
+		
+		nizA[3]= nizB[5]+6;
+		
+		print(x);
+		print(nizA[3]);
+		
+		read(x);
+		read(nizA[3]);
+		
+		y=x;
+		y=nizA[3];
+		
+		y++;
+		nizA[3]--;
+		
+		fja1(2,3);
+		
+		print(y,2);
+		
+	}
+
+}

@@ -1,0 +1,4696 @@
+INFO  22:32:59,697 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:32:59,775 - #2 program
+INFO  22:32:59,776 - #15 MJProgram
+INFO  22:32:59,776 - #15 int
+INFO  22:32:59,777 - #15 x
+INFO  22:32:59,778 - #5 ;
+INFO  22:32:59,779 - #15 bool
+INFO  22:32:59,780 - #15 y
+INFO  22:32:59,780 - #5 ;
+INFO  22:32:59,780 - #15 char
+INFO  22:32:59,780 - #15 z
+INFO  22:32:59,780 - #5 ;
+INFO  22:32:59,781 - #3 {
+INFO  22:32:59,781 - #15 int
+INFO  22:32:59,782 - #15 k
+INFO  22:32:59,782 - #6 (
+INFO  22:32:59,783 - #7 )
+INFO  22:32:59,784 - #15 int
+INFO  22:32:59,785 - #15 c
+INFO  22:32:59,785 - #5 ;
+INFO  22:32:59,785 - #3 {
+INFO  22:32:59,785 - #15 c
+INFO  22:32:59,787 - #13 =
+INFO  22:32:59,787 - #19 1
+INFO  22:32:59,787 - #5 ;
+INFO  22:32:59,788 - #10 return
+INFO  22:32:59,788 - #15 c
+INFO  22:32:59,788 - #11 +
+INFO  22:32:59,789 - #19 2
+INFO  22:32:59,790 - #5 ;
+INFO  22:32:59,791 - #4 }
+INFO  22:32:59,791 - #14 void
+INFO  22:32:59,792 - #15 main
+INFO  22:32:59,792 - #6 (
+INFO  22:32:59,793 - #7 )
+INFO  22:32:59,793 - #3 {
+INFO  22:32:59,793 - #10 return
+INFO  22:32:59,793 - #19 0
+INFO  22:32:59,793 - #5 ;
+INFO  22:32:59,793 - #15 x
+INFO  22:32:59,793 - #13 =
+INFO  22:32:59,793 - #19 3
+INFO  22:32:59,793 - #5 ;
+INFO  22:32:59,794 - #15 y
+INFO  22:32:59,794 - #13 =
+INFO  22:32:59,794 - #21 true
+INFO  22:32:59,794 - #5 ;
+INFO  22:32:59,795 - #15 z
+INFO  22:32:59,795 - #13 =
+INFO  22:32:59,795 - #20 a
+INFO  22:32:59,795 - #5 ;
+INFO  22:32:59,796 - #4 }
+INFO  22:32:59,796 - #4 }
+INFO  22:33:05,698 - Deklarisana promenljiva x na liniji 2
+INFO  22:33:05,700 - Deklarisana promenljiva y na liniji 2
+INFO  22:33:05,701 - Deklarisana promenljiva z na liniji 2
+INFO  22:33:05,703 - Deklarisana promenljiva c na liniji 5
+INFO  22:36:56,191 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:36:56,260 - #2 program
+INFO  22:36:56,260 - #15 MJProgram
+INFO  22:36:56,260 - #15 int
+INFO  22:36:56,262 - #15 x
+INFO  22:36:56,263 - #5 ;
+INFO  22:36:56,263 - #15 bool
+INFO  22:36:56,264 - #15 y
+INFO  22:36:56,264 - #5 ;
+INFO  22:36:56,265 - #15 char
+INFO  22:36:56,265 - #15 z
+INFO  22:36:56,265 - #5 ;
+INFO  22:36:56,265 - #3 {
+INFO  22:36:56,265 - #15 int
+INFO  22:36:56,266 - #15 k
+INFO  22:36:56,267 - #6 (
+INFO  22:36:56,267 - #7 )
+INFO  22:36:56,268 - #15 int
+INFO  22:36:56,269 - #15 c
+INFO  22:36:56,269 - #5 ;
+INFO  22:36:56,269 - #3 {
+INFO  22:36:56,269 - #15 c
+INFO  22:36:56,270 - #13 =
+INFO  22:36:56,271 - #19 1
+INFO  22:36:56,271 - #5 ;
+INFO  22:36:56,272 - #10 return
+INFO  22:36:56,272 - #15 c
+INFO  22:36:56,272 - #11 +
+INFO  22:36:56,272 - #19 2
+INFO  22:36:56,275 - #5 ;
+INFO  22:36:56,275 - #4 }
+INFO  22:36:56,276 - #14 void
+INFO  22:36:56,277 - #15 main
+INFO  22:36:56,278 - #6 (
+INFO  22:36:56,278 - #7 )
+INFO  22:36:56,278 - #3 {
+INFO  22:36:56,278 - #15 y
+INFO  22:36:56,278 - #13 =
+INFO  22:36:56,281 - #21 true
+INFO  22:36:56,281 - #5 ;
+INFO  22:36:56,281 - #15 z
+INFO  22:36:56,282 - #13 =
+INFO  22:36:56,282 - #20 a
+INFO  22:36:56,283 - #5 ;
+INFO  22:36:56,283 - #4 }
+INFO  22:36:56,283 - #4 }
+ERROR 22:37:37,478 - Semanticka greska: tip izraza mora biti Integer  na liniji 17
+ERROR 22:37:42,663 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 17
+ERROR 22:37:48,333 - Semanticka greska: tip izraza mora biti Integer  na liniji 18
+ERROR 22:38:06,976 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 18
+INFO  22:38:46,986 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:38:47,048 - #2 program
+INFO  22:38:47,048 - #15 MJProgram
+INFO  22:38:47,048 - #15 int
+INFO  22:38:47,049 - #15 x
+INFO  22:38:47,050 - #5 ;
+INFO  22:38:47,050 - #15 bool
+INFO  22:38:47,051 - #15 y
+INFO  22:38:47,052 - #5 ;
+INFO  22:38:47,052 - #15 char
+INFO  22:38:47,052 - #15 z
+INFO  22:38:47,052 - #5 ;
+INFO  22:38:47,053 - #3 {
+INFO  22:38:47,053 - #15 int
+INFO  22:38:47,054 - #15 k
+INFO  22:38:47,054 - #6 (
+INFO  22:38:47,054 - #7 )
+INFO  22:38:47,055 - #15 int
+INFO  22:38:47,056 - #15 c
+INFO  22:38:47,056 - #5 ;
+INFO  22:38:47,056 - #3 {
+INFO  22:38:47,057 - #15 c
+INFO  22:38:47,057 - #13 =
+INFO  22:38:47,058 - #19 1
+INFO  22:38:47,058 - #5 ;
+INFO  22:38:47,058 - #10 return
+INFO  22:38:47,059 - #15 c
+INFO  22:38:47,059 - #11 +
+INFO  22:38:47,059 - #19 2
+INFO  22:38:47,060 - #5 ;
+INFO  22:38:47,060 - #4 }
+INFO  22:38:47,061 - #14 void
+INFO  22:38:47,062 - #15 main
+INFO  22:38:47,062 - #6 (
+INFO  22:38:47,062 - #7 )
+INFO  22:38:47,062 - #3 {
+INFO  22:38:47,063 - #15 y
+INFO  22:38:47,063 - #13 =
+INFO  22:38:47,063 - #21 true
+INFO  22:38:47,063 - #5 ;
+INFO  22:38:47,063 - #4 }
+INFO  22:38:47,063 - #4 }
+INFO  22:38:47,082 - Deklarisana promenljiva x na liniji 2
+INFO  22:38:47,085 - Deklarisana promenljiva y na liniji 2
+INFO  22:38:47,085 - Deklarisana promenljiva z na liniji 2
+INFO  22:38:47,086 - Deklarisana promenljiva c na liniji 5
+ERROR 22:38:47,086 - Semanticka greska: tip izraza mora biti Integer  na liniji 12
+ERROR 22:38:47,086 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 12
+ERROR 22:38:47,086 - Semanticka greska na liniji 10: funkcija main nema return iskaz!
+INFO  22:38:47,086 - Print calls = 0
+INFO  22:39:33,504 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:39:33,566 - #2 program
+INFO  22:39:33,566 - #15 MJProgram
+INFO  22:39:33,566 - #15 int
+INFO  22:39:33,567 - #15 x
+INFO  22:39:33,568 - #5 ;
+INFO  22:39:33,568 - #15 bool
+INFO  22:39:33,569 - #15 y
+INFO  22:39:33,569 - #5 ;
+INFO  22:39:33,569 - #15 char
+INFO  22:39:33,570 - #15 z
+INFO  22:39:33,570 - #5 ;
+INFO  22:39:33,570 - #3 {
+INFO  22:39:33,570 - #15 int
+INFO  22:39:33,571 - #15 k
+INFO  22:39:33,571 - #6 (
+INFO  22:39:33,571 - #7 )
+INFO  22:39:33,572 - #15 int
+INFO  22:39:33,573 - #15 c
+INFO  22:39:33,573 - #5 ;
+INFO  22:39:33,574 - #3 {
+INFO  22:39:33,574 - #15 c
+INFO  22:39:33,575 - #13 =
+INFO  22:39:33,575 - #19 1
+INFO  22:39:33,576 - #5 ;
+INFO  22:39:33,577 - #10 return
+INFO  22:39:33,577 - #15 c
+INFO  22:39:33,577 - #11 +
+INFO  22:39:33,577 - #19 2
+INFO  22:39:33,579 - #5 ;
+INFO  22:39:33,579 - #4 }
+INFO  22:39:33,579 - #14 void
+INFO  22:39:33,580 - #15 main
+INFO  22:39:33,580 - #6 (
+INFO  22:39:33,580 - #7 )
+INFO  22:39:33,580 - #3 {
+INFO  22:39:33,581 - #15 y
+INFO  22:39:33,581 - #13 =
+INFO  22:39:33,581 - #21 true
+INFO  22:39:33,581 - #5 ;
+INFO  22:39:33,581 - #4 }
+INFO  22:39:33,581 - #4 }
+INFO  22:39:33,599 - Deklarisana promenljiva x na liniji 2
+INFO  22:39:33,599 - Deklarisana promenljiva y na liniji 2
+INFO  22:39:33,599 - Deklarisana promenljiva z na liniji 2
+INFO  22:39:33,599 - Deklarisana promenljiva c na liniji 5
+ERROR 22:39:33,600 - Semanticka greska: tip izraza mora biti Integer  na liniji 12
+ERROR 22:39:33,600 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 12
+ERROR 22:39:33,600 - Semanticka greska na liniji 10: funkcija main nema return iskaz!
+INFO  22:39:33,600 - Print calls = 0
+INFO  22:39:51,625 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:39:51,691 - #2 program
+INFO  22:39:51,692 - #15 MJProgram
+INFO  22:39:51,692 - #15 int
+INFO  22:39:51,693 - #15 x
+INFO  22:39:51,693 - #5 ;
+INFO  22:39:51,694 - #15 bool
+INFO  22:39:51,695 - #15 y
+INFO  22:39:51,695 - #5 ;
+INFO  22:39:51,695 - #15 char
+INFO  22:39:51,695 - #15 z
+INFO  22:39:51,695 - #5 ;
+INFO  22:39:51,696 - #3 {
+INFO  22:39:51,696 - #15 int
+INFO  22:39:51,697 - #15 k
+INFO  22:39:51,697 - #6 (
+INFO  22:39:51,697 - #7 )
+INFO  22:39:51,698 - #15 int
+INFO  22:39:51,699 - #15 c
+INFO  22:39:51,699 - #5 ;
+INFO  22:39:51,699 - #3 {
+INFO  22:39:51,699 - #15 c
+INFO  22:39:51,700 - #13 =
+INFO  22:39:51,700 - #19 1
+INFO  22:39:51,700 - #5 ;
+INFO  22:39:51,701 - #10 return
+INFO  22:39:51,701 - #15 c
+INFO  22:39:51,701 - #11 +
+INFO  22:39:51,701 - #19 2
+INFO  22:39:51,703 - #5 ;
+INFO  22:39:51,703 - #4 }
+INFO  22:39:51,704 - #14 void
+INFO  22:39:51,705 - #15 main
+INFO  22:39:51,705 - #6 (
+INFO  22:39:51,705 - #7 )
+INFO  22:39:51,705 - #3 {
+INFO  22:39:51,705 - #15 y
+INFO  22:39:51,705 - #13 =
+INFO  22:39:51,705 - #21 true
+INFO  22:39:51,705 - #5 ;
+INFO  22:39:51,706 - #4 }
+INFO  22:39:51,706 - #4 }
+INFO  22:39:51,726 - Deklarisana promenljiva x na liniji 2
+INFO  22:39:51,726 - Deklarisana promenljiva y na liniji 2
+INFO  22:39:51,727 - Deklarisana promenljiva z na liniji 2
+INFO  22:39:51,727 - Deklarisana promenljiva c na liniji 5
+ERROR 22:39:51,727 - Semanticka greska: tip izraza mora biti Integer  na liniji 12
+ERROR 22:39:51,728 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 12
+ERROR 22:39:51,728 - Semanticka greska na liniji 10: funkcija main nema return iskaz!
+INFO  22:39:51,728 - Print calls = 0
+INFO  22:40:05,826 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:40:05,885 - #2 program
+INFO  22:40:05,885 - #15 MJProgram
+INFO  22:40:05,885 - #15 int
+INFO  22:40:05,887 - #15 x
+INFO  22:40:05,887 - #5 ;
+INFO  22:40:05,887 - #15 bool
+INFO  22:40:05,888 - #15 y
+INFO  22:40:05,888 - #5 ;
+INFO  22:40:05,889 - #15 char
+INFO  22:40:05,889 - #15 z
+INFO  22:40:05,889 - #5 ;
+INFO  22:40:05,889 - #3 {
+INFO  22:40:05,889 - #15 int
+INFO  22:40:05,890 - #15 k
+INFO  22:40:05,890 - #6 (
+INFO  22:40:05,891 - #7 )
+INFO  22:40:05,891 - #15 int
+INFO  22:40:05,892 - #15 c
+INFO  22:40:05,892 - #5 ;
+INFO  22:40:05,892 - #3 {
+INFO  22:40:05,892 - #15 c
+INFO  22:40:05,893 - #13 =
+INFO  22:40:05,893 - #19 1
+INFO  22:40:05,894 - #5 ;
+INFO  22:40:05,895 - #10 return
+INFO  22:40:05,895 - #15 c
+INFO  22:40:05,895 - #11 +
+INFO  22:40:05,896 - #19 2
+INFO  22:40:05,897 - #5 ;
+INFO  22:40:05,897 - #4 }
+INFO  22:40:05,897 - #14 void
+INFO  22:40:05,898 - #15 main
+INFO  22:40:05,899 - #6 (
+INFO  22:40:05,899 - #7 )
+INFO  22:40:05,899 - #3 {
+INFO  22:40:05,899 - #15 y
+INFO  22:40:05,899 - #13 =
+INFO  22:40:05,899 - #21 true
+INFO  22:40:05,899 - #5 ;
+INFO  22:40:05,899 - #4 }
+INFO  22:40:05,900 - #4 }
+INFO  22:40:05,918 - Deklarisana promenljiva x na liniji 2
+INFO  22:40:05,918 - Deklarisana promenljiva y na liniji 2
+INFO  22:40:05,918 - Deklarisana promenljiva z na liniji 2
+INFO  22:40:05,919 - Deklarisana promenljiva c na liniji 5
+ERROR 22:40:05,919 - Semanticka greska: tip izraza mora biti Integer  na liniji 12
+ERROR 22:40:05,919 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 12
+ERROR 22:40:05,919 - Semanticka greska na liniji 10: funkcija main nema return iskaz!
+INFO  22:40:05,919 - Print calls = 0
+INFO  22:41:24,220 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:41:24,280 - #2 program
+INFO  22:41:24,280 - #15 MJProgram
+INFO  22:41:24,280 - #15 int
+INFO  22:41:24,281 - #15 x
+INFO  22:41:24,282 - #5 ;
+INFO  22:41:24,282 - #15 bool
+INFO  22:41:24,283 - #15 y
+INFO  22:41:24,283 - #5 ;
+INFO  22:41:24,283 - #15 char
+INFO  22:41:24,284 - #15 z
+INFO  22:41:24,284 - #5 ;
+INFO  22:41:24,284 - #3 {
+INFO  22:41:24,284 - #15 int
+INFO  22:41:24,286 - #15 k
+INFO  22:41:24,286 - #6 (
+INFO  22:41:24,286 - #7 )
+INFO  22:41:24,286 - #15 int
+INFO  22:41:24,287 - #15 c
+INFO  22:41:24,288 - #5 ;
+INFO  22:41:24,288 - #3 {
+INFO  22:41:24,288 - #15 c
+INFO  22:41:24,289 - #13 =
+INFO  22:41:24,289 - #19 1
+INFO  22:41:24,289 - #5 ;
+INFO  22:41:24,290 - #10 return
+INFO  22:41:24,292 - #15 c
+INFO  22:41:24,292 - #11 +
+INFO  22:41:24,292 - #19 2
+INFO  22:41:24,293 - #5 ;
+INFO  22:41:24,294 - #4 }
+INFO  22:41:24,294 - #14 void
+INFO  22:41:24,295 - #15 main
+INFO  22:41:24,295 - #6 (
+INFO  22:41:24,295 - #7 )
+INFO  22:41:24,295 - #3 {
+INFO  22:41:24,295 - #15 y
+INFO  22:41:24,296 - #13 =
+INFO  22:41:24,296 - #21 true
+INFO  22:41:24,296 - #5 ;
+INFO  22:41:24,296 - #4 }
+INFO  22:41:24,296 - #4 }
+INFO  22:41:24,314 - Deklarisana promenljiva x na liniji 2
+INFO  22:41:24,315 - Deklarisana promenljiva y na liniji 2
+INFO  22:41:24,315 - Deklarisana promenljiva z na liniji 2
+INFO  22:41:24,315 - Deklarisana promenljiva c na liniji 5
+ERROR 22:41:24,315 - Semanticka greska: tip izraza mora biti Integer  na liniji 12
+ERROR 22:41:24,315 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 12
+ERROR 22:41:24,316 - Semanticka greska na liniji 10: funkcija main nema return iskaz!
+INFO  22:41:24,316 - Print calls = 0
+INFO  22:42:11,929 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:42:11,998 - #2 program
+INFO  22:42:11,998 - #15 MJProgram
+INFO  22:42:11,998 - #15 int
+INFO  22:42:12,000 - #15 x
+INFO  22:42:12,000 - #5 ;
+INFO  22:42:12,001 - #15 bool
+INFO  22:42:12,002 - #15 y
+INFO  22:42:12,002 - #5 ;
+INFO  22:42:12,002 - #15 char
+INFO  22:42:12,002 - #15 z
+INFO  22:42:12,002 - #5 ;
+INFO  22:42:12,002 - #3 {
+INFO  22:42:12,002 - #15 int
+INFO  22:42:12,004 - #15 k
+INFO  22:42:12,004 - #6 (
+INFO  22:42:12,004 - #7 )
+INFO  22:42:12,005 - #15 int
+INFO  22:42:12,006 - #15 c
+INFO  22:42:12,006 - #5 ;
+INFO  22:42:12,006 - #3 {
+INFO  22:42:12,006 - #15 c
+INFO  22:42:12,007 - #13 =
+INFO  22:42:12,008 - #19 1
+INFO  22:42:12,008 - #5 ;
+INFO  22:42:12,008 - #10 return
+INFO  22:42:12,009 - #15 c
+INFO  22:42:12,009 - #11 +
+INFO  22:42:12,009 - #19 2
+INFO  22:42:12,011 - #5 ;
+INFO  22:42:12,011 - #4 }
+INFO  22:42:12,012 - #14 void
+INFO  22:42:12,013 - #15 main
+INFO  22:42:12,013 - #6 (
+INFO  22:42:12,014 - #7 )
+INFO  22:42:12,014 - #3 {
+INFO  22:42:12,014 - #15 y
+INFO  22:42:12,014 - #13 =
+INFO  22:42:12,014 - #21 true
+INFO  22:42:12,014 - #5 ;
+INFO  22:42:12,014 - #4 }
+INFO  22:42:12,014 - #4 }
+INFO  22:42:29,043 - Deklarisana promenljiva x na liniji 2
+INFO  22:42:29,044 - Deklarisana promenljiva y na liniji 2
+INFO  22:42:29,045 - Deklarisana promenljiva z na liniji 2
+INFO  22:42:29,046 - Deklarisana promenljiva c na liniji 5
+INFO  22:46:33,749 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:46:33,819 - #2 program
+INFO  22:46:33,819 - #15 MJProgram
+INFO  22:46:33,819 - #15 int
+INFO  22:46:33,821 - #15 x
+INFO  22:46:33,821 - #5 ;
+INFO  22:46:33,822 - #15 bool
+INFO  22:46:33,823 - #15 y
+INFO  22:46:33,823 - #5 ;
+INFO  22:46:33,823 - #15 char
+INFO  22:46:33,824 - #15 z
+INFO  22:46:33,824 - #5 ;
+INFO  22:46:33,824 - #3 {
+INFO  22:46:33,824 - #15 int
+INFO  22:46:33,825 - #15 k
+INFO  22:46:33,825 - #6 (
+INFO  22:46:33,825 - #7 )
+INFO  22:46:33,827 - #15 int
+INFO  22:46:33,828 - #15 c
+INFO  22:46:33,828 - #5 ;
+INFO  22:46:33,828 - #3 {
+INFO  22:46:33,829 - #15 c
+INFO  22:46:33,830 - #13 =
+INFO  22:46:33,830 - #19 1
+INFO  22:46:33,830 - #5 ;
+INFO  22:46:33,831 - #10 return
+INFO  22:46:33,831 - #15 c
+INFO  22:46:33,831 - #11 +
+INFO  22:46:33,832 - #19 2
+INFO  22:46:33,833 - #5 ;
+INFO  22:46:33,833 - #4 }
+INFO  22:46:33,834 - #14 void
+INFO  22:46:33,835 - #15 main
+INFO  22:46:33,835 - #6 (
+INFO  22:46:33,835 - #7 )
+INFO  22:46:33,835 - #3 {
+INFO  22:46:33,835 - #15 y
+INFO  22:46:33,835 - #13 =
+INFO  22:46:33,836 - #21 true
+INFO  22:46:33,836 - #5 ;
+INFO  22:46:33,836 - #4 }
+INFO  22:46:33,836 - #4 }
+INFO  22:57:47,388 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:57:47,449 - #2 program
+INFO  22:57:47,450 - #15 MJProgram
+INFO  22:57:47,450 - #15 int
+INFO  22:57:47,451 - #15 x
+INFO  22:57:47,451 - #5 ;
+INFO  22:57:47,452 - #15 bool
+INFO  22:57:47,453 - #15 y
+INFO  22:57:47,453 - #5 ;
+INFO  22:57:47,453 - #15 char
+INFO  22:57:47,453 - #15 z
+INFO  22:57:47,453 - #5 ;
+INFO  22:57:47,453 - #3 {
+INFO  22:57:47,453 - #15 int
+INFO  22:57:47,454 - #15 k
+INFO  22:57:47,454 - #6 (
+INFO  22:57:47,455 - #7 )
+INFO  22:57:47,455 - #15 int
+INFO  22:57:47,456 - #15 c
+INFO  22:57:47,456 - #5 ;
+INFO  22:57:47,457 - #3 {
+INFO  22:57:47,457 - #15 c
+INFO  22:57:47,458 - #13 =
+INFO  22:57:47,458 - #19 1
+INFO  22:57:47,458 - #5 ;
+INFO  22:57:47,459 - #10 return
+INFO  22:57:47,459 - #15 c
+INFO  22:57:47,459 - #11 +
+INFO  22:57:47,459 - #19 2
+INFO  22:57:47,461 - #5 ;
+INFO  22:57:47,461 - #4 }
+INFO  22:57:47,461 - #14 void
+INFO  22:57:47,463 - #15 main
+INFO  22:57:47,463 - #6 (
+INFO  22:57:47,463 - #7 )
+INFO  22:57:47,463 - #3 {
+INFO  22:57:47,463 - #15 y
+INFO  22:57:47,463 - #13 =
+INFO  22:57:47,463 - #21 true
+INFO  22:57:47,463 - #5 ;
+INFO  22:57:47,464 - #4 }
+INFO  22:57:47,464 - #4 }
+INFO  22:57:47,483 - Deklarisana promenljiva x na liniji 2
+INFO  22:57:47,483 - Deklarisana promenljiva y na liniji 2
+INFO  22:57:47,483 - Deklarisana promenljiva z na liniji 2
+INFO  22:57:47,483 - Deklarisana promenljiva c na liniji 5
+ERROR 22:57:47,484 - Semanticka greska na liniji 10: funkcija main nema return iskaz!
+INFO  22:57:47,484 - Print calls = 0
+INFO  22:58:09,468 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:58:09,531 - #2 program
+INFO  22:58:09,531 - #15 MJProgram
+INFO  22:58:09,531 - #15 int
+INFO  22:58:09,533 - #15 x
+INFO  22:58:09,533 - #5 ;
+INFO  22:58:09,534 - #15 bool
+INFO  22:58:09,535 - #15 y
+INFO  22:58:09,535 - #5 ;
+INFO  22:58:09,535 - #15 char
+INFO  22:58:09,535 - #15 z
+INFO  22:58:09,535 - #5 ;
+INFO  22:58:09,535 - #3 {
+INFO  22:58:09,535 - #15 int
+INFO  22:58:09,536 - #15 k
+INFO  22:58:09,536 - #6 (
+INFO  22:58:09,537 - #7 )
+INFO  22:58:09,537 - #15 int
+INFO  22:58:09,538 - #15 c
+INFO  22:58:09,538 - #5 ;
+INFO  22:58:09,538 - #3 {
+INFO  22:58:09,539 - #15 c
+INFO  22:58:09,540 - #13 =
+INFO  22:58:09,540 - #19 1
+INFO  22:58:09,540 - #5 ;
+INFO  22:58:09,541 - #10 return
+INFO  22:58:09,541 - #15 c
+INFO  22:58:09,541 - #11 +
+INFO  22:58:09,541 - #19 2
+INFO  22:58:09,542 - #5 ;
+INFO  22:58:09,542 - #4 }
+INFO  22:58:09,543 - #14 void
+INFO  22:58:09,544 - #15 main
+INFO  22:58:09,544 - #6 (
+INFO  22:58:09,544 - #7 )
+INFO  22:58:09,544 - #3 {
+INFO  22:58:09,544 - #15 y
+INFO  22:58:09,544 - #13 =
+INFO  22:58:09,545 - #21 true
+INFO  22:58:09,545 - #5 ;
+INFO  22:58:09,545 - #10 return
+INFO  22:58:09,545 - #19 0
+INFO  22:58:09,545 - #5 ;
+INFO  22:58:09,546 - #4 }
+INFO  22:58:09,547 - #4 }
+INFO  22:58:09,567 - Deklarisana promenljiva x na liniji 2
+INFO  22:58:09,567 - Deklarisana promenljiva y na liniji 2
+INFO  22:58:09,567 - Deklarisana promenljiva z na liniji 2
+INFO  22:58:09,568 - Deklarisana promenljiva c na liniji 5
+INFO  22:58:09,568 - Print calls = 0
+INFO  22:58:27,218 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:58:27,279 - #2 program
+INFO  22:58:27,280 - #15 MJProgram
+INFO  22:58:27,280 - #15 int
+INFO  22:58:27,281 - #15 x
+INFO  22:58:27,282 - #5 ;
+INFO  22:58:27,282 - #15 bool
+INFO  22:58:27,283 - #15 y
+INFO  22:58:27,283 - #5 ;
+INFO  22:58:27,283 - #15 char
+INFO  22:58:27,283 - #15 z
+INFO  22:58:27,284 - #5 ;
+INFO  22:58:27,284 - #3 {
+INFO  22:58:27,284 - #15 int
+INFO  22:58:27,285 - #15 k
+INFO  22:58:27,285 - #6 (
+INFO  22:58:27,285 - #7 )
+INFO  22:58:27,286 - #15 int
+INFO  22:58:27,287 - #15 c
+INFO  22:58:27,287 - #5 ;
+INFO  22:58:27,287 - #3 {
+INFO  22:58:27,287 - #15 c
+INFO  22:58:27,288 - #13 =
+INFO  22:58:27,288 - #19 1
+INFO  22:58:27,288 - #5 ;
+INFO  22:58:27,289 - #10 return
+INFO  22:58:27,290 - #15 c
+INFO  22:58:27,290 - #11 +
+INFO  22:58:27,290 - #19 2
+INFO  22:58:27,291 - #5 ;
+INFO  22:58:27,292 - #4 }
+INFO  22:58:27,292 - #14 void
+INFO  22:58:27,293 - #15 main
+INFO  22:58:27,293 - #6 (
+INFO  22:58:27,293 - #7 )
+INFO  22:58:27,293 - #3 {
+INFO  22:58:27,293 - #15 y
+INFO  22:58:27,294 - #13 =
+INFO  22:58:27,294 - #21 true
+INFO  22:58:27,294 - #5 ;
+INFO  22:58:27,294 - #10 return
+INFO  22:58:27,294 - #19 2
+INFO  22:58:27,294 - #11 +
+INFO  22:58:27,295 - #19 3
+INFO  22:58:27,295 - #5 ;
+INFO  22:58:27,295 - #4 }
+INFO  22:58:27,295 - #4 }
+INFO  22:58:27,313 - Deklarisana promenljiva x na liniji 2
+INFO  22:58:27,314 - Deklarisana promenljiva y na liniji 2
+INFO  22:58:27,314 - Deklarisana promenljiva z na liniji 2
+INFO  22:58:27,314 - Deklarisana promenljiva c na liniji 5
+INFO  22:58:27,314 - Print calls = 0
+INFO  22:58:36,886 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:58:36,949 - #2 program
+INFO  22:58:36,949 - #15 MJProgram
+INFO  22:58:36,949 - #15 int
+INFO  22:58:36,950 - #15 x
+INFO  22:58:36,951 - #5 ;
+INFO  22:58:36,952 - #15 bool
+INFO  22:58:36,953 - #15 y
+INFO  22:58:36,953 - #5 ;
+INFO  22:58:36,953 - #15 char
+INFO  22:58:36,953 - #15 z
+INFO  22:58:36,953 - #5 ;
+INFO  22:58:36,953 - #3 {
+INFO  22:58:36,954 - #15 int
+INFO  22:58:36,954 - #15 k
+INFO  22:58:36,955 - #6 (
+INFO  22:58:36,955 - #7 )
+INFO  22:58:36,956 - #15 int
+INFO  22:58:36,956 - #15 c
+INFO  22:58:36,956 - #5 ;
+INFO  22:58:36,956 - #3 {
+INFO  22:58:36,957 - #15 c
+INFO  22:58:36,957 - #13 =
+INFO  22:58:36,958 - #19 1
+INFO  22:58:36,958 - #5 ;
+INFO  22:58:36,958 - #10 return
+INFO  22:58:36,959 - #15 c
+INFO  22:58:36,959 - #11 +
+INFO  22:58:36,959 - #19 2
+INFO  22:58:36,960 - #5 ;
+INFO  22:58:36,961 - #4 }
+INFO  22:58:36,961 - #14 void
+INFO  22:58:36,962 - #15 main
+INFO  22:58:36,962 - #6 (
+INFO  22:58:36,962 - #7 )
+INFO  22:58:36,962 - #3 {
+INFO  22:58:36,963 - #15 y
+INFO  22:58:36,963 - #13 =
+INFO  22:58:36,963 - #21 true
+INFO  22:58:36,963 - #5 ;
+INFO  22:58:36,963 - #10 return
+INFO  22:58:36,963 - #19 2
+INFO  22:58:36,964 - #11 +
+INFO  22:58:36,964 - #19 3
+INFO  22:58:36,964 - #11 +
+INFO  22:58:36,964 - #19 4
+INFO  22:58:36,964 - #5 ;
+INFO  22:58:36,964 - #4 }
+INFO  22:58:36,964 - #4 }
+INFO  22:58:36,984 - Deklarisana promenljiva x na liniji 2
+INFO  22:58:36,984 - Deklarisana promenljiva y na liniji 2
+INFO  22:58:36,985 - Deklarisana promenljiva z na liniji 2
+INFO  22:58:36,985 - Deklarisana promenljiva c na liniji 5
+INFO  22:58:36,985 - Print calls = 0
+INFO  22:58:56,067 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:58:56,129 - #2 program
+INFO  22:58:56,129 - #15 MJProgram
+INFO  22:58:56,129 - #15 int
+INFO  22:58:56,130 - #15 x
+INFO  22:58:56,131 - #5 ;
+INFO  22:58:56,131 - #15 bool
+INFO  22:58:56,132 - #15 y
+INFO  22:58:56,132 - #5 ;
+INFO  22:58:56,132 - #15 char
+INFO  22:58:56,132 - #15 z
+INFO  22:58:56,132 - #5 ;
+INFO  22:58:56,133 - #3 {
+INFO  22:58:56,133 - #15 int
+INFO  22:58:56,134 - #15 k
+INFO  22:58:56,134 - #6 (
+INFO  22:58:56,134 - #7 )
+INFO  22:58:56,135 - #15 int
+INFO  22:58:56,136 - #15 c
+INFO  22:58:56,136 - #5 ;
+INFO  22:58:56,136 - #3 {
+INFO  22:58:56,136 - #15 c
+INFO  22:58:56,137 - #13 =
+INFO  22:58:56,137 - #19 1
+INFO  22:58:56,137 - #5 ;
+INFO  22:58:56,138 - #10 return
+INFO  22:58:56,139 - #15 c
+INFO  22:58:56,139 - #11 +
+INFO  22:58:56,139 - #19 2
+INFO  22:58:56,140 - #5 ;
+INFO  22:58:56,141 - #4 }
+INFO  22:58:56,141 - #14 void
+INFO  22:58:56,142 - #15 main
+INFO  22:58:56,142 - #6 (
+INFO  22:58:56,142 - #7 )
+INFO  22:58:56,142 - #3 {
+INFO  22:58:56,142 - #15 y
+INFO  22:58:56,142 - #13 =
+INFO  22:58:56,143 - #21 true
+INFO  22:58:56,143 - #5 ;
+INFO  22:58:56,143 - #10 return
+INFO  22:58:56,143 - #19 2
+INFO  22:58:56,143 - #11 +
+INFO  22:58:56,143 - #19 3
+INFO  22:58:56,144 - #11 +
+INFO  22:58:56,144 - #6 (
+INFO  22:58:56,144 - #19 4
+INFO  22:58:56,144 - #11 +
+INFO  22:58:56,144 - #19 5
+INFO  22:58:56,144 - #7 )
+INFO  22:58:56,144 - #5 ;
+INFO  22:58:56,145 - #4 }
+INFO  22:58:56,145 - #4 }
+INFO  22:58:56,164 - Deklarisana promenljiva x na liniji 2
+INFO  22:58:56,165 - Deklarisana promenljiva y na liniji 2
+INFO  22:58:56,165 - Deklarisana promenljiva z na liniji 2
+INFO  22:58:56,165 - Deklarisana promenljiva c na liniji 5
+INFO  22:58:56,166 - Print calls = 0
+INFO  23:01:05,722 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:01:05,781 - #2 program
+INFO  23:01:05,781 - #15 MJProgram
+INFO  23:01:05,781 - #15 int
+INFO  23:01:05,782 - #15 x
+INFO  23:01:05,783 - #5 ;
+INFO  23:01:05,783 - #15 bool
+INFO  23:01:05,784 - #15 y
+INFO  23:01:05,784 - #5 ;
+INFO  23:01:05,784 - #15 char
+INFO  23:01:05,784 - #15 z
+INFO  23:01:05,784 - #5 ;
+INFO  23:01:05,785 - #3 {
+INFO  23:01:05,785 - #15 int
+INFO  23:01:05,785 - #15 k
+INFO  23:01:05,786 - #6 (
+INFO  23:01:05,786 - #7 )
+INFO  23:01:05,787 - #15 int
+INFO  23:01:05,788 - #15 c
+INFO  23:01:05,788 - #5 ;
+INFO  23:01:05,788 - #3 {
+INFO  23:01:05,789 - #15 c
+INFO  23:01:05,790 - #13 =
+INFO  23:01:05,790 - #19 1
+INFO  23:01:05,790 - #5 ;
+INFO  23:01:05,791 - #10 return
+INFO  23:01:05,792 - #15 c
+INFO  23:01:05,792 - #11 +
+INFO  23:01:05,792 - #19 2
+INFO  23:01:05,793 - #5 ;
+INFO  23:01:05,793 - #4 }
+INFO  23:01:05,794 - #14 void
+INFO  23:01:05,795 - #15 main
+INFO  23:01:05,795 - #6 (
+INFO  23:01:05,795 - #7 )
+INFO  23:01:05,795 - #3 {
+INFO  23:01:05,795 - #15 y
+INFO  23:01:05,795 - #13 =
+INFO  23:01:05,795 - #21 true
+INFO  23:01:05,795 - #5 ;
+INFO  23:01:05,795 - #15 x
+INFO  23:01:05,796 - #13 =
+INFO  23:01:05,796 - #19 2
+INFO  23:01:05,796 - #11 +
+INFO  23:01:05,796 - #19 3
+INFO  23:01:05,796 - #11 +
+INFO  23:01:05,796 - #6 (
+INFO  23:01:05,796 - #19 4
+INFO  23:01:05,796 - #11 +
+INFO  23:01:05,797 - #19 5
+INFO  23:01:05,797 - #7 )
+INFO  23:01:05,797 - #5 ;
+INFO  23:01:05,797 - #4 }
+INFO  23:01:05,797 - #4 }
+INFO  23:01:05,816 - Deklarisana promenljiva x na liniji 2
+INFO  23:01:05,816 - Deklarisana promenljiva y na liniji 2
+INFO  23:01:05,817 - Deklarisana promenljiva z na liniji 2
+INFO  23:01:05,817 - Deklarisana promenljiva c na liniji 5
+ERROR 23:01:05,817 - Semanticka greska na liniji 10: funkcija main nema return iskaz!
+INFO  23:01:05,817 - Print calls = 0
+INFO  23:01:40,655 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:01:40,712 - #2 program
+INFO  23:01:40,712 - #15 MJProgram
+INFO  23:01:40,712 - #15 int
+INFO  23:01:40,714 - #15 x
+INFO  23:01:40,714 - #5 ;
+INFO  23:01:40,715 - #15 bool
+INFO  23:01:40,716 - #15 y
+INFO  23:01:40,716 - #5 ;
+INFO  23:01:40,716 - #15 char
+INFO  23:01:40,716 - #15 z
+INFO  23:01:40,716 - #5 ;
+INFO  23:01:40,716 - #3 {
+INFO  23:01:40,716 - #15 int
+INFO  23:01:40,717 - #15 k
+INFO  23:01:40,717 - #6 (
+INFO  23:01:40,718 - #7 )
+INFO  23:01:40,719 - #15 int
+INFO  23:01:40,720 - #15 c
+INFO  23:01:40,720 - #5 ;
+INFO  23:01:40,720 - #3 {
+INFO  23:01:40,721 - #15 c
+INFO  23:01:40,722 - #13 =
+INFO  23:01:40,722 - #19 1
+INFO  23:01:40,722 - #5 ;
+INFO  23:01:40,723 - #10 return
+INFO  23:01:40,724 - #15 c
+INFO  23:01:40,724 - #11 +
+INFO  23:01:40,724 - #19 2
+INFO  23:01:40,726 - #5 ;
+INFO  23:01:40,726 - #4 }
+INFO  23:01:40,726 - #14 void
+INFO  23:01:40,727 - #15 main
+INFO  23:01:40,727 - #6 (
+INFO  23:01:40,727 - #7 )
+INFO  23:01:40,727 - #3 {
+INFO  23:01:40,728 - #15 y
+INFO  23:01:40,728 - #13 =
+INFO  23:01:40,728 - #21 true
+INFO  23:01:40,728 - #5 ;
+INFO  23:01:40,728 - #15 x
+INFO  23:01:40,728 - #13 =
+INFO  23:01:40,729 - #19 2
+INFO  23:01:40,729 - #11 +
+INFO  23:01:40,729 - #19 3
+INFO  23:01:40,729 - #11 +
+INFO  23:01:40,729 - #19 4
+INFO  23:01:40,729 - #41 *
+INFO  23:01:40,729 - #19 5
+INFO  23:01:40,731 - #5 ;
+INFO  23:01:40,731 - #4 }
+INFO  23:01:40,731 - #4 }
+INFO  23:01:40,750 - Deklarisana promenljiva x na liniji 2
+INFO  23:01:40,751 - Deklarisana promenljiva y na liniji 2
+INFO  23:01:40,751 - Deklarisana promenljiva z na liniji 2
+INFO  23:01:40,751 - Deklarisana promenljiva c na liniji 5
+ERROR 23:01:40,752 - Semanticka greska na liniji 10: funkcija main nema return iskaz!
+INFO  23:01:40,752 - Print calls = 0
+INFO  23:07:22,287 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:07:22,350 - #2 program
+INFO  23:07:22,350 - #15 MJProgram
+INFO  23:07:22,350 - #15 int
+INFO  23:07:22,351 - #15 x
+INFO  23:07:22,352 - #5 ;
+INFO  23:07:22,353 - #15 bool
+INFO  23:07:22,353 - #15 y
+INFO  23:07:22,354 - #5 ;
+INFO  23:07:22,354 - #15 char
+INFO  23:07:22,354 - #15 z
+INFO  23:07:22,354 - #5 ;
+INFO  23:07:22,354 - #3 {
+INFO  23:07:22,354 - #15 int
+INFO  23:07:22,355 - #15 k
+INFO  23:07:22,355 - #6 (
+INFO  23:07:22,356 - #7 )
+INFO  23:07:22,356 - #15 int
+INFO  23:07:22,357 - #15 c
+INFO  23:07:22,357 - #5 ;
+INFO  23:07:22,357 - #3 {
+INFO  23:07:22,358 - #15 c
+INFO  23:07:22,358 - #13 =
+INFO  23:07:22,359 - #19 1
+INFO  23:07:22,359 - #5 ;
+INFO  23:07:22,360 - #10 return
+INFO  23:07:22,360 - #15 c
+INFO  23:07:22,360 - #11 +
+INFO  23:07:22,360 - #19 2
+INFO  23:07:22,361 - #5 ;
+INFO  23:07:22,362 - #4 }
+INFO  23:07:22,362 - #14 void
+INFO  23:07:22,363 - #15 main
+INFO  23:07:22,363 - #6 (
+INFO  23:07:22,363 - #7 )
+INFO  23:07:22,364 - #3 {
+INFO  23:07:22,364 - #15 y
+INFO  23:07:22,364 - #13 =
+INFO  23:07:22,364 - #21 true
+INFO  23:07:22,364 - #5 ;
+INFO  23:07:22,365 - #15 x
+INFO  23:07:22,365 - #13 =
+INFO  23:07:22,365 - #19 2
+INFO  23:07:22,365 - #11 +
+INFO  23:07:22,365 - #19 3
+INFO  23:07:22,365 - #11 +
+INFO  23:07:22,365 - #19 4
+INFO  23:07:22,365 - #41 *
+INFO  23:07:22,366 - #19 5
+INFO  23:07:22,367 - #5 ;
+INFO  23:07:22,368 - #10 return
+INFO  23:07:22,368 - #19 3
+INFO  23:07:22,368 - #5 ;
+INFO  23:07:22,368 - #4 }
+INFO  23:07:22,368 - #4 }
+INFO  23:07:22,383 - Deklarisana promenljiva x na liniji 2
+INFO  23:07:22,384 - Deklarisana promenljiva y na liniji 2
+INFO  23:07:22,384 - Deklarisana promenljiva z na liniji 2
+INFO  23:07:22,384 - Deklarisana promenljiva c na liniji 5
+INFO  23:07:22,385 - Print calls = 0
+INFO  23:07:34,222 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:07:34,293 - #2 program
+INFO  23:07:34,293 - #15 MJProgram
+INFO  23:07:34,293 - #15 int
+INFO  23:07:34,295 - #15 x
+INFO  23:07:34,296 - #5 ;
+INFO  23:07:34,296 - #15 bool
+INFO  23:07:34,297 - #15 y
+INFO  23:07:34,297 - #5 ;
+INFO  23:07:34,297 - #15 char
+INFO  23:07:34,297 - #15 z
+INFO  23:07:34,298 - #5 ;
+INFO  23:07:34,298 - #3 {
+INFO  23:07:34,298 - #15 int
+INFO  23:07:34,299 - #15 k
+INFO  23:07:34,299 - #6 (
+INFO  23:07:34,300 - #7 )
+INFO  23:07:34,301 - #15 int
+INFO  23:07:34,302 - #15 c
+INFO  23:07:34,302 - #5 ;
+INFO  23:07:34,302 - #3 {
+INFO  23:07:34,303 - #15 c
+INFO  23:07:34,304 - #13 =
+INFO  23:07:34,304 - #19 1
+INFO  23:07:34,304 - #5 ;
+INFO  23:07:34,305 - #10 return
+INFO  23:07:34,305 - #15 c
+INFO  23:07:34,305 - #11 +
+INFO  23:07:34,306 - #19 2
+INFO  23:07:34,307 - #5 ;
+INFO  23:07:34,307 - #4 }
+INFO  23:07:34,308 - #14 void
+INFO  23:07:34,309 - #15 main
+INFO  23:07:34,309 - #6 (
+INFO  23:07:34,309 - #7 )
+INFO  23:07:34,309 - #3 {
+INFO  23:07:34,309 - #15 y
+INFO  23:07:34,309 - #13 =
+INFO  23:07:34,309 - #21 true
+INFO  23:07:34,310 - #5 ;
+INFO  23:07:34,310 - #15 x
+INFO  23:07:34,310 - #13 =
+INFO  23:07:34,310 - #19 2
+INFO  23:07:34,310 - #11 +
+INFO  23:07:34,311 - #19 3
+INFO  23:07:34,311 - #11 +
+INFO  23:07:34,311 - #19 4
+INFO  23:07:34,311 - #41 *
+INFO  23:07:34,311 - #19 5
+INFO  23:07:34,313 - #5 ;
+INFO  23:07:34,314 - #10 return
+INFO  23:07:34,314 - #19 3
+INFO  23:07:34,314 - #5 ;
+INFO  23:07:34,314 - #4 }
+INFO  23:07:34,314 - #4 }
+INFO  23:08:21,531 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:08:21,603 - #2 program
+INFO  23:08:21,603 - #15 MJProgram
+INFO  23:08:21,603 - #3 {
+INFO  23:08:21,604 - #14 void
+INFO  23:08:21,605 - #15 main
+INFO  23:08:21,605 - #6 (
+INFO  23:08:21,606 - #7 )
+INFO  23:08:21,606 - #3 {
+INFO  23:08:21,607 - #10 return
+INFO  23:08:21,608 - #19 3
+INFO  23:08:21,608 - #5 ;
+INFO  23:08:21,610 - #4 }
+INFO  23:08:21,610 - #4 }
+INFO  23:14:18,109 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:14:18,170 - #2 program
+INFO  23:14:18,170 - #15 MJProgram
+INFO  23:14:18,170 - #3 {
+INFO  23:14:18,171 - #14 void
+INFO  23:14:18,172 - #15 main
+INFO  23:14:18,172 - #6 (
+INFO  23:14:18,172 - #7 )
+INFO  23:14:18,173 - #3 {
+INFO  23:14:18,174 - #10 return
+INFO  23:14:18,175 - #19 3
+INFO  23:14:18,175 - #5 ;
+INFO  23:14:18,175 - #4 }
+INFO  23:14:18,176 - #4 }
+INFO  23:16:25,415 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:16:25,489 - #2 program
+INFO  23:16:25,489 - #15 MJProgram
+INFO  23:16:25,489 - #3 {
+INFO  23:16:25,491 - #15 int
+INFO  23:16:25,491 - #15 main
+INFO  23:16:25,492 - #6 (
+INFO  23:16:25,493 - #7 )
+INFO  23:16:25,493 - #3 {
+INFO  23:16:25,495 - #10 return
+INFO  23:16:25,496 - #19 3
+INFO  23:16:25,496 - #5 ;
+INFO  23:16:25,497 - #4 }
+INFO  23:16:25,498 - #4 }
+INFO  23:16:35,986 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:16:36,050 - #2 program
+INFO  23:16:36,050 - #15 MJProgram
+INFO  23:16:36,050 - #3 {
+INFO  23:16:36,051 - #15 int
+INFO  23:16:36,052 - #15 main
+INFO  23:16:36,053 - #6 (
+INFO  23:16:36,053 - #7 )
+INFO  23:16:36,054 - #3 {
+INFO  23:16:36,054 - #10 return
+INFO  23:16:36,055 - #19 3
+INFO  23:16:36,055 - #5 ;
+INFO  23:16:36,056 - #4 }
+INFO  23:16:36,056 - #4 }
+INFO  23:16:36,072 - Print calls = 0
+INFO  23:22:30,833 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:22:30,893 - #2 program
+INFO  23:22:30,893 - #15 MJProgram
+INFO  23:22:30,893 - #3 {
+INFO  23:22:30,894 - #14 void
+INFO  23:22:30,895 - #15 main
+INFO  23:22:30,895 - #6 (
+INFO  23:22:30,895 - #7 )
+INFO  23:22:30,896 - #3 {
+INFO  23:22:30,897 - #10 return
+INFO  23:22:30,897 - #5 ;
+INFO  23:22:30,897 - #4 }
+INFO  23:22:30,898 - #4 }
+INFO  23:22:30,917 - Print calls = 0
+INFO  00:01:01,505 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:01:02,232 - #2 program
+INFO  00:01:02,232 - #15 MJProgram
+INFO  00:01:02,233 - #3 {
+INFO  00:01:02,247 - #14 void
+INFO  00:01:02,254 - #15 main
+INFO  00:01:02,255 - #6 (
+INFO  00:01:02,255 - #7 )
+INFO  00:01:02,262 - #3 {
+INFO  00:01:02,269 - #10 return
+INFO  00:01:02,271 - #5 ;
+INFO  00:01:02,271 - #4 }
+INFO  00:01:02,279 - #4 }
+INFO  00:01:02,326 - Print calls = 0
+INFO  00:01:14,820 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:01:14,880 - #2 program
+INFO  00:01:14,880 - #15 MJProgram
+INFO  00:01:14,880 - #3 {
+INFO  00:01:14,881 - #14 void
+INFO  00:01:14,882 - #15 main
+INFO  00:01:14,882 - #6 (
+INFO  00:01:14,882 - #7 )
+INFO  00:01:14,883 - #3 {
+INFO  00:01:14,884 - #4 }
+INFO  00:01:14,884 - #4 }
+INFO  00:01:14,902 - Print calls = 0
+INFO  00:01:33,639 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:01:33,698 - #2 program
+INFO  00:01:33,698 - #15 MJProgram
+INFO  00:01:33,698 - #15 int
+INFO  00:01:33,699 - #15 x
+INFO  00:01:33,701 - #5 ;
+INFO  00:01:33,702 - #3 {
+INFO  00:01:33,711 - #14 void
+INFO  00:01:33,712 - #15 main
+INFO  00:01:33,712 - #6 (
+INFO  00:01:33,712 - #7 )
+INFO  00:01:33,713 - #3 {
+INFO  00:01:33,714 - #4 }
+INFO  00:01:33,715 - #4 }
+INFO  00:01:33,732 - Deklarisana promenljiva x na liniji 2
+INFO  00:01:33,732 - Print calls = 0
+INFO  00:04:25,401 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:04:25,463 - #2 program
+INFO  00:04:25,463 - #15 MJProgram
+INFO  00:04:25,463 - #15 int
+INFO  00:04:25,464 - #15 x
+INFO  00:04:25,465 - #22 [
+INFO  00:04:25,465 - #23 ]
+INFO  00:04:25,465 - #5 ;
+INFO  00:04:25,466 - #3 {
+INFO  00:04:25,467 - #14 void
+INFO  00:04:25,468 - #15 main
+INFO  00:04:25,468 - #6 (
+INFO  00:04:25,468 - #7 )
+INFO  00:04:25,469 - #3 {
+INFO  00:04:25,470 - #4 }
+INFO  00:04:25,471 - #4 }
+INFO  00:04:25,488 - Deklarisana promenljiva x na liniji 2
+INFO  00:04:25,488 - Print calls = 0
+INFO  00:04:52,559 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:04:52,623 - #2 program
+INFO  00:04:52,623 - #15 MJProgram
+INFO  00:04:52,623 - #15 int
+INFO  00:04:52,625 - #15 x
+INFO  00:04:52,625 - #22 [
+INFO  00:04:52,625 - #23 ]
+INFO  00:04:52,625 - #5 ;
+INFO  00:04:52,626 - #3 {
+INFO  00:04:52,627 - #14 void
+INFO  00:04:52,628 - #15 main
+INFO  00:04:52,628 - #6 (
+INFO  00:04:52,628 - #7 )
+INFO  00:04:52,629 - #3 {
+INFO  00:04:52,630 - #15 x
+INFO  00:04:52,631 - #13 =
+INFO  00:04:52,632 - #45 new
+INFO  00:04:52,632 - #15 int
+INFO  00:04:52,632 - #22 [
+INFO  00:04:52,632 - #19 5
+INFO  00:04:52,632 - #23 ]
+INFO  00:04:52,633 - #5 ;
+INFO  00:04:52,634 - #4 }
+INFO  00:04:52,634 - #4 }
+INFO  00:04:52,652 - Deklarisana promenljiva x na liniji 2
+ERROR 00:04:52,653 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  00:04:52,653 - Print calls = 0
+INFO  00:09:04,308 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:09:04,372 - #2 program
+INFO  00:09:04,372 - #15 MJProgram
+INFO  00:09:04,372 - #15 int
+INFO  00:09:04,373 - #15 x
+INFO  00:09:04,374 - #5 ;
+INFO  00:09:04,374 - #3 {
+INFO  00:09:04,375 - #15 int
+INFO  00:09:04,376 - #15 fja
+INFO  00:09:04,376 - #6 (
+INFO  00:09:04,376 - #7 )
+INFO  00:09:04,377 - #3 {
+INFO  00:09:04,378 - #10 return
+INFO  00:09:04,379 - #19 5
+INFO  00:09:04,379 - #5 ;
+INFO  00:09:04,379 - #4 }
+INFO  00:09:04,380 - #14 void
+INFO  00:09:04,381 - #15 main
+INFO  00:09:04,381 - #6 (
+INFO  00:09:04,381 - #7 )
+INFO  00:09:04,381 - #3 {
+INFO  00:09:04,381 - #15 x
+INFO  00:09:04,381 - #13 =
+INFO  00:09:04,382 - #15 fja
+INFO  00:09:04,382 - #6 (
+INFO  00:09:04,382 - #7 )
+INFO  00:09:04,397 - #5 ;
+INFO  00:09:04,398 - #4 }
+INFO  00:09:04,398 - #4 }
+INFO  00:09:04,421 - Deklarisana promenljiva x na liniji 2
+INFO  00:09:04,421 - Print calls = 0
+INFO  00:09:16,537 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:09:16,596 - #2 program
+INFO  00:09:16,596 - #15 MJProgram
+INFO  00:09:16,596 - #15 int
+INFO  00:09:16,597 - #15 x
+INFO  00:09:16,598 - #5 ;
+INFO  00:09:16,599 - #3 {
+INFO  00:09:16,600 - #15 int
+INFO  00:09:16,600 - #15 fja
+INFO  00:09:16,601 - #6 (
+INFO  00:09:16,601 - #7 )
+INFO  00:09:16,601 - #3 {
+INFO  00:09:16,602 - #10 return
+INFO  00:09:16,603 - #19 5
+INFO  00:09:16,603 - #5 ;
+INFO  00:09:16,604 - #4 }
+INFO  00:09:16,604 - #14 void
+INFO  00:09:16,605 - #15 main
+INFO  00:09:16,606 - #6 (
+INFO  00:09:16,606 - #7 )
+INFO  00:09:16,606 - #3 {
+INFO  00:09:16,606 - #15 x
+INFO  00:09:16,606 - #13 =
+INFO  00:09:16,606 - #15 fja
+INFO  00:09:16,606 - #6 (
+INFO  00:09:16,606 - #7 )
+INFO  00:09:16,607 - #5 ;
+INFO  00:09:16,608 - #10 return
+INFO  00:09:16,608 - #5 ;
+INFO  00:09:16,608 - #4 }
+INFO  00:09:16,609 - #4 }
+INFO  00:09:16,625 - Deklarisana promenljiva x na liniji 2
+INFO  00:09:16,626 - Print calls = 0
+INFO  00:09:25,428 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:09:25,490 - #2 program
+INFO  00:09:25,490 - #15 MJProgram
+INFO  00:09:25,490 - #15 int
+INFO  00:09:25,492 - #15 x
+INFO  00:09:25,492 - #5 ;
+INFO  00:09:25,493 - #3 {
+INFO  00:09:25,494 - #15 int
+INFO  00:09:25,495 - #15 fja
+INFO  00:09:25,495 - #6 (
+INFO  00:09:25,495 - #7 )
+INFO  00:09:25,496 - #3 {
+INFO  00:09:25,497 - #10 return
+INFO  00:09:25,497 - #19 5
+INFO  00:09:25,498 - #5 ;
+INFO  00:09:25,498 - #4 }
+INFO  00:09:25,499 - #14 void
+INFO  00:09:25,500 - #15 main
+INFO  00:09:25,500 - #6 (
+INFO  00:09:25,500 - #7 )
+INFO  00:09:25,500 - #3 {
+INFO  00:09:25,500 - #15 x
+INFO  00:09:25,500 - #13 =
+INFO  00:09:25,500 - #15 fja
+INFO  00:09:25,501 - #6 (
+INFO  00:09:25,501 - #7 )
+INFO  00:09:25,502 - #5 ;
+INFO  00:09:25,502 - #10 return
+INFO  00:09:25,502 - #19 3
+INFO  00:09:25,503 - #5 ;
+INFO  00:09:25,503 - #4 }
+INFO  00:09:25,503 - #4 }
+INFO  00:09:25,519 - Deklarisana promenljiva x na liniji 2
+ERROR 00:09:25,519 - Greska na liniji 11 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije main
+INFO  00:09:25,519 - Print calls = 0
+INFO  00:12:10,633 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:12:10,693 - #2 program
+INFO  00:12:10,693 - #15 MJProgram
+INFO  00:12:10,693 - #15 int
+INFO  00:12:10,694 - #15 x
+INFO  00:12:10,695 - #5 ;
+INFO  00:12:10,695 - #3 {
+INFO  00:12:10,697 - #15 int
+INFO  00:12:10,697 - #15 fja
+INFO  00:12:10,698 - #6 (
+INFO  00:12:10,698 - #7 )
+INFO  00:12:10,699 - #3 {
+INFO  00:12:10,700 - #10 return
+INFO  00:12:10,701 - #19 5
+INFO  00:12:10,701 - #5 ;
+INFO  00:12:10,702 - #4 }
+INFO  00:12:10,702 - #14 void
+INFO  00:12:10,704 - #15 main
+INFO  00:12:10,704 - #6 (
+INFO  00:12:10,704 - #7 )
+INFO  00:12:10,704 - #3 {
+INFO  00:12:10,705 - #15 x
+INFO  00:12:10,705 - #13 =
+INFO  00:12:10,705 - #15 fja
+INFO  00:12:10,705 - #6 (
+INFO  00:12:10,705 - #7 )
+INFO  00:12:10,706 - #5 ;
+INFO  00:12:10,706 - #10 return
+INFO  00:12:10,707 - #19 3
+INFO  00:12:10,707 - #5 ;
+INFO  00:12:10,707 - #4 }
+INFO  00:12:10,707 - #4 }
+INFO  00:12:10,723 - Deklarisana promenljiva x na liniji 2
+ERROR 00:12:10,723 - Greska na liniji 11 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije main
+INFO  00:12:10,723 - Print calls = 0
+INFO  00:12:34,724 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:12:34,786 - #2 program
+INFO  00:12:34,786 - #15 MJProgram
+INFO  00:12:34,786 - #15 int
+INFO  00:12:34,787 - #15 x
+INFO  00:12:34,788 - #5 ;
+INFO  00:12:34,788 - #3 {
+INFO  00:12:34,789 - #15 int
+INFO  00:12:34,790 - #15 fja
+INFO  00:12:34,790 - #6 (
+INFO  00:12:34,790 - #7 )
+INFO  00:12:34,791 - #3 {
+INFO  00:12:34,792 - #10 return
+INFO  00:12:34,793 - #19 5
+INFO  00:12:34,793 - #5 ;
+INFO  00:12:34,794 - #4 }
+INFO  00:12:34,795 - #15 int
+INFO  00:12:34,796 - #15 main
+INFO  00:12:34,796 - #6 (
+INFO  00:12:34,796 - #7 )
+INFO  00:12:34,796 - #3 {
+INFO  00:12:34,796 - #15 x
+INFO  00:12:34,796 - #13 =
+INFO  00:12:34,796 - #15 fja
+INFO  00:12:34,796 - #6 (
+INFO  00:12:34,796 - #7 )
+INFO  00:12:34,797 - #5 ;
+INFO  00:12:34,798 - #10 return
+INFO  00:12:34,798 - #19 3
+INFO  00:12:34,799 - #5 ;
+INFO  00:12:34,799 - #4 }
+INFO  00:12:34,799 - #4 }
+INFO  00:12:34,814 - Deklarisana promenljiva x na liniji 2
+INFO  00:12:34,815 - Print calls = 0
+INFO  00:13:31,034 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:13:31,107 - #2 program
+INFO  00:13:31,107 - #15 MJProgram
+INFO  00:13:31,107 - #3 {
+INFO  00:13:31,108 - #15 int
+INFO  00:13:31,109 - #15 main
+INFO  00:13:31,110 - #6 (
+INFO  00:13:31,111 - #7 )
+INFO  00:13:31,112 - #3 {
+INFO  00:13:31,113 - #10 return
+INFO  00:13:31,114 - #19 3
+INFO  00:13:31,114 - #5 ;
+INFO  00:13:31,114 - #4 }
+INFO  00:13:31,115 - #4 }
+INFO  00:14:28,150 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:14:28,209 - #2 program
+INFO  00:14:28,209 - #15 MJProgram
+INFO  00:14:28,209 - #3 {
+INFO  00:14:28,210 - #15 int
+INFO  00:14:28,211 - #15 main
+INFO  00:14:28,212 - #6 (
+INFO  00:14:28,212 - #7 )
+INFO  00:14:28,213 - #3 {
+INFO  00:14:28,214 - #10 return
+INFO  00:14:28,214 - #19 3
+INFO  00:14:28,215 - #5 ;
+INFO  00:14:28,215 - #4 }
+INFO  00:14:28,216 - #4 }
+ERROR 00:14:28,234 - Semanticka greska: main metoda ne sme imati povratnu vrednost 
+INFO  00:14:28,235 - Print calls = 0
+INFO  00:25:22,247 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:25:22,312 - #2 program
+INFO  00:25:22,312 - #15 MJProgram
+INFO  00:25:22,312 - #15 int
+INFO  00:25:22,313 - #15 x
+INFO  00:25:22,314 - #22 [
+INFO  00:25:22,314 - #23 ]
+INFO  00:25:22,314 - #5 ;
+INFO  00:25:22,314 - #3 {
+INFO  00:25:22,315 - #14 void
+INFO  00:25:22,316 - #15 main
+INFO  00:25:22,316 - #6 (
+INFO  00:25:22,316 - #7 )
+INFO  00:25:22,317 - #3 {
+INFO  00:25:22,318 - #10 return
+INFO  00:25:22,319 - #19 3
+INFO  00:25:22,319 - #5 ;
+INFO  00:25:22,320 - #4 }
+INFO  00:25:22,320 - #4 }
+INFO  00:25:22,340 - Deklarisana promenljiva x na liniji 2
+ERROR 00:25:22,340 - Greska na liniji 7 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije main
+INFO  00:25:22,340 - Print calls = 0
+INFO  00:25:50,574 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:25:50,632 - #2 program
+INFO  00:25:50,632 - #15 MJProgram
+INFO  00:25:50,632 - #15 int
+INFO  00:25:50,634 - #15 x
+INFO  00:25:50,635 - #22 [
+INFO  00:25:50,635 - #23 ]
+INFO  00:25:50,635 - #5 ;
+INFO  00:25:50,636 - #3 {
+INFO  00:25:50,637 - #14 void
+INFO  00:25:50,638 - #15 main
+INFO  00:25:50,638 - #6 (
+INFO  00:25:50,638 - #7 )
+INFO  00:25:50,639 - #3 {
+INFO  00:25:50,640 - #15 x
+INFO  00:25:50,641 - #13 =
+INFO  00:25:50,641 - #45 new
+INFO  00:25:50,641 - #15 int
+INFO  00:25:50,641 - #22 [
+INFO  00:25:50,642 - #19 4
+INFO  00:25:50,642 - #23 ]
+INFO  00:25:50,643 - #5 ;
+INFO  00:25:50,643 - #4 }
+INFO  00:25:50,644 - #4 }
+INFO  00:25:50,661 - Deklarisana promenljiva x na liniji 2
+ERROR 00:25:50,662 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  00:25:50,662 - Print calls = 0
+INFO  00:26:16,104 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:26:16,158 - #2 program
+INFO  00:26:16,158 - #15 MJProgram
+INFO  00:26:16,158 - #15 int
+INFO  00:26:16,159 - #15 x
+INFO  00:26:16,160 - #22 [
+INFO  00:26:16,160 - #23 ]
+INFO  00:26:16,160 - #5 ;
+INFO  00:26:16,160 - #3 {
+INFO  00:26:16,162 - #14 void
+INFO  00:26:16,163 - #15 main
+INFO  00:26:16,163 - #6 (
+INFO  00:26:16,163 - #7 )
+INFO  00:26:16,164 - #3 {
+INFO  00:26:16,165 - #15 x
+INFO  00:26:16,167 - #13 =
+INFO  00:26:16,167 - #45 new
+INFO  00:26:16,167 - #15 int
+INFO  00:26:16,168 - #22 [
+INFO  00:26:16,168 - #19 4
+INFO  00:26:16,168 - #23 ]
+INFO  00:26:16,169 - #5 ;
+INFO  00:26:16,170 - #4 }
+INFO  00:26:16,170 - #4 }
+INFO  00:26:16,190 - Deklarisana promenljiva x na liniji 2
+ERROR 00:26:16,190 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  00:26:16,190 - Print calls = 0
+INFO  00:30:58,490 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:30:58,977 - #2 program
+INFO  00:30:58,977 - #15 MJProgram
+INFO  00:30:58,977 - #15 int
+INFO  00:30:58,981 - #15 x
+INFO  00:30:58,984 - #22 [
+INFO  00:30:58,984 - #23 ]
+INFO  00:30:58,984 - #5 ;
+INFO  00:30:58,984 - #3 {
+INFO  00:30:58,987 - #14 void
+INFO  00:30:58,994 - #15 main
+INFO  00:30:58,995 - #6 (
+INFO  00:30:58,995 - #7 )
+INFO  00:30:58,997 - #3 {
+INFO  00:30:59,005 - #15 x
+INFO  00:30:59,008 - #13 =
+INFO  00:30:59,008 - #45 new
+INFO  00:30:59,008 - #15 int
+INFO  00:30:59,008 - #22 [
+INFO  00:30:59,008 - #19 4
+INFO  00:30:59,008 - #23 ]
+INFO  00:30:59,009 - #5 ;
+INFO  00:30:59,010 - #4 }
+INFO  00:30:59,010 - #4 }
+INFO  00:31:08,993 - Deklarisana promenljiva x na liniji 2
+INFO  00:35:54,014 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:35:54,085 - #2 program
+INFO  00:35:54,085 - #15 MJProgram
+INFO  00:35:54,085 - #15 int
+INFO  00:35:54,086 - #15 x
+INFO  00:35:54,087 - #22 [
+INFO  00:35:54,087 - #23 ]
+INFO  00:35:54,087 - #5 ;
+INFO  00:35:54,088 - #3 {
+INFO  00:35:54,089 - #14 void
+INFO  00:35:54,090 - #15 main
+INFO  00:35:54,090 - #6 (
+INFO  00:35:54,090 - #7 )
+INFO  00:35:54,091 - #3 {
+INFO  00:35:54,092 - #15 x
+INFO  00:35:54,093 - #13 =
+INFO  00:35:54,093 - #45 new
+INFO  00:35:54,093 - #15 int
+INFO  00:35:54,094 - #22 [
+INFO  00:35:54,094 - #19 4
+INFO  00:35:54,094 - #23 ]
+INFO  00:35:54,094 - #5 ;
+INFO  00:35:54,095 - #4 }
+INFO  00:35:54,095 - #4 }
+INFO  00:36:16,522 - Deklarisana promenljiva x na liniji 2
+INFO  00:43:24,136 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:43:24,197 - #2 program
+INFO  00:43:24,197 - #15 MJProgram
+INFO  00:43:24,197 - #15 int
+INFO  00:43:24,199 - #15 x
+INFO  00:43:24,199 - #22 [
+INFO  00:43:24,199 - #23 ]
+INFO  00:43:24,200 - #5 ;
+INFO  00:43:24,200 - #3 {
+INFO  00:43:24,201 - #14 void
+INFO  00:43:24,201 - #15 main
+INFO  00:43:24,202 - #6 (
+INFO  00:43:24,202 - #7 )
+INFO  00:43:24,203 - #3 {
+INFO  00:43:24,203 - #15 x
+INFO  00:43:24,204 - #13 =
+INFO  00:43:24,204 - #45 new
+INFO  00:43:24,204 - #15 int
+INFO  00:43:24,205 - #22 [
+INFO  00:43:24,205 - #19 4
+INFO  00:43:24,205 - #23 ]
+INFO  00:43:24,205 - #5 ;
+INFO  00:43:24,206 - #4 }
+INFO  00:43:24,206 - #4 }
+INFO  00:43:24,224 - Deklarisana promenljiva x na liniji 2
+ERROR 00:43:24,224 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  00:43:24,224 - Print calls = 0
+INFO  00:43:46,496 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:43:46,568 - #2 program
+INFO  00:43:46,568 - #15 MJProgram
+INFO  00:43:46,569 - #15 int
+INFO  00:43:46,570 - #15 x
+INFO  00:43:46,571 - #22 [
+INFO  00:43:46,571 - #23 ]
+INFO  00:43:46,571 - #5 ;
+INFO  00:43:46,571 - #3 {
+INFO  00:43:46,572 - #14 void
+INFO  00:43:46,573 - #15 main
+INFO  00:43:46,574 - #6 (
+INFO  00:43:46,574 - #7 )
+INFO  00:43:46,575 - #3 {
+INFO  00:43:46,576 - #15 x
+INFO  00:43:46,576 - #13 =
+INFO  00:43:46,577 - #45 new
+INFO  00:43:46,577 - #15 int
+INFO  00:43:46,577 - #22 [
+INFO  00:43:46,577 - #19 4
+INFO  00:43:46,577 - #23 ]
+INFO  00:43:46,578 - #5 ;
+INFO  00:43:46,578 - #4 }
+INFO  00:43:46,579 - #4 }
+INFO  00:49:32,614 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:49:32,676 - #2 program
+INFO  00:49:32,676 - #15 MJProgram
+INFO  00:49:32,676 - #15 int
+INFO  00:49:32,677 - #15 x
+INFO  00:49:32,678 - #22 [
+INFO  00:49:32,678 - #23 ]
+INFO  00:49:32,678 - #5 ;
+INFO  00:49:32,679 - #3 {
+INFO  00:49:32,680 - #14 void
+INFO  00:49:32,681 - #15 main
+INFO  00:49:32,681 - #6 (
+INFO  00:49:32,682 - #7 )
+INFO  00:49:32,683 - #3 {
+INFO  00:49:32,684 - #15 x
+INFO  00:49:32,685 - #13 =
+INFO  00:49:32,685 - #45 new
+INFO  00:49:32,685 - #15 int
+INFO  00:49:32,685 - #22 [
+INFO  00:49:32,685 - #19 4
+INFO  00:49:32,686 - #23 ]
+INFO  00:49:32,686 - #5 ;
+INFO  00:49:32,687 - #4 }
+INFO  00:49:32,687 - #4 }
+INFO  00:49:32,704 - Deklarisana promenljiva x na liniji 2
+ERROR 00:49:32,705 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  00:49:32,705 - Print calls = 0
+INFO  00:50:02,442 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:50:02,513 - #2 program
+INFO  00:50:02,513 - #15 MJProgram
+INFO  00:50:02,513 - #15 int
+INFO  00:50:02,514 - #15 x
+INFO  00:50:02,515 - #22 [
+INFO  00:50:02,515 - #23 ]
+INFO  00:50:02,515 - #5 ;
+INFO  00:50:02,516 - #3 {
+INFO  00:50:02,517 - #14 void
+INFO  00:50:02,518 - #15 main
+INFO  00:50:02,518 - #6 (
+INFO  00:50:02,518 - #7 )
+INFO  00:50:02,519 - #3 {
+INFO  00:50:02,520 - #15 x
+INFO  00:50:02,521 - #13 =
+INFO  00:50:02,521 - #45 new
+INFO  00:50:02,522 - #15 int
+INFO  00:50:02,522 - #22 [
+INFO  00:50:02,522 - #19 4
+INFO  00:50:02,522 - #23 ]
+INFO  00:50:02,523 - #5 ;
+INFO  00:50:02,523 - #4 }
+INFO  00:50:02,524 - #4 }
+INFO  00:53:25,457 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:53:25,517 - #2 program
+INFO  00:53:25,517 - #15 MJProgram
+INFO  00:53:25,517 - #15 int
+INFO  00:53:25,518 - #15 x
+INFO  00:53:25,519 - #22 [
+INFO  00:53:25,519 - #23 ]
+INFO  00:53:25,519 - #5 ;
+INFO  00:53:25,520 - #3 {
+INFO  00:53:25,521 - #14 void
+INFO  00:53:25,522 - #15 main
+INFO  00:53:25,522 - #6 (
+INFO  00:53:25,522 - #7 )
+INFO  00:53:25,523 - #3 {
+INFO  00:53:25,524 - #45 new
+ERROR 00:53:25,524 - 
+Sintaksna greska na liniji 7
+ERROR 00:53:25,524 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7
+INFO  00:54:37,189 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:54:37,259 - #2 program
+INFO  00:54:37,259 - #15 MJProgram
+INFO  00:54:37,259 - #15 int
+INFO  00:54:37,261 - #15 x
+INFO  00:54:37,262 - #22 [
+INFO  00:54:37,262 - #23 ]
+INFO  00:54:37,262 - #5 ;
+INFO  00:54:37,262 - #3 {
+INFO  00:54:37,263 - #14 void
+INFO  00:54:37,265 - #15 main
+INFO  00:54:37,265 - #6 (
+INFO  00:54:37,266 - #7 )
+INFO  00:54:37,267 - #3 {
+INFO  00:54:37,268 - #15 x
+INFO  00:54:37,270 - #13 =
+INFO  00:54:37,270 - #45 new
+INFO  00:54:37,270 - #15 int
+INFO  00:54:37,270 - #22 [
+INFO  00:54:37,270 - #19 4
+INFO  00:54:37,270 - #23 ]
+INFO  00:54:37,271 - #5 ;
+INFO  00:54:37,272 - #4 }
+INFO  00:54:37,272 - #4 }
+ERROR 00:54:59,929 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  00:55:10,713 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:55:10,772 - #2 program
+INFO  00:55:10,772 - #15 MJProgram
+INFO  00:55:10,772 - #15 int
+INFO  00:55:10,773 - #15 x
+INFO  00:55:10,774 - #22 [
+INFO  00:55:10,774 - #23 ]
+INFO  00:55:10,774 - #5 ;
+INFO  00:55:10,775 - #3 {
+INFO  00:55:10,776 - #14 void
+INFO  00:55:10,776 - #15 main
+INFO  00:55:10,777 - #6 (
+INFO  00:55:10,777 - #7 )
+INFO  00:55:10,778 - #3 {
+INFO  00:55:10,778 - #15 x
+INFO  00:55:10,779 - #13 =
+INFO  00:55:10,779 - #45 new
+INFO  00:55:10,779 - #15 int
+INFO  00:55:10,780 - #22 [
+INFO  00:55:10,780 - #19 4
+INFO  00:55:10,780 - #23 ]
+INFO  00:55:10,780 - #5 ;
+INFO  00:55:10,781 - #4 }
+INFO  00:55:10,781 - #4 }
+INFO  00:55:10,799 - Deklarisana promenljiva x na liniji 2
+ERROR 00:55:10,799 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  00:55:10,799 - Print calls = 0
+INFO  00:55:21,396 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:55:21,470 - #2 program
+INFO  00:55:21,471 - #15 MJProgram
+INFO  00:55:21,471 - #15 int
+INFO  00:55:21,472 - #15 x
+INFO  00:55:21,473 - #22 [
+INFO  00:55:21,473 - #23 ]
+INFO  00:55:21,473 - #5 ;
+INFO  00:55:21,474 - #3 {
+INFO  00:55:21,475 - #14 void
+INFO  00:55:21,476 - #15 main
+INFO  00:55:21,476 - #6 (
+INFO  00:55:21,476 - #7 )
+INFO  00:55:21,478 - #3 {
+INFO  00:55:21,478 - #15 x
+INFO  00:55:21,479 - #13 =
+INFO  00:55:21,480 - #45 new
+INFO  00:55:21,480 - #15 int
+INFO  00:55:21,480 - #22 [
+INFO  00:55:21,480 - #19 4
+INFO  00:55:21,480 - #23 ]
+INFO  00:55:21,481 - #5 ;
+INFO  00:55:21,481 - #4 }
+INFO  00:55:21,482 - #4 }
+INFO  00:55:40,996 - Deklarisana promenljiva x na liniji 2
+INFO  00:55:55,066 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:55:55,143 - #2 program
+INFO  00:55:55,143 - #15 MJProgram
+INFO  00:55:55,143 - #15 int
+INFO  00:55:55,144 - #15 x
+INFO  00:55:55,145 - #22 [
+INFO  00:55:55,145 - #23 ]
+INFO  00:55:55,145 - #5 ;
+INFO  00:55:55,146 - #3 {
+INFO  00:55:55,147 - #14 void
+INFO  00:55:55,148 - #15 main
+INFO  00:55:55,148 - #6 (
+INFO  00:55:55,149 - #7 )
+INFO  00:55:55,150 - #3 {
+INFO  00:55:55,150 - #15 x
+INFO  00:55:55,152 - #13 =
+INFO  00:55:55,152 - #45 new
+INFO  00:55:55,152 - #15 int
+INFO  00:55:55,153 - #22 [
+INFO  00:55:55,153 - #19 4
+INFO  00:55:55,153 - #23 ]
+INFO  00:55:55,154 - #5 ;
+INFO  00:55:55,154 - #4 }
+INFO  00:55:55,155 - #4 }
+INFO  00:56:24,791 - Deklarisana promenljiva x na liniji 2
+INFO  00:59:16,986 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:59:17,061 - #2 program
+INFO  00:59:17,061 - #15 MJProgram
+INFO  00:59:17,061 - #15 int
+INFO  00:59:17,062 - #15 x
+INFO  00:59:17,063 - #22 [
+INFO  00:59:17,063 - #23 ]
+INFO  00:59:17,064 - #5 ;
+INFO  00:59:17,064 - #3 {
+INFO  00:59:17,065 - #14 void
+INFO  00:59:17,066 - #15 main
+INFO  00:59:17,066 - #6 (
+INFO  00:59:17,067 - #7 )
+INFO  00:59:17,068 - #3 {
+INFO  00:59:17,068 - #15 x
+INFO  00:59:17,069 - #13 =
+INFO  00:59:17,070 - #45 new
+INFO  00:59:17,070 - #15 int
+INFO  00:59:17,070 - #22 [
+INFO  00:59:17,070 - #19 4
+INFO  00:59:17,070 - #23 ]
+INFO  00:59:17,071 - #5 ;
+INFO  00:59:17,071 - #4 }
+INFO  00:59:17,072 - #4 }
+INFO  00:59:41,488 - Deklarisana promenljiva x na liniji 2
+INFO  01:05:56,015 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:05:56,089 - #2 program
+INFO  01:05:56,089 - #15 MJProgram
+INFO  01:05:56,089 - #15 int
+INFO  01:05:56,091 - #15 x
+INFO  01:05:56,092 - #22 [
+INFO  01:05:56,093 - #23 ]
+INFO  01:05:56,093 - #5 ;
+INFO  01:05:56,093 - #3 {
+INFO  01:05:56,094 - #14 void
+INFO  01:05:56,096 - #15 main
+INFO  01:05:56,096 - #6 (
+INFO  01:05:56,096 - #7 )
+INFO  01:05:56,097 - #3 {
+INFO  01:05:56,099 - #15 x
+INFO  01:05:56,101 - #13 =
+INFO  01:05:56,101 - #45 new
+INFO  01:05:56,101 - #15 int
+INFO  01:05:56,101 - #22 [
+INFO  01:05:56,101 - #19 4
+INFO  01:05:56,102 - #23 ]
+INFO  01:05:56,103 - #5 ;
+INFO  01:05:56,103 - #4 }
+INFO  01:05:56,103 - #4 }
+INFO  01:06:10,205 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:06:10,277 - #2 program
+INFO  01:06:10,278 - #15 MJProgram
+INFO  01:06:10,278 - #15 int
+INFO  01:06:10,279 - #15 x
+INFO  01:06:10,280 - #22 [
+INFO  01:06:10,280 - #23 ]
+INFO  01:06:10,280 - #5 ;
+INFO  01:06:10,281 - #3 {
+INFO  01:06:10,282 - #14 void
+INFO  01:06:10,283 - #15 main
+INFO  01:06:10,283 - #6 (
+INFO  01:06:10,283 - #7 )
+INFO  01:06:10,284 - #3 {
+INFO  01:06:10,285 - #15 x
+INFO  01:06:10,286 - #13 =
+INFO  01:06:10,286 - #45 new
+INFO  01:06:10,286 - #15 int
+INFO  01:06:10,287 - #22 [
+INFO  01:06:10,287 - #19 4
+INFO  01:06:10,287 - #23 ]
+INFO  01:06:10,287 - #5 ;
+INFO  01:06:10,288 - #4 }
+INFO  01:06:10,289 - #4 }
+INFO  01:06:33,728 - Deklarisana promenljiva x na liniji 2
+INFO  01:08:39,497 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:08:39,567 - #2 program
+INFO  01:08:39,567 - #15 MJProgram
+INFO  01:08:39,567 - #15 int
+INFO  01:08:39,568 - #15 x
+INFO  01:08:39,569 - #22 [
+INFO  01:08:39,569 - #23 ]
+INFO  01:08:39,569 - #5 ;
+INFO  01:08:39,570 - #3 {
+INFO  01:08:39,572 - #14 void
+INFO  01:08:39,573 - #15 main
+INFO  01:08:39,573 - #6 (
+INFO  01:08:39,573 - #7 )
+INFO  01:08:39,574 - #3 {
+INFO  01:08:39,575 - #15 x
+INFO  01:08:39,575 - #22 [
+INFO  01:08:39,576 - #23 ]
+ERROR 01:08:39,576 - 
+Sintaksna greska na liniji 7
+ERROR 01:08:39,576 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7
+INFO  01:08:58,659 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:08:58,733 - #2 program
+INFO  01:08:58,733 - #15 MJProgram
+INFO  01:08:58,733 - #15 int
+INFO  01:08:58,734 - #15 x
+INFO  01:08:58,735 - #22 [
+INFO  01:08:58,735 - #23 ]
+INFO  01:08:58,735 - #5 ;
+INFO  01:08:58,736 - #3 {
+INFO  01:08:58,737 - #14 void
+INFO  01:08:58,738 - #15 main
+INFO  01:08:58,738 - #6 (
+INFO  01:08:58,738 - #7 )
+INFO  01:08:58,739 - #3 {
+INFO  01:08:58,740 - #15 x
+INFO  01:08:58,741 - #13 =
+INFO  01:08:58,742 - #45 new
+INFO  01:08:58,742 - #15 int
+INFO  01:08:58,742 - #22 [
+INFO  01:08:58,742 - #19 4
+INFO  01:08:58,742 - #23 ]
+INFO  01:08:58,743 - #5 ;
+INFO  01:08:58,743 - #4 }
+INFO  01:08:58,744 - #4 }
+INFO  01:11:52,817 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:11:52,887 - #2 program
+INFO  01:11:52,887 - #15 MJProgram
+INFO  01:11:52,887 - #15 int
+INFO  01:11:52,889 - #15 x
+INFO  01:11:52,889 - #22 [
+INFO  01:11:52,889 - #23 ]
+INFO  01:11:52,890 - #5 ;
+INFO  01:11:52,890 - #3 {
+INFO  01:11:52,891 - #14 void
+INFO  01:11:52,892 - #15 main
+INFO  01:11:52,892 - #6 (
+INFO  01:11:52,893 - #7 )
+INFO  01:11:52,894 - #3 {
+INFO  01:11:52,895 - #15 x
+INFO  01:11:52,896 - #13 =
+INFO  01:11:52,896 - #45 new
+INFO  01:11:52,896 - #15 int
+INFO  01:11:52,896 - #22 [
+INFO  01:11:52,896 - #19 4
+INFO  01:11:52,896 - #23 ]
+INFO  01:11:52,897 - #5 ;
+INFO  01:11:52,897 - #4 }
+INFO  01:11:52,898 - #4 }
+INFO  01:12:14,655 - Deklarisana promenljiva x na liniji 2
+INFO  01:21:53,204 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:21:53,265 - #2 program
+INFO  01:21:53,265 - #15 MJProgram
+INFO  01:21:53,265 - #15 int
+INFO  01:21:53,266 - #15 x
+INFO  01:21:53,267 - #22 [
+INFO  01:21:53,267 - #23 ]
+INFO  01:21:53,267 - #5 ;
+INFO  01:21:53,268 - #3 {
+INFO  01:21:53,268 - #14 void
+INFO  01:21:53,269 - #15 main
+INFO  01:21:53,269 - #6 (
+INFO  01:21:53,270 - #7 )
+INFO  01:21:53,270 - #3 {
+INFO  01:21:53,271 - #15 x
+INFO  01:21:53,272 - #13 =
+INFO  01:21:53,272 - #45 new
+INFO  01:21:53,272 - #15 int
+INFO  01:21:53,272 - #22 [
+INFO  01:21:53,272 - #19 4
+INFO  01:21:53,273 - #23 ]
+INFO  01:21:53,273 - #5 ;
+INFO  01:21:53,274 - #4 }
+INFO  01:21:53,274 - #4 }
+INFO  01:21:53,293 - Deklarisana promenljiva x na liniji 2
+ERROR 01:21:53,293 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  01:21:53,293 - Print calls = 0
+INFO  01:22:05,906 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:22:05,977 - #2 program
+INFO  01:22:05,977 - #15 MJProgram
+INFO  01:22:05,977 - #15 int
+INFO  01:22:05,979 - #15 x
+INFO  01:22:05,979 - #22 [
+INFO  01:22:05,980 - #23 ]
+INFO  01:22:05,980 - #5 ;
+INFO  01:22:05,980 - #3 {
+INFO  01:22:05,981 - #14 void
+INFO  01:22:05,982 - #15 main
+INFO  01:22:05,983 - #6 (
+INFO  01:22:05,983 - #7 )
+INFO  01:22:05,984 - #3 {
+INFO  01:22:05,985 - #15 x
+INFO  01:22:05,985 - #13 =
+INFO  01:22:05,986 - #45 new
+INFO  01:22:05,986 - #15 int
+INFO  01:22:05,986 - #22 [
+INFO  01:22:05,986 - #19 4
+INFO  01:22:05,986 - #23 ]
+INFO  01:22:05,987 - #5 ;
+INFO  01:22:05,987 - #4 }
+INFO  01:22:05,988 - #4 }
+INFO  01:22:16,063 - Deklarisana promenljiva x na liniji 2
+INFO  01:26:40,905 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:26:40,979 - #2 program
+INFO  01:26:40,979 - #15 MJProgram
+INFO  01:26:40,979 - #15 int
+INFO  01:26:40,981 - #15 x
+INFO  01:26:40,982 - #22 [
+INFO  01:26:40,982 - #23 ]
+INFO  01:26:40,982 - #5 ;
+INFO  01:26:40,982 - #3 {
+INFO  01:26:40,984 - #14 void
+INFO  01:26:40,984 - #15 main
+INFO  01:26:40,985 - #6 (
+INFO  01:26:40,985 - #7 )
+INFO  01:26:40,986 - #3 {
+INFO  01:26:40,987 - #15 x
+INFO  01:26:40,988 - #13 =
+INFO  01:26:40,988 - #45 new
+INFO  01:26:40,988 - #15 int
+INFO  01:26:40,988 - #22 [
+INFO  01:26:40,988 - #19 4
+INFO  01:26:40,988 - #23 ]
+INFO  01:26:40,989 - #5 ;
+INFO  01:26:40,989 - #4 }
+INFO  01:26:40,990 - #4 }
+INFO  01:26:57,529 - Deklarisana promenljiva x na liniji 2
+INFO  01:30:41,389 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:30:41,449 - #2 program
+INFO  01:30:41,449 - #15 MJProgram
+INFO  01:30:41,449 - #15 int
+INFO  01:30:41,451 - #15 x
+INFO  01:30:41,451 - #22 [
+INFO  01:30:41,451 - #23 ]
+INFO  01:30:41,451 - #5 ;
+INFO  01:30:41,452 - #3 {
+INFO  01:30:41,453 - #14 void
+INFO  01:30:41,454 - #15 main
+INFO  01:30:41,454 - #6 (
+INFO  01:30:41,454 - #7 )
+INFO  01:30:41,455 - #3 {
+INFO  01:30:41,455 - #15 x
+INFO  01:30:41,456 - #13 =
+INFO  01:30:41,456 - #45 new
+INFO  01:30:41,456 - #15 int
+INFO  01:30:41,456 - #22 [
+INFO  01:30:41,457 - #19 4
+INFO  01:30:41,457 - #23 ]
+INFO  01:30:41,458 - #5 ;
+INFO  01:30:41,459 - #4 }
+INFO  01:30:41,459 - #4 }
+INFO  01:30:41,478 - Deklarisana promenljiva x na liniji 2
+ERROR 01:30:41,478 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  01:30:41,479 - Print calls = 0
+INFO  01:30:57,018 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:30:57,075 - #2 program
+INFO  01:30:57,075 - #15 MJProgram
+INFO  01:30:57,075 - #15 int
+INFO  01:30:57,076 - #15 x
+INFO  01:30:57,077 - #22 [
+INFO  01:30:57,077 - #23 ]
+INFO  01:30:57,077 - #5 ;
+INFO  01:30:57,078 - #3 {
+INFO  01:30:57,079 - #14 void
+INFO  01:30:57,079 - #15 main
+INFO  01:30:57,079 - #6 (
+INFO  01:30:57,080 - #7 )
+INFO  01:30:57,080 - #3 {
+INFO  01:30:57,081 - #15 x
+INFO  01:30:57,082 - #13 =
+INFO  01:30:57,082 - #45 new
+INFO  01:30:57,082 - #15 int
+INFO  01:30:57,082 - #22 [
+INFO  01:30:57,082 - #19 4
+INFO  01:30:57,082 - #23 ]
+INFO  01:30:57,083 - #5 ;
+INFO  01:30:57,083 - #4 }
+INFO  01:30:57,084 - #4 }
+INFO  01:30:57,101 - Deklarisana promenljiva x na liniji 2
+ERROR 01:30:57,102 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  01:30:57,102 - Print calls = 0
+INFO  01:31:34,770 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:31:34,830 - #2 program
+INFO  01:31:34,830 - #15 MJProgram
+INFO  01:31:34,830 - #15 int
+INFO  01:31:34,831 - #15 x
+INFO  01:31:34,832 - #22 [
+INFO  01:31:34,832 - #23 ]
+INFO  01:31:34,832 - #5 ;
+INFO  01:31:34,833 - #3 {
+INFO  01:31:34,834 - #14 void
+INFO  01:31:34,835 - #15 main
+INFO  01:31:34,835 - #6 (
+INFO  01:31:34,835 - #7 )
+INFO  01:31:34,836 - #3 {
+INFO  01:31:34,837 - #15 x
+INFO  01:31:34,837 - #13 =
+INFO  01:31:34,838 - #45 new
+INFO  01:31:34,838 - #15 int
+INFO  01:31:34,838 - #22 [
+INFO  01:31:34,838 - #19 4
+INFO  01:31:34,838 - #23 ]
+INFO  01:31:34,839 - #5 ;
+INFO  01:31:34,839 - #4 }
+INFO  01:31:34,839 - #4 }
+INFO  01:31:34,856 - Deklarisana promenljiva x na liniji 2
+ERROR 01:31:34,857 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  01:31:34,857 - Print calls = 0
+INFO  01:35:34,270 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:35:34,330 - #2 program
+INFO  01:35:34,330 - #15 MJProgram
+INFO  01:35:34,330 - #15 int
+INFO  01:35:34,332 - #15 x
+INFO  01:35:34,332 - #22 [
+INFO  01:35:34,332 - #23 ]
+INFO  01:35:34,332 - #5 ;
+INFO  01:35:34,333 - #3 {
+INFO  01:35:34,334 - #14 void
+INFO  01:35:34,335 - #15 main
+INFO  01:35:34,335 - #6 (
+INFO  01:35:34,335 - #7 )
+INFO  01:35:34,336 - #3 {
+INFO  01:35:34,337 - #15 x
+INFO  01:35:34,337 - #13 =
+INFO  01:35:34,338 - #45 new
+INFO  01:35:34,338 - #15 int
+INFO  01:35:34,338 - #22 [
+INFO  01:35:34,338 - #19 4
+INFO  01:35:34,338 - #23 ]
+INFO  01:35:34,339 - #5 ;
+INFO  01:35:34,339 - #4 }
+INFO  01:35:34,339 - #4 }
+INFO  01:35:34,358 - Deklarisana promenljiva x na liniji 2
+ERROR 01:35:34,358 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  01:35:34,358 - Print calls = 0
+INFO  01:35:59,010 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:35:59,071 - #2 program
+INFO  01:35:59,071 - #15 MJProgram
+INFO  01:35:59,071 - #15 int
+INFO  01:35:59,072 - #15 x
+INFO  01:35:59,073 - #22 [
+INFO  01:35:59,073 - #23 ]
+INFO  01:35:59,073 - #5 ;
+INFO  01:35:59,074 - #3 {
+INFO  01:35:59,075 - #14 void
+INFO  01:35:59,075 - #15 main
+INFO  01:35:59,075 - #6 (
+INFO  01:35:59,076 - #7 )
+INFO  01:35:59,077 - #3 {
+INFO  01:35:59,078 - #15 x
+INFO  01:35:59,079 - #13 =
+INFO  01:35:59,079 - #45 new
+INFO  01:35:59,079 - #15 int
+INFO  01:35:59,079 - #22 [
+INFO  01:35:59,079 - #19 4
+INFO  01:35:59,079 - #23 ]
+INFO  01:35:59,080 - #5 ;
+INFO  01:35:59,081 - #4 }
+INFO  01:35:59,081 - #4 }
+INFO  01:35:59,100 - Deklarisana promenljiva x na liniji 2
+ERROR 01:35:59,100 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  01:35:59,100 - Print calls = 0
+INFO  01:36:11,594 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:36:11,658 - #2 program
+INFO  01:36:11,658 - #15 MJProgram
+INFO  01:36:11,658 - #15 int
+INFO  01:36:11,659 - #15 x
+INFO  01:36:11,660 - #22 [
+INFO  01:36:11,660 - #23 ]
+INFO  01:36:11,660 - #5 ;
+INFO  01:36:11,660 - #3 {
+INFO  01:36:11,661 - #14 void
+INFO  01:36:11,662 - #15 main
+INFO  01:36:11,662 - #6 (
+INFO  01:36:11,662 - #7 )
+INFO  01:36:11,663 - #3 {
+INFO  01:36:11,663 - #15 x
+INFO  01:36:11,664 - #13 =
+INFO  01:36:11,664 - #45 new
+INFO  01:36:11,664 - #15 int
+INFO  01:36:11,664 - #22 [
+INFO  01:36:11,665 - #19 4
+INFO  01:36:11,665 - #23 ]
+INFO  01:36:11,665 - #5 ;
+INFO  01:36:11,666 - #4 }
+INFO  01:36:11,666 - #4 }
+INFO  01:36:11,684 - Deklarisana promenljiva x na liniji 2
+ERROR 01:36:11,685 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 7
+INFO  01:36:11,685 - Print calls = 0
+INFO  01:43:34,320 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:43:34,383 - #2 program
+INFO  01:43:34,383 - #15 MJProgram
+INFO  01:43:34,383 - #15 int
+INFO  01:43:34,384 - #15 x
+INFO  01:43:34,385 - #22 [
+INFO  01:43:34,385 - #23 ]
+INFO  01:43:34,385 - #5 ;
+INFO  01:43:34,386 - #3 {
+INFO  01:43:34,387 - #14 void
+INFO  01:43:34,388 - #15 main
+INFO  01:43:34,388 - #6 (
+INFO  01:43:34,388 - #7 )
+INFO  01:43:34,389 - #3 {
+INFO  01:43:34,390 - #15 x
+INFO  01:43:34,390 - #13 =
+INFO  01:43:34,391 - #45 new
+INFO  01:43:34,391 - #15 int
+INFO  01:43:34,391 - #22 [
+INFO  01:43:34,391 - #19 4
+INFO  01:43:34,391 - #23 ]
+INFO  01:43:34,392 - #5 ;
+INFO  01:43:34,392 - #4 }
+INFO  01:43:34,392 - #4 }
+INFO  01:43:34,414 - Deklarisana promenljiva x na liniji 2
+INFO  01:43:34,415 - Print calls = 0
+INFO  01:44:01,284 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:44:01,343 - #2 program
+INFO  01:44:01,344 - #15 MJProgram
+INFO  01:44:01,344 - #15 int
+INFO  01:44:01,345 - #15 x
+INFO  01:44:01,346 - #22 [
+INFO  01:44:01,346 - #23 ]
+INFO  01:44:01,346 - #5 ;
+INFO  01:44:01,346 - #3 {
+INFO  01:44:01,347 - #14 void
+INFO  01:44:01,348 - #15 main
+INFO  01:44:01,348 - #6 (
+INFO  01:44:01,348 - #7 )
+INFO  01:44:01,349 - #3 {
+INFO  01:44:01,350 - #15 x
+INFO  01:44:01,350 - #13 =
+INFO  01:44:01,351 - #45 new
+INFO  01:44:01,351 - #15 int
+INFO  01:44:01,351 - #22 [
+INFO  01:44:01,351 - #19 4
+INFO  01:44:01,351 - #23 ]
+INFO  01:44:01,352 - #5 ;
+INFO  01:44:01,352 - #4 }
+INFO  01:44:01,352 - #4 }
+INFO  01:44:01,370 - Deklarisana promenljiva x na liniji 2
+INFO  01:44:01,370 - Print calls = 0
+INFO  01:44:14,276 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:44:14,338 - #2 program
+INFO  01:44:14,338 - #15 MJProgram
+INFO  01:44:14,338 - #15 int
+INFO  01:44:14,339 - #15 x
+INFO  01:44:14,340 - #22 [
+INFO  01:44:14,340 - #23 ]
+INFO  01:44:14,340 - #5 ;
+INFO  01:44:14,341 - #3 {
+INFO  01:44:14,342 - #14 void
+INFO  01:44:14,342 - #15 main
+INFO  01:44:14,342 - #6 (
+INFO  01:44:14,343 - #7 )
+INFO  01:44:14,343 - #3 {
+INFO  01:44:14,344 - #15 x
+INFO  01:44:14,345 - #13 =
+INFO  01:44:14,345 - #45 new
+INFO  01:44:14,345 - #15 int
+INFO  01:44:14,345 - #22 [
+INFO  01:44:14,345 - #19 4
+INFO  01:44:14,345 - #23 ]
+INFO  01:44:14,346 - #5 ;
+INFO  01:44:14,346 - #4 }
+INFO  01:44:14,347 - #4 }
+INFO  01:44:14,363 - Deklarisana promenljiva x na liniji 2
+INFO  01:44:14,364 - Print calls = 0
+INFO  01:44:45,772 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:44:45,829 - #2 program
+INFO  01:44:45,830 - #15 MJProgram
+INFO  01:44:45,830 - #15 int
+INFO  01:44:45,831 - #15 x
+INFO  01:44:45,831 - #5 ;
+INFO  01:44:45,832 - #3 {
+INFO  01:44:45,833 - #14 void
+INFO  01:44:45,833 - #15 main
+INFO  01:44:45,833 - #6 (
+INFO  01:44:45,834 - #7 )
+INFO  01:44:45,834 - #3 {
+INFO  01:44:45,835 - #15 x
+INFO  01:44:45,836 - #13 =
+INFO  01:44:45,836 - #19 3
+INFO  01:44:45,836 - #5 ;
+INFO  01:44:45,837 - #4 }
+INFO  01:44:45,837 - #4 }
+INFO  01:44:45,855 - Deklarisana promenljiva x na liniji 2
+INFO  01:46:13,326 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:46:13,391 - #2 program
+INFO  01:46:13,391 - #15 MJProgram
+INFO  01:46:13,391 - #15 int
+INFO  01:46:13,392 - #15 x
+INFO  01:46:13,393 - #5 ;
+INFO  01:46:13,393 - #3 {
+INFO  01:46:13,394 - #14 void
+INFO  01:46:13,395 - #15 main
+INFO  01:46:13,395 - #6 (
+INFO  01:46:13,395 - #7 )
+INFO  01:46:13,396 - #3 {
+INFO  01:46:13,397 - #15 x
+INFO  01:46:13,398 - #13 =
+INFO  01:46:13,399 - #19 3
+INFO  01:46:13,399 - #5 ;
+INFO  01:46:13,400 - #4 }
+INFO  01:46:13,401 - #4 }
+INFO  01:46:13,418 - Deklarisana promenljiva x na liniji 2
+INFO  01:46:13,418 - Print calls = 0
+INFO  01:46:31,915 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:46:31,976 - #2 program
+INFO  01:46:31,976 - #15 MJProgram
+INFO  01:46:31,976 - #15 int
+INFO  01:46:31,977 - #15 x
+INFO  01:46:31,978 - #5 ;
+INFO  01:46:31,978 - #3 {
+INFO  01:46:31,979 - #14 void
+INFO  01:46:31,980 - #15 main
+INFO  01:46:31,980 - #6 (
+INFO  01:46:31,980 - #7 )
+INFO  01:46:31,980 - #3 {
+INFO  01:46:31,981 - #15 x
+INFO  01:46:31,982 - #13 =
+INFO  01:46:31,983 - #19 3
+INFO  01:46:31,983 - #5 ;
+INFO  01:46:31,983 - #4 }
+INFO  01:46:31,984 - #4 }
+INFO  01:46:32,003 - Deklarisana promenljiva x na liniji 2
+INFO  01:46:32,003 - Print calls = 0
+INFO  01:46:42,725 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:46:42,780 - #2 program
+INFO  01:46:42,781 - #15 MJProgram
+INFO  01:46:42,781 - #15 int
+INFO  01:46:42,782 - #15 x
+INFO  01:46:42,783 - #5 ;
+INFO  01:46:42,783 - #3 {
+INFO  01:46:42,784 - #14 void
+INFO  01:46:42,785 - #15 main
+INFO  01:46:42,785 - #6 (
+INFO  01:46:42,785 - #7 )
+INFO  01:46:42,786 - #3 {
+INFO  01:46:42,786 - #15 x
+INFO  01:46:42,787 - #13 =
+INFO  01:46:42,787 - #19 3
+INFO  01:46:42,788 - #5 ;
+INFO  01:46:42,788 - #4 }
+INFO  01:46:42,789 - #4 }
+INFO  01:46:42,805 - Deklarisana promenljiva x na liniji 2
+INFO  01:46:42,806 - Print calls = 0
+INFO  01:49:36,127 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:49:36,313 - #2 program
+INFO  01:49:36,313 - #15 MJProgram
+INFO  01:49:36,314 - #15 int
+INFO  01:49:36,315 - #15 x
+INFO  01:49:36,316 - #22 [
+INFO  01:49:36,316 - #23 ]
+INFO  01:49:36,316 - #5 ;
+INFO  01:49:36,316 - #3 {
+INFO  01:49:36,317 - #14 void
+INFO  01:49:36,318 - #15 main
+INFO  01:49:36,318 - #6 (
+INFO  01:49:36,318 - #7 )
+INFO  01:49:36,319 - #3 {
+INFO  01:49:36,320 - #15 x
+INFO  01:49:36,321 - #13 =
+INFO  01:49:36,321 - #45 new
+INFO  01:49:36,322 - #15 int
+INFO  01:49:36,322 - #22 [
+INFO  01:49:36,322 - #19 3
+INFO  01:49:36,322 - #23 ]
+INFO  01:49:36,323 - #5 ;
+INFO  01:49:36,324 - #4 }
+INFO  01:49:36,324 - #4 }
+INFO  01:49:36,342 - Deklarisana promenljiva x na liniji 2
+INFO  01:49:36,342 - Print calls = 0
+INFO  01:51:01,771 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:51:01,831 - #2 program
+INFO  01:51:01,831 - #15 MJProgram
+INFO  01:51:01,831 - #15 int
+INFO  01:51:01,832 - #15 x
+INFO  01:51:01,833 - #22 [
+INFO  01:51:01,833 - #23 ]
+INFO  01:51:01,833 - #5 ;
+INFO  01:51:01,833 - #18 const
+INFO  01:51:01,834 - #15 int
+INFO  01:51:01,835 - #15 pi
+INFO  01:51:01,835 - #13 =
+INFO  01:51:01,835 - #19 3
+INFO  01:51:01,835 - #8 ,
+INFO  01:51:01,835 - #15 e
+INFO  01:51:01,835 - #13 =
+INFO  01:51:01,836 - #19 2
+INFO  01:51:01,836 - #5 ;
+INFO  01:51:01,836 - #3 {
+INFO  01:51:01,837 - #14 void
+INFO  01:51:01,839 - #15 main
+INFO  01:51:01,839 - #6 (
+INFO  01:51:01,839 - #7 )
+INFO  01:51:01,840 - #3 {
+INFO  01:51:01,841 - #15 x
+INFO  01:51:01,842 - #13 =
+INFO  01:51:01,842 - #45 new
+INFO  01:51:01,842 - #15 int
+INFO  01:51:01,842 - #22 [
+INFO  01:51:01,842 - #19 3
+INFO  01:51:01,842 - #23 ]
+INFO  01:51:01,843 - #5 ;
+INFO  01:51:01,843 - #4 }
+INFO  01:51:01,844 - #4 }
+INFO  01:51:01,863 - Deklarisana promenljiva x na liniji 2
+INFO  01:51:01,864 - Print calls = 0
+INFO  01:51:38,986 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:51:39,052 - #2 program
+INFO  01:51:39,052 - #15 MJProgram
+INFO  01:51:39,052 - #15 int
+INFO  01:51:39,054 - #15 x
+INFO  01:51:39,054 - #22 [
+INFO  01:51:39,054 - #23 ]
+INFO  01:51:39,055 - #5 ;
+INFO  01:51:39,055 - #18 const
+INFO  01:51:39,056 - #15 int
+INFO  01:51:39,056 - #15 pi
+INFO  01:51:39,056 - #13 =
+INFO  01:51:39,056 - #19 3
+INFO  01:51:39,056 - #8 ,
+INFO  01:51:39,057 - #15 e
+INFO  01:51:39,057 - #13 =
+INFO  01:51:39,057 - #19 2
+INFO  01:51:39,057 - #5 ;
+INFO  01:51:39,058 - #3 {
+INFO  01:51:39,059 - #14 void
+INFO  01:51:39,060 - #15 main
+INFO  01:51:39,060 - #6 (
+INFO  01:51:39,060 - #7 )
+INFO  01:51:39,061 - #15 int
+INFO  01:51:39,062 - #15 i
+INFO  01:51:39,062 - #5 ;
+INFO  01:51:39,062 - #15 int
+INFO  01:51:39,062 - #15 x
+INFO  01:51:39,063 - #22 [
+INFO  01:51:39,063 - #23 ]
+INFO  01:51:39,063 - #5 ;
+INFO  01:51:39,063 - #3 {
+INFO  01:51:39,063 - #15 x
+INFO  01:51:39,064 - #13 =
+INFO  01:51:39,064 - #45 new
+INFO  01:51:39,064 - #15 int
+INFO  01:51:39,064 - #22 [
+INFO  01:51:39,064 - #19 3
+INFO  01:51:39,064 - #23 ]
+INFO  01:51:39,065 - #5 ;
+INFO  01:51:39,065 - #4 }
+INFO  01:51:39,065 - #4 }
+INFO  01:51:39,085 - Deklarisana promenljiva x na liniji 2
+INFO  01:51:39,085 - Deklarisana promenljiva i na liniji 6
+INFO  01:51:39,086 - Deklarisana promenljiva x na liniji 6
+INFO  01:51:39,087 - Print calls = 0
+INFO  01:58:23,069 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:58:23,136 - #2 program
+INFO  01:58:23,136 - #15 MJProgram
+INFO  01:58:23,136 - #15 int
+INFO  01:58:23,138 - #15 x
+INFO  01:58:23,138 - #22 [
+INFO  01:58:23,138 - #23 ]
+INFO  01:58:23,138 - #5 ;
+INFO  01:58:23,139 - #15 bool
+INFO  01:58:23,140 - #15 b
+INFO  01:58:23,140 - #5 ;
+INFO  01:58:23,140 - #18 const
+INFO  01:58:23,140 - #15 int
+INFO  01:58:23,140 - #15 pi
+INFO  01:58:23,140 - #13 =
+INFO  01:58:23,141 - #19 3
+INFO  01:58:23,141 - #8 ,
+INFO  01:58:23,141 - #15 e
+INFO  01:58:23,141 - #13 =
+INFO  01:58:23,141 - #19 2
+INFO  01:58:23,141 - #5 ;
+INFO  01:58:23,142 - #3 {
+INFO  01:58:23,143 - #14 void
+INFO  01:58:23,144 - #15 main
+INFO  01:58:23,144 - #6 (
+INFO  01:58:23,144 - #7 )
+INFO  01:58:23,145 - #15 int
+INFO  01:58:23,146 - #15 i
+INFO  01:58:23,146 - #5 ;
+INFO  01:58:23,146 - #15 int
+INFO  01:58:23,146 - #15 x
+INFO  01:58:23,146 - #22 [
+INFO  01:58:23,146 - #23 ]
+INFO  01:58:23,146 - #5 ;
+INFO  01:58:23,146 - #3 {
+INFO  01:58:23,146 - #15 b
+INFO  01:58:23,147 - #13 =
+INFO  01:58:23,147 - #21 true
+INFO  01:58:23,147 - #5 ;
+INFO  01:58:23,148 - #15 x
+INFO  01:58:23,148 - #13 =
+INFO  01:58:23,149 - #45 new
+INFO  01:58:23,149 - #15 int
+INFO  01:58:23,149 - #22 [
+INFO  01:58:23,149 - #19 3
+INFO  01:58:23,149 - #23 ]
+INFO  01:58:23,149 - #5 ;
+INFO  01:58:23,150 - #4 }
+INFO  01:58:23,150 - #4 }
+INFO  01:58:23,174 - Deklarisana promenljiva x na liniji 2
+INFO  01:58:23,175 - Deklarisana promenljiva b na liniji 3
+INFO  01:58:23,175 - Deklarisana promenljiva i na liniji 7
+INFO  01:58:23,175 - Deklarisana promenljiva x na liniji 7
+INFO  01:58:23,176 - Print calls = 0
+INFO  01:58:45,711 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:58:45,770 - #2 program
+INFO  01:58:45,770 - #15 MJProgram
+INFO  01:58:45,770 - #15 int
+INFO  01:58:45,771 - #15 x
+INFO  01:58:45,772 - #22 [
+INFO  01:58:45,772 - #23 ]
+INFO  01:58:45,772 - #5 ;
+INFO  01:58:45,773 - #15 bool
+INFO  01:58:45,774 - #15 b
+INFO  01:58:45,774 - #5 ;
+INFO  01:58:45,774 - #15 char
+INFO  01:58:45,774 - #15 c
+INFO  01:58:45,774 - #5 ;
+INFO  01:58:45,774 - #18 const
+INFO  01:58:45,774 - #15 int
+INFO  01:58:45,775 - #15 pi
+INFO  01:58:45,775 - #13 =
+INFO  01:58:45,775 - #19 3
+INFO  01:58:45,775 - #8 ,
+INFO  01:58:45,776 - #15 e
+INFO  01:58:45,776 - #13 =
+INFO  01:58:45,776 - #19 2
+INFO  01:58:45,776 - #5 ;
+INFO  01:58:45,776 - #3 {
+INFO  01:58:45,778 - #14 void
+INFO  01:58:45,779 - #15 main
+INFO  01:58:45,779 - #6 (
+INFO  01:58:45,779 - #7 )
+INFO  01:58:45,780 - #15 int
+INFO  01:58:45,781 - #15 i
+INFO  01:58:45,781 - #5 ;
+INFO  01:58:45,781 - #15 int
+INFO  01:58:45,781 - #15 x
+INFO  01:58:45,782 - #22 [
+INFO  01:58:45,782 - #23 ]
+INFO  01:58:45,782 - #5 ;
+INFO  01:58:45,782 - #3 {
+INFO  01:58:45,782 - #15 b
+INFO  01:58:45,783 - #13 =
+INFO  01:58:45,783 - #21 true
+INFO  01:58:45,783 - #5 ;
+INFO  01:58:45,784 - #15 c
+INFO  01:58:45,784 - #13 =
+INFO  01:58:45,785 - #20 x
+INFO  01:58:45,785 - #5 ;
+INFO  01:58:45,785 - #15 x
+INFO  01:58:45,785 - #13 =
+INFO  01:58:45,785 - #45 new
+INFO  01:58:45,785 - #15 int
+INFO  01:58:45,785 - #22 [
+INFO  01:58:45,785 - #19 3
+INFO  01:58:45,785 - #23 ]
+INFO  01:58:45,786 - #5 ;
+INFO  01:58:45,786 - #4 }
+INFO  01:58:45,786 - #4 }
+INFO  01:58:45,806 - Deklarisana promenljiva x na liniji 2
+INFO  01:58:45,806 - Deklarisana promenljiva b na liniji 3
+INFO  01:58:45,806 - Deklarisana promenljiva c na liniji 4
+INFO  01:58:45,807 - Deklarisana promenljiva i na liniji 8
+INFO  01:58:45,807 - Deklarisana promenljiva x na liniji 8
+INFO  01:58:45,807 - Print calls = 0
+INFO  02:22:05,858 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:22:05,918 - #2 program
+INFO  02:22:05,918 - #15 MJProgram
+INFO  02:22:05,918 - #15 int
+INFO  02:22:05,919 - #15 x
+INFO  02:22:05,920 - #22 [
+INFO  02:22:05,920 - #23 ]
+INFO  02:22:05,920 - #5 ;
+INFO  02:22:05,920 - #15 bool
+INFO  02:22:05,921 - #15 b
+INFO  02:22:05,922 - #5 ;
+INFO  02:22:05,922 - #15 char
+INFO  02:22:05,922 - #15 c
+INFO  02:22:05,922 - #5 ;
+INFO  02:22:05,922 - #15 int
+INFO  02:22:05,922 - #15 aa
+INFO  02:22:05,922 - #5 ;
+INFO  02:22:05,922 - #18 const
+INFO  02:22:05,922 - #15 int
+INFO  02:22:05,923 - #15 pi
+INFO  02:22:05,923 - #13 =
+INFO  02:22:05,923 - #19 3
+INFO  02:22:05,923 - #8 ,
+INFO  02:22:05,924 - #15 e
+INFO  02:22:05,924 - #13 =
+INFO  02:22:05,924 - #19 2
+INFO  02:22:05,924 - #5 ;
+INFO  02:22:05,924 - #3 {
+INFO  02:22:05,925 - #14 void
+INFO  02:22:05,926 - #15 main
+INFO  02:22:05,926 - #6 (
+INFO  02:22:05,927 - #7 )
+INFO  02:22:05,927 - #15 int
+INFO  02:22:05,928 - #15 i
+INFO  02:22:05,928 - #5 ;
+INFO  02:22:05,928 - #15 int
+INFO  02:22:05,929 - #15 x
+INFO  02:22:05,929 - #22 [
+INFO  02:22:05,929 - #23 ]
+INFO  02:22:05,929 - #5 ;
+INFO  02:22:05,929 - #3 {
+INFO  02:22:05,929 - #15 b
+INFO  02:22:05,930 - #13 =
+INFO  02:22:05,930 - #21 true
+INFO  02:22:05,930 - #5 ;
+INFO  02:22:05,932 - #15 c
+INFO  02:22:05,932 - #13 =
+INFO  02:22:05,932 - #20 x
+INFO  02:22:05,932 - #5 ;
+INFO  02:22:05,933 - #15 x
+INFO  02:22:05,933 - #13 =
+INFO  02:22:05,933 - #45 new
+INFO  02:22:05,933 - #15 int
+INFO  02:22:05,933 - #22 [
+INFO  02:22:05,933 - #19 3
+INFO  02:22:05,934 - #23 ]
+INFO  02:22:05,934 - #5 ;
+INFO  02:22:05,934 - #15 aa
+INFO  02:22:05,934 - #13 =
+INFO  02:22:05,934 - #15 x
+INFO  02:22:05,935 - #22 [
+INFO  02:22:05,935 - #19 1
+INFO  02:22:05,935 - #23 ]
+INFO  02:22:05,935 - #5 ;
+INFO  02:22:05,935 - #4 }
+INFO  02:22:05,935 - #4 }
+INFO  02:22:05,954 - Deklarisana promenljiva x na liniji 2
+INFO  02:22:05,954 - Deklarisana promenljiva b na liniji 3
+INFO  02:22:05,957 - Deklarisana promenljiva c na liniji 4
+INFO  02:22:05,957 - Deklarisana promenljiva aa na liniji 5
+INFO  02:22:05,957 - Deklarisana promenljiva i na liniji 9
+INFO  02:22:05,957 - Deklarisana promenljiva x na liniji 9
+ERROR 02:22:05,957 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 13
+INFO  02:22:05,957 - Print calls = 0
+INFO  02:22:51,583 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:22:51,643 - #2 program
+INFO  02:22:51,643 - #15 MJProgram
+INFO  02:22:51,643 - #15 int
+INFO  02:22:51,645 - #15 x
+INFO  02:22:51,645 - #22 [
+INFO  02:22:51,646 - #23 ]
+INFO  02:22:51,646 - #5 ;
+INFO  02:22:51,646 - #15 bool
+INFO  02:22:51,647 - #15 b
+INFO  02:22:51,647 - #5 ;
+INFO  02:22:51,647 - #15 char
+INFO  02:22:51,647 - #15 c
+INFO  02:22:51,647 - #5 ;
+INFO  02:22:51,648 - #15 int
+INFO  02:22:51,648 - #15 aa
+INFO  02:22:51,648 - #5 ;
+INFO  02:22:51,648 - #18 const
+INFO  02:22:51,648 - #15 int
+INFO  02:22:51,648 - #15 pi
+INFO  02:22:51,649 - #13 =
+INFO  02:22:51,649 - #19 3
+INFO  02:22:51,649 - #8 ,
+INFO  02:22:51,649 - #15 e
+INFO  02:22:51,649 - #13 =
+INFO  02:22:51,649 - #19 2
+INFO  02:22:51,649 - #5 ;
+INFO  02:22:51,650 - #3 {
+INFO  02:22:51,651 - #14 void
+INFO  02:22:51,652 - #15 main
+INFO  02:22:51,652 - #6 (
+INFO  02:22:51,652 - #7 )
+INFO  02:22:51,653 - #15 int
+INFO  02:22:51,654 - #15 i
+INFO  02:22:51,654 - #5 ;
+INFO  02:22:51,654 - #15 int
+INFO  02:22:51,654 - #15 x
+INFO  02:22:51,655 - #22 [
+INFO  02:22:51,655 - #23 ]
+INFO  02:22:51,655 - #5 ;
+INFO  02:22:51,655 - #3 {
+INFO  02:22:51,655 - #15 b
+INFO  02:22:51,656 - #13 =
+INFO  02:22:51,657 - #21 true
+INFO  02:22:51,657 - #5 ;
+INFO  02:22:51,658 - #15 c
+INFO  02:22:51,659 - #13 =
+INFO  02:22:51,659 - #20 x
+INFO  02:22:51,659 - #5 ;
+INFO  02:22:51,659 - #15 x
+INFO  02:22:51,659 - #13 =
+INFO  02:22:51,659 - #45 new
+INFO  02:22:51,659 - #15 int
+INFO  02:22:51,660 - #22 [
+INFO  02:22:51,660 - #19 3
+INFO  02:22:51,660 - #23 ]
+INFO  02:22:51,660 - #5 ;
+INFO  02:22:51,660 - #15 x
+INFO  02:22:51,660 - #22 [
+INFO  02:22:51,660 - #19 1
+INFO  02:22:51,660 - #23 ]
+INFO  02:22:51,661 - #13 =
+INFO  02:22:51,661 - #19 3
+INFO  02:22:51,661 - #5 ;
+INFO  02:22:51,661 - #15 aa
+INFO  02:22:51,661 - #13 =
+INFO  02:22:51,661 - #15 x
+INFO  02:22:51,661 - #22 [
+INFO  02:22:51,662 - #19 1
+INFO  02:22:51,662 - #23 ]
+INFO  02:22:51,662 - #5 ;
+INFO  02:22:51,662 - #4 }
+INFO  02:22:51,662 - #4 }
+INFO  02:22:51,680 - Deklarisana promenljiva x na liniji 2
+INFO  02:22:51,680 - Deklarisana promenljiva b na liniji 3
+INFO  02:22:51,680 - Deklarisana promenljiva c na liniji 4
+INFO  02:22:51,680 - Deklarisana promenljiva aa na liniji 5
+INFO  02:22:51,681 - Deklarisana promenljiva i na liniji 9
+INFO  02:22:51,681 - Deklarisana promenljiva x na liniji 9
+ERROR 02:22:51,681 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 13
+ERROR 02:22:51,681 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 14
+INFO  02:22:51,681 - Print calls = 0
+INFO  02:23:29,303 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:23:29,365 - #2 program
+INFO  02:23:29,365 - #15 MJProgram
+INFO  02:23:29,365 - #15 int
+INFO  02:23:29,367 - #15 x
+INFO  02:23:29,367 - #22 [
+INFO  02:23:29,368 - #23 ]
+INFO  02:23:29,368 - #5 ;
+INFO  02:23:29,368 - #15 bool
+INFO  02:23:29,369 - #15 b
+INFO  02:23:29,369 - #5 ;
+INFO  02:23:29,370 - #15 char
+INFO  02:23:29,370 - #15 c
+INFO  02:23:29,370 - #5 ;
+INFO  02:23:29,370 - #15 int
+INFO  02:23:29,370 - #15 aa
+INFO  02:23:29,370 - #5 ;
+INFO  02:23:29,370 - #18 const
+INFO  02:23:29,370 - #15 int
+INFO  02:23:29,371 - #15 pi
+INFO  02:23:29,371 - #13 =
+INFO  02:23:29,371 - #19 3
+INFO  02:23:29,371 - #8 ,
+INFO  02:23:29,372 - #15 e
+INFO  02:23:29,372 - #13 =
+INFO  02:23:29,372 - #19 2
+INFO  02:23:29,372 - #5 ;
+INFO  02:23:29,372 - #3 {
+INFO  02:23:29,374 - #14 void
+INFO  02:23:29,375 - #15 main
+INFO  02:23:29,375 - #6 (
+INFO  02:23:29,375 - #7 )
+INFO  02:23:29,376 - #15 int
+INFO  02:23:29,377 - #15 i
+INFO  02:23:29,377 - #5 ;
+INFO  02:23:29,377 - #15 int
+INFO  02:23:29,377 - #15 x
+INFO  02:23:29,378 - #22 [
+INFO  02:23:29,378 - #23 ]
+INFO  02:23:29,378 - #5 ;
+INFO  02:23:29,378 - #3 {
+INFO  02:23:29,378 - #15 b
+INFO  02:23:29,379 - #13 =
+INFO  02:23:29,379 - #21 true
+INFO  02:23:29,379 - #5 ;
+INFO  02:23:29,380 - #15 c
+INFO  02:23:29,381 - #13 =
+INFO  02:23:29,381 - #20 x
+INFO  02:23:29,381 - #5 ;
+INFO  02:23:29,381 - #15 x
+INFO  02:23:29,381 - #13 =
+INFO  02:23:29,381 - #45 new
+INFO  02:23:29,381 - #15 int
+INFO  02:23:29,381 - #22 [
+INFO  02:23:29,382 - #19 3
+INFO  02:23:29,382 - #23 ]
+INFO  02:23:29,382 - #5 ;
+INFO  02:23:29,382 - #15 x
+INFO  02:23:29,382 - #22 [
+INFO  02:23:29,382 - #19 1
+INFO  02:23:29,383 - #23 ]
+INFO  02:23:29,383 - #13 =
+INFO  02:23:29,383 - #19 3
+INFO  02:23:29,383 - #5 ;
+INFO  02:23:29,383 - #15 aa
+INFO  02:23:29,383 - #13 =
+INFO  02:23:29,383 - #15 x
+INFO  02:23:29,384 - #22 [
+INFO  02:23:29,384 - #19 1
+INFO  02:23:29,384 - #23 ]
+INFO  02:23:29,384 - #5 ;
+INFO  02:23:29,385 - #4 }
+INFO  02:23:29,385 - #4 }
+INFO  02:23:29,409 - Deklarisana promenljiva x na liniji 2
+INFO  02:23:29,409 - Deklarisana promenljiva b na liniji 3
+INFO  02:23:29,409 - Deklarisana promenljiva c na liniji 4
+INFO  02:23:29,409 - Deklarisana promenljiva aa na liniji 5
+INFO  02:23:29,410 - Deklarisana promenljiva i na liniji 9
+INFO  02:23:29,410 - Deklarisana promenljiva x na liniji 9
+ERROR 02:23:29,410 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 13
+ERROR 02:23:29,410 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 14
+INFO  02:23:29,410 - Print calls = 0
+INFO  02:23:39,746 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:23:39,807 - #2 program
+INFO  02:23:39,807 - #15 MJProgram
+INFO  02:23:39,807 - #15 int
+INFO  02:23:39,809 - #15 x
+INFO  02:23:39,809 - #22 [
+INFO  02:23:39,809 - #23 ]
+INFO  02:23:39,809 - #5 ;
+INFO  02:23:39,810 - #15 bool
+INFO  02:23:39,811 - #15 b
+INFO  02:23:39,811 - #5 ;
+INFO  02:23:39,811 - #15 char
+INFO  02:23:39,811 - #15 c
+INFO  02:23:39,811 - #5 ;
+INFO  02:23:39,811 - #15 int
+INFO  02:23:39,812 - #15 aa
+INFO  02:23:39,812 - #5 ;
+INFO  02:23:39,812 - #18 const
+INFO  02:23:39,812 - #15 int
+INFO  02:23:39,812 - #15 pi
+INFO  02:23:39,812 - #13 =
+INFO  02:23:39,812 - #19 3
+INFO  02:23:39,813 - #8 ,
+INFO  02:23:39,813 - #15 e
+INFO  02:23:39,813 - #13 =
+INFO  02:23:39,813 - #19 2
+INFO  02:23:39,813 - #5 ;
+INFO  02:23:39,813 - #3 {
+INFO  02:23:39,815 - #14 void
+INFO  02:23:39,815 - #15 main
+INFO  02:23:39,816 - #6 (
+INFO  02:23:39,816 - #7 )
+INFO  02:23:39,817 - #15 int
+INFO  02:23:39,818 - #15 i
+INFO  02:23:39,818 - #5 ;
+INFO  02:23:39,818 - #15 int
+INFO  02:23:39,818 - #15 x
+INFO  02:23:39,818 - #22 [
+INFO  02:23:39,818 - #23 ]
+INFO  02:23:39,818 - #5 ;
+INFO  02:23:39,819 - #3 {
+INFO  02:23:39,819 - #15 b
+INFO  02:23:39,819 - #13 =
+INFO  02:23:39,820 - #21 true
+INFO  02:23:39,820 - #5 ;
+INFO  02:23:39,821 - #15 c
+INFO  02:23:39,822 - #13 =
+INFO  02:23:39,822 - #20 x
+INFO  02:23:39,822 - #5 ;
+INFO  02:23:39,822 - #15 x
+INFO  02:23:39,822 - #13 =
+INFO  02:23:39,823 - #45 new
+INFO  02:23:39,823 - #15 int
+INFO  02:23:39,823 - #22 [
+INFO  02:23:39,823 - #19 3
+INFO  02:23:39,823 - #23 ]
+INFO  02:23:39,823 - #5 ;
+INFO  02:23:39,824 - #15 x
+INFO  02:23:39,824 - #22 [
+INFO  02:23:39,824 - #19 1
+INFO  02:23:39,824 - #23 ]
+INFO  02:23:39,824 - #13 =
+INFO  02:23:39,825 - #19 3
+INFO  02:23:39,825 - #5 ;
+INFO  02:23:39,825 - #15 aa
+INFO  02:23:39,825 - #13 =
+INFO  02:23:39,825 - #15 x
+INFO  02:23:39,825 - #22 [
+INFO  02:23:39,825 - #19 1
+INFO  02:23:39,826 - #23 ]
+INFO  02:23:39,826 - #5 ;
+INFO  02:23:39,826 - #4 }
+INFO  02:23:39,826 - #4 }
+INFO  02:23:39,845 - Deklarisana promenljiva x na liniji 2
+INFO  02:23:39,846 - Deklarisana promenljiva b na liniji 3
+INFO  02:23:39,846 - Deklarisana promenljiva c na liniji 4
+INFO  02:23:39,846 - Deklarisana promenljiva aa na liniji 5
+INFO  02:23:39,846 - Deklarisana promenljiva i na liniji 9
+INFO  02:23:39,846 - Deklarisana promenljiva x na liniji 9
+ERROR 02:23:39,846 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 13
+ERROR 02:23:39,846 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 14
+INFO  02:23:39,846 - Print calls = 0
+INFO  10:56:59,442 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:57:00,023 - #2 program
+INFO  10:57:00,024 - #15 MJProgram
+INFO  10:57:00,024 - #15 int
+INFO  10:57:00,028 - #15 x
+INFO  10:57:00,030 - #22 [
+INFO  10:57:00,030 - #23 ]
+INFO  10:57:00,030 - #5 ;
+INFO  10:57:00,031 - #15 int
+INFO  10:57:00,033 - #15 y
+INFO  10:57:00,033 - #22 [
+INFO  10:57:00,033 - #23 ]
+INFO  10:57:00,034 - #5 ;
+INFO  10:57:00,034 - #15 bool
+INFO  10:57:00,034 - #15 b
+INFO  10:57:00,034 - #5 ;
+INFO  10:57:00,034 - #15 char
+INFO  10:57:00,034 - #15 c
+INFO  10:57:00,034 - #5 ;
+INFO  10:57:00,034 - #15 int
+INFO  10:57:00,035 - #15 aa
+INFO  10:57:00,035 - #5 ;
+INFO  10:57:00,035 - #18 const
+INFO  10:57:00,035 - #15 int
+INFO  10:57:00,035 - #15 pi
+INFO  10:57:00,035 - #13 =
+INFO  10:57:00,035 - #19 3
+INFO  10:57:00,035 - #8 ,
+INFO  10:57:00,036 - #15 e
+INFO  10:57:00,036 - #13 =
+INFO  10:57:00,036 - #19 2
+INFO  10:57:00,036 - #5 ;
+INFO  10:57:00,036 - #3 {
+INFO  10:57:00,045 - #14 void
+INFO  10:57:00,052 - #15 main
+INFO  10:57:00,052 - #6 (
+INFO  10:57:00,053 - #7 )
+INFO  10:57:00,055 - #15 int
+INFO  10:57:00,057 - #15 i
+INFO  10:57:00,057 - #5 ;
+INFO  10:57:00,057 - #15 int
+INFO  10:57:00,057 - #15 x
+INFO  10:57:00,058 - #22 [
+INFO  10:57:00,058 - #23 ]
+INFO  10:57:00,058 - #5 ;
+INFO  10:57:00,058 - #3 {
+INFO  10:57:00,058 - #15 b
+INFO  10:57:00,060 - #13 =
+INFO  10:57:00,060 - #21 true
+INFO  10:57:00,061 - #5 ;
+INFO  10:57:00,062 - #15 c
+INFO  10:57:00,062 - #13 =
+INFO  10:57:00,062 - #20 x
+INFO  10:57:00,063 - #5 ;
+INFO  10:57:00,063 - #15 x
+INFO  10:57:00,063 - #13 =
+INFO  10:57:00,063 - #45 new
+INFO  10:57:00,063 - #15 int
+INFO  10:57:00,063 - #22 [
+INFO  10:57:00,063 - #19 3
+INFO  10:57:00,064 - #23 ]
+INFO  10:57:00,064 - #5 ;
+INFO  10:57:00,064 - #15 y
+INFO  10:57:00,064 - #13 =
+INFO  10:57:00,064 - #45 new
+INFO  10:57:00,064 - #15 int
+INFO  10:57:00,065 - #22 [
+INFO  10:57:00,065 - #19 4
+INFO  10:57:00,065 - #23 ]
+INFO  10:57:00,065 - #5 ;
+INFO  10:57:00,065 - #15 x
+INFO  10:57:00,065 - #22 [
+INFO  10:57:00,065 - #19 2
+INFO  10:57:00,065 - #23 ]
+INFO  10:57:00,066 - #13 =
+INFO  10:57:00,066 - #15 y
+INFO  10:57:00,066 - #22 [
+INFO  10:57:00,066 - #19 3
+INFO  10:57:00,066 - #23 ]
+INFO  10:57:00,066 - #5 ;
+INFO  10:57:00,066 - #15 x
+INFO  10:57:00,066 - #22 [
+INFO  10:57:00,066 - #19 1
+INFO  10:57:00,067 - #23 ]
+INFO  10:57:00,067 - #13 =
+INFO  10:57:00,067 - #19 3
+INFO  10:57:00,067 - #5 ;
+INFO  10:57:00,067 - #15 aa
+INFO  10:57:00,067 - #13 =
+INFO  10:57:00,067 - #15 x
+INFO  10:57:00,067 - #22 [
+INFO  10:57:00,067 - #19 1
+INFO  10:57:00,068 - #23 ]
+INFO  10:57:00,068 - #5 ;
+INFO  10:57:00,068 - #4 }
+INFO  10:57:00,069 - #4 }
+INFO  10:57:00,137 - Deklarisana promenljiva x na liniji 2
+INFO  10:57:00,137 - Deklarisana promenljiva y na liniji 3
+INFO  10:57:00,138 - Deklarisana promenljiva b na liniji 4
+INFO  10:57:00,138 - Deklarisana promenljiva c na liniji 5
+INFO  10:57:00,138 - Deklarisana promenljiva aa na liniji 6
+INFO  10:57:00,138 - Deklarisana promenljiva i na liniji 10
+INFO  10:57:00,138 - Deklarisana promenljiva x na liniji 10
+ERROR 10:57:00,139 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 16
+ERROR 10:57:00,139 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 17
+INFO  10:57:00,139 - Print calls = 0
+INFO  11:06:07,406 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:06:07,468 - #2 program
+INFO  11:06:07,468 - #15 MJProgram
+INFO  11:06:07,468 - #15 int
+INFO  11:06:07,469 - #15 x
+INFO  11:06:07,470 - #22 [
+INFO  11:06:07,470 - #23 ]
+INFO  11:06:07,470 - #5 ;
+INFO  11:06:07,470 - #15 int
+INFO  11:06:07,471 - #15 y
+INFO  11:06:07,471 - #22 [
+INFO  11:06:07,471 - #23 ]
+INFO  11:06:07,471 - #5 ;
+INFO  11:06:07,471 - #15 bool
+INFO  11:06:07,472 - #15 b
+INFO  11:06:07,472 - #5 ;
+INFO  11:06:07,472 - #15 char
+INFO  11:06:07,472 - #15 c
+INFO  11:06:07,472 - #5 ;
+INFO  11:06:07,472 - #15 int
+INFO  11:06:07,472 - #15 aa
+INFO  11:06:07,472 - #5 ;
+INFO  11:06:07,473 - #18 const
+INFO  11:06:07,473 - #15 int
+INFO  11:06:07,473 - #15 pi
+INFO  11:06:07,473 - #13 =
+INFO  11:06:07,473 - #19 3
+INFO  11:06:07,473 - #8 ,
+INFO  11:06:07,474 - #15 e
+INFO  11:06:07,474 - #13 =
+INFO  11:06:07,474 - #19 2
+INFO  11:06:07,474 - #5 ;
+INFO  11:06:07,474 - #3 {
+INFO  11:06:07,476 - #14 void
+INFO  11:06:07,476 - #15 main
+INFO  11:06:07,476 - #6 (
+INFO  11:06:07,477 - #7 )
+INFO  11:06:07,478 - #15 int
+INFO  11:06:07,479 - #15 i
+INFO  11:06:07,479 - #5 ;
+INFO  11:06:07,479 - #15 int
+INFO  11:06:07,479 - #15 x
+INFO  11:06:07,479 - #22 [
+INFO  11:06:07,480 - #23 ]
+INFO  11:06:07,480 - #5 ;
+INFO  11:06:07,480 - #3 {
+INFO  11:06:07,480 - #15 b
+INFO  11:06:07,481 - #13 =
+INFO  11:06:07,481 - #21 true
+INFO  11:06:07,481 - #5 ;
+INFO  11:06:07,482 - #15 c
+INFO  11:06:07,482 - #13 =
+INFO  11:06:07,483 - #20 x
+INFO  11:06:07,483 - #5 ;
+INFO  11:06:07,483 - #15 x
+INFO  11:06:07,483 - #13 =
+INFO  11:06:07,483 - #45 new
+INFO  11:06:07,483 - #15 int
+INFO  11:06:07,483 - #22 [
+INFO  11:06:07,483 - #19 3
+INFO  11:06:07,484 - #23 ]
+INFO  11:06:07,484 - #5 ;
+INFO  11:06:07,484 - #15 y
+INFO  11:06:07,484 - #13 =
+INFO  11:06:07,485 - #45 new
+INFO  11:06:07,485 - #15 int
+INFO  11:06:07,485 - #22 [
+INFO  11:06:07,485 - #19 4
+INFO  11:06:07,485 - #23 ]
+INFO  11:06:07,485 - #5 ;
+INFO  11:06:07,485 - #15 x
+INFO  11:06:07,485 - #22 [
+INFO  11:06:07,485 - #19 2
+INFO  11:06:07,486 - #23 ]
+INFO  11:06:07,486 - #13 =
+INFO  11:06:07,486 - #15 y
+INFO  11:06:07,486 - #22 [
+INFO  11:06:07,486 - #19 3
+INFO  11:06:07,486 - #23 ]
+INFO  11:06:07,486 - #5 ;
+INFO  11:06:07,487 - #15 x
+INFO  11:06:07,487 - #22 [
+INFO  11:06:07,487 - #19 1
+INFO  11:06:07,487 - #23 ]
+INFO  11:06:07,487 - #13 =
+INFO  11:06:07,487 - #19 3
+INFO  11:06:07,487 - #5 ;
+INFO  11:06:07,487 - #15 aa
+INFO  11:06:07,487 - #13 =
+INFO  11:06:07,488 - #15 x
+INFO  11:06:07,488 - #22 [
+INFO  11:06:07,488 - #19 1
+INFO  11:06:07,488 - #23 ]
+INFO  11:06:07,488 - #5 ;
+INFO  11:06:07,488 - #4 }
+INFO  11:06:07,488 - #4 }
+INFO  11:06:07,511 - Deklarisana promenljiva x na liniji 2
+INFO  11:06:07,511 - Deklarisana promenljiva y na liniji 3
+INFO  11:06:07,512 - Deklarisana promenljiva b na liniji 4
+INFO  11:06:07,512 - Deklarisana promenljiva c na liniji 5
+INFO  11:06:07,512 - Deklarisana promenljiva aa na liniji 6
+INFO  11:06:07,512 - Deklarisana promenljiva i na liniji 10
+INFO  11:06:07,512 - Deklarisana promenljiva x na liniji 10
+INFO  11:07:14,332 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:07:14,393 - #2 program
+INFO  11:07:14,393 - #15 MJProgram
+INFO  11:07:14,393 - #15 int
+INFO  11:07:14,394 - #15 x
+INFO  11:07:14,395 - #22 [
+INFO  11:07:14,395 - #23 ]
+INFO  11:07:14,395 - #5 ;
+INFO  11:07:14,396 - #15 int
+INFO  11:07:14,397 - #15 y
+INFO  11:07:14,397 - #22 [
+INFO  11:07:14,397 - #23 ]
+INFO  11:07:14,397 - #5 ;
+INFO  11:07:14,397 - #15 bool
+INFO  11:07:14,397 - #15 b
+INFO  11:07:14,397 - #5 ;
+INFO  11:07:14,398 - #15 char
+INFO  11:07:14,398 - #15 c
+INFO  11:07:14,398 - #5 ;
+INFO  11:07:14,398 - #15 int
+INFO  11:07:14,398 - #15 aa
+INFO  11:07:14,398 - #5 ;
+INFO  11:07:14,399 - #18 const
+INFO  11:07:14,399 - #15 int
+INFO  11:07:14,399 - #15 pi
+INFO  11:07:14,399 - #13 =
+INFO  11:07:14,399 - #19 3
+INFO  11:07:14,399 - #8 ,
+INFO  11:07:14,400 - #15 e
+INFO  11:07:14,400 - #13 =
+INFO  11:07:14,400 - #19 2
+INFO  11:07:14,400 - #5 ;
+INFO  11:07:14,400 - #3 {
+INFO  11:07:14,401 - #14 void
+INFO  11:07:14,402 - #15 main
+INFO  11:07:14,402 - #6 (
+INFO  11:07:14,402 - #7 )
+INFO  11:07:14,404 - #15 int
+INFO  11:07:14,404 - #15 i
+INFO  11:07:14,405 - #5 ;
+INFO  11:07:14,405 - #15 int
+INFO  11:07:14,405 - #15 x
+INFO  11:07:14,405 - #22 [
+INFO  11:07:14,405 - #23 ]
+INFO  11:07:14,405 - #5 ;
+INFO  11:07:14,406 - #3 {
+INFO  11:07:14,406 - #15 b
+INFO  11:07:14,407 - #13 =
+INFO  11:07:14,407 - #21 true
+INFO  11:07:14,407 - #5 ;
+INFO  11:07:14,408 - #15 c
+INFO  11:07:14,409 - #13 =
+INFO  11:07:14,409 - #20 x
+INFO  11:07:14,409 - #5 ;
+INFO  11:07:14,410 - #15 x
+INFO  11:07:14,410 - #13 =
+INFO  11:07:14,410 - #45 new
+INFO  11:07:14,410 - #15 int
+INFO  11:07:14,410 - #22 [
+INFO  11:07:14,410 - #19 3
+INFO  11:07:14,410 - #23 ]
+INFO  11:07:14,411 - #5 ;
+INFO  11:07:14,411 - #15 y
+INFO  11:07:14,411 - #13 =
+INFO  11:07:14,411 - #45 new
+INFO  11:07:14,411 - #15 int
+INFO  11:07:14,411 - #22 [
+INFO  11:07:14,412 - #19 4
+INFO  11:07:14,412 - #23 ]
+INFO  11:07:14,412 - #5 ;
+INFO  11:07:14,412 - #15 x
+INFO  11:07:14,412 - #22 [
+INFO  11:07:14,412 - #19 2
+INFO  11:07:14,412 - #23 ]
+INFO  11:07:14,412 - #13 =
+INFO  11:07:14,413 - #15 y
+INFO  11:07:14,413 - #22 [
+INFO  11:07:14,413 - #19 3
+INFO  11:07:14,413 - #23 ]
+INFO  11:07:14,413 - #5 ;
+INFO  11:07:14,413 - #15 x
+INFO  11:07:14,413 - #22 [
+INFO  11:07:14,413 - #19 1
+INFO  11:07:14,413 - #23 ]
+INFO  11:07:14,414 - #13 =
+INFO  11:07:14,414 - #19 3
+INFO  11:07:14,414 - #5 ;
+INFO  11:07:14,414 - #15 aa
+INFO  11:07:14,414 - #13 =
+INFO  11:07:14,414 - #15 x
+INFO  11:07:14,414 - #22 [
+INFO  11:07:14,414 - #19 1
+INFO  11:07:14,414 - #23 ]
+INFO  11:07:14,414 - #5 ;
+INFO  11:07:14,415 - #4 }
+INFO  11:07:14,415 - #4 }
+INFO  11:07:14,435 - Deklarisana promenljiva x na liniji 2
+INFO  11:07:14,435 - Deklarisana promenljiva y na liniji 3
+INFO  11:07:14,435 - Deklarisana promenljiva b na liniji 4
+INFO  11:07:14,436 - Deklarisana promenljiva c na liniji 5
+INFO  11:07:14,436 - Deklarisana promenljiva aa na liniji 6
+INFO  11:07:14,436 - Deklarisana promenljiva i na liniji 10
+INFO  11:07:14,436 - Deklarisana promenljiva x na liniji 10
+ERROR 11:07:14,437 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 16
+ERROR 11:07:14,437 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 17
+INFO  11:07:14,437 - Print calls = 0
+INFO  11:11:45,028 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:11:45,088 - #2 program
+INFO  11:11:45,088 - #15 MJProgram
+INFO  11:11:45,088 - #15 int
+INFO  11:11:45,089 - #15 x
+INFO  11:11:45,090 - #22 [
+INFO  11:11:45,090 - #23 ]
+INFO  11:11:45,090 - #5 ;
+INFO  11:11:45,091 - #15 int
+INFO  11:11:45,092 - #15 y
+INFO  11:11:45,092 - #22 [
+INFO  11:11:45,092 - #23 ]
+INFO  11:11:45,092 - #5 ;
+INFO  11:11:45,092 - #15 bool
+INFO  11:11:45,092 - #15 b
+INFO  11:11:45,092 - #5 ;
+INFO  11:11:45,093 - #15 char
+INFO  11:11:45,093 - #15 c
+INFO  11:11:45,093 - #5 ;
+INFO  11:11:45,093 - #15 int
+INFO  11:11:45,093 - #15 aa
+INFO  11:11:45,093 - #5 ;
+INFO  11:11:45,093 - #18 const
+INFO  11:11:45,094 - #15 int
+INFO  11:11:45,094 - #15 pi
+INFO  11:11:45,094 - #13 =
+INFO  11:11:45,094 - #19 3
+INFO  11:11:45,094 - #8 ,
+INFO  11:11:45,094 - #15 e
+INFO  11:11:45,094 - #13 =
+INFO  11:11:45,095 - #19 2
+INFO  11:11:45,095 - #5 ;
+INFO  11:11:45,095 - #3 {
+INFO  11:11:45,096 - #14 void
+INFO  11:11:45,097 - #15 main
+INFO  11:11:45,098 - #6 (
+INFO  11:11:45,098 - #7 )
+INFO  11:11:45,099 - #15 int
+INFO  11:11:45,100 - #15 i
+INFO  11:11:45,100 - #5 ;
+INFO  11:11:45,100 - #15 int
+INFO  11:11:45,101 - #15 x
+INFO  11:11:45,101 - #22 [
+INFO  11:11:45,101 - #23 ]
+INFO  11:11:45,101 - #5 ;
+INFO  11:11:45,101 - #3 {
+INFO  11:11:45,101 - #15 b
+INFO  11:11:45,102 - #13 =
+INFO  11:11:45,103 - #21 true
+INFO  11:11:45,103 - #5 ;
+INFO  11:11:45,104 - #15 c
+INFO  11:11:45,105 - #13 =
+INFO  11:11:45,105 - #20 x
+INFO  11:11:45,105 - #5 ;
+INFO  11:11:45,105 - #15 x
+INFO  11:11:45,105 - #13 =
+INFO  11:11:45,105 - #45 new
+INFO  11:11:45,105 - #15 int
+INFO  11:11:45,106 - #22 [
+INFO  11:11:45,106 - #19 3
+INFO  11:11:45,106 - #23 ]
+INFO  11:11:45,106 - #5 ;
+INFO  11:11:45,106 - #15 y
+INFO  11:11:45,106 - #13 =
+INFO  11:11:45,106 - #45 new
+INFO  11:11:45,106 - #15 int
+INFO  11:11:45,107 - #22 [
+INFO  11:11:45,107 - #19 4
+INFO  11:11:45,107 - #23 ]
+INFO  11:11:45,110 - #5 ;
+INFO  11:11:45,111 - #15 x
+INFO  11:11:45,111 - #22 [
+INFO  11:11:45,111 - #19 2
+INFO  11:11:45,111 - #23 ]
+INFO  11:11:45,111 - #13 =
+INFO  11:11:45,111 - #15 y
+INFO  11:11:45,111 - #22 [
+INFO  11:11:45,111 - #19 3
+INFO  11:11:45,112 - #23 ]
+INFO  11:11:45,112 - #5 ;
+INFO  11:11:45,112 - #15 aa
+INFO  11:11:45,112 - #13 =
+INFO  11:11:45,112 - #15 x
+INFO  11:11:45,112 - #22 [
+INFO  11:11:45,112 - #19 1
+INFO  11:11:45,112 - #23 ]
+INFO  11:11:45,112 - #5 ;
+INFO  11:11:45,113 - #4 }
+INFO  11:11:45,113 - #4 }
+INFO  11:11:45,134 - Deklarisana promenljiva x na liniji 2
+INFO  11:11:45,135 - Deklarisana promenljiva y na liniji 3
+INFO  11:11:45,135 - Deklarisana promenljiva b na liniji 4
+INFO  11:11:45,135 - Deklarisana promenljiva c na liniji 5
+INFO  11:11:45,135 - Deklarisana promenljiva aa na liniji 6
+INFO  11:11:45,135 - Deklarisana promenljiva i na liniji 10
+INFO  11:11:45,136 - Deklarisana promenljiva x na liniji 10
+ERROR 11:11:45,136 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 13
+ERROR 11:11:45,136 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 14
+ERROR 11:11:45,136 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 15
+ERROR 11:11:45,137 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 17
+INFO  11:11:45,137 - Print calls = 0
+INFO  11:12:35,010 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:12:35,070 - #2 program
+INFO  11:12:35,071 - #15 MJProgram
+INFO  11:12:35,071 - #15 int
+INFO  11:12:35,072 - #15 x
+INFO  11:12:35,073 - #22 [
+INFO  11:12:35,073 - #23 ]
+INFO  11:12:35,073 - #5 ;
+INFO  11:12:35,073 - #15 int
+INFO  11:12:35,074 - #15 y
+INFO  11:12:35,075 - #22 [
+INFO  11:12:35,075 - #23 ]
+INFO  11:12:35,075 - #5 ;
+INFO  11:12:35,075 - #15 bool
+INFO  11:12:35,075 - #15 b
+INFO  11:12:35,075 - #5 ;
+INFO  11:12:35,075 - #15 char
+INFO  11:12:35,076 - #15 c
+INFO  11:12:35,076 - #5 ;
+INFO  11:12:35,076 - #15 int
+INFO  11:12:35,076 - #15 aa
+INFO  11:12:35,076 - #5 ;
+INFO  11:12:35,076 - #18 const
+INFO  11:12:35,076 - #15 int
+INFO  11:12:35,076 - #15 pi
+INFO  11:12:35,077 - #13 =
+INFO  11:12:35,077 - #19 3
+INFO  11:12:35,077 - #8 ,
+INFO  11:12:35,077 - #15 e
+INFO  11:12:35,077 - #13 =
+INFO  11:12:35,078 - #19 2
+INFO  11:12:35,078 - #5 ;
+INFO  11:12:35,078 - #3 {
+INFO  11:12:35,079 - #14 void
+INFO  11:12:35,080 - #15 main
+INFO  11:12:35,080 - #6 (
+INFO  11:12:35,080 - #7 )
+INFO  11:12:35,081 - #15 int
+INFO  11:12:35,082 - #15 i
+INFO  11:12:35,082 - #5 ;
+INFO  11:12:35,082 - #15 int
+INFO  11:12:35,083 - #15 x
+INFO  11:12:35,083 - #22 [
+INFO  11:12:35,083 - #23 ]
+INFO  11:12:35,083 - #5 ;
+INFO  11:12:35,083 - #3 {
+INFO  11:12:35,083 - #15 b
+INFO  11:12:35,084 - #13 =
+INFO  11:12:35,085 - #21 true
+INFO  11:12:35,085 - #5 ;
+INFO  11:12:35,086 - #15 c
+INFO  11:12:35,086 - #13 =
+INFO  11:12:35,087 - #20 x
+INFO  11:12:35,087 - #5 ;
+INFO  11:12:35,087 - #15 x
+INFO  11:12:35,087 - #13 =
+INFO  11:12:35,087 - #45 new
+INFO  11:12:35,087 - #15 int
+INFO  11:12:35,087 - #22 [
+INFO  11:12:35,087 - #19 3
+INFO  11:12:35,087 - #23 ]
+INFO  11:12:35,088 - #5 ;
+INFO  11:12:35,088 - #15 y
+INFO  11:12:35,088 - #13 =
+INFO  11:12:35,088 - #45 new
+INFO  11:12:35,088 - #15 int
+INFO  11:12:35,088 - #22 [
+INFO  11:12:35,089 - #19 4
+INFO  11:12:35,089 - #23 ]
+INFO  11:12:35,089 - #5 ;
+INFO  11:12:35,089 - #15 x
+INFO  11:12:35,089 - #22 [
+INFO  11:12:35,089 - #19 2
+INFO  11:12:35,089 - #23 ]
+INFO  11:12:35,089 - #13 =
+INFO  11:12:35,089 - #15 y
+INFO  11:12:35,089 - #22 [
+INFO  11:12:35,090 - #19 3
+INFO  11:12:35,090 - #23 ]
+INFO  11:12:35,090 - #5 ;
+INFO  11:12:35,090 - #15 aa
+INFO  11:12:35,090 - #13 =
+INFO  11:12:35,090 - #15 x
+INFO  11:12:35,090 - #22 [
+INFO  11:12:35,091 - #19 1
+INFO  11:12:35,091 - #23 ]
+INFO  11:12:35,091 - #5 ;
+INFO  11:12:35,091 - #4 }
+INFO  11:12:35,091 - #4 }
+INFO  11:12:35,111 - Deklarisana promenljiva x na liniji 2
+INFO  11:12:35,111 - Deklarisana promenljiva y na liniji 3
+INFO  11:12:35,112 - Deklarisana promenljiva b na liniji 4
+INFO  11:12:35,112 - Deklarisana promenljiva c na liniji 5
+INFO  11:12:35,112 - Deklarisana promenljiva aa na liniji 6
+INFO  11:12:35,112 - Deklarisana promenljiva i na liniji 10
+INFO  11:12:35,112 - Deklarisana promenljiva x na liniji 10
+ERROR 11:12:35,113 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 13
+ERROR 11:12:35,113 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 14
+ERROR 11:12:35,113 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 15
+ERROR 11:12:35,113 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 17
+INFO  11:12:35,113 - Print calls = 0
+INFO  11:37:55,603 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:37:55,666 - #2 program
+INFO  11:37:55,667 - #15 MJProgram
+INFO  11:37:55,667 - #15 int
+INFO  11:37:55,668 - #15 x
+INFO  11:37:55,669 - #22 [
+INFO  11:37:55,669 - #23 ]
+INFO  11:37:55,669 - #5 ;
+INFO  11:37:55,669 - #15 int
+INFO  11:37:55,671 - #15 y
+INFO  11:37:55,671 - #22 [
+INFO  11:37:55,671 - #23 ]
+INFO  11:37:55,671 - #5 ;
+INFO  11:37:55,671 - #15 bool
+INFO  11:37:55,671 - #15 b
+INFO  11:37:55,671 - #5 ;
+INFO  11:37:55,671 - #15 char
+INFO  11:37:55,671 - #15 c
+INFO  11:37:55,672 - #5 ;
+INFO  11:37:55,672 - #15 int
+INFO  11:37:55,672 - #15 aa
+INFO  11:37:55,672 - #5 ;
+INFO  11:37:55,672 - #18 const
+INFO  11:37:55,672 - #15 int
+INFO  11:37:55,672 - #15 pi
+INFO  11:37:55,672 - #13 =
+INFO  11:37:55,673 - #19 3
+INFO  11:37:55,673 - #8 ,
+INFO  11:37:55,673 - #15 e
+INFO  11:37:55,673 - #13 =
+INFO  11:37:55,673 - #19 2
+INFO  11:37:55,673 - #5 ;
+INFO  11:37:55,674 - #3 {
+INFO  11:37:55,675 - #14 void
+INFO  11:37:55,675 - #15 main
+INFO  11:37:55,675 - #6 (
+INFO  11:37:55,676 - #7 )
+INFO  11:37:55,677 - #15 int
+INFO  11:37:55,678 - #15 i
+INFO  11:37:55,678 - #5 ;
+INFO  11:37:55,678 - #15 int
+INFO  11:37:55,678 - #15 x
+INFO  11:37:55,678 - #22 [
+INFO  11:37:55,678 - #23 ]
+INFO  11:37:55,678 - #5 ;
+INFO  11:37:55,678 - #3 {
+INFO  11:37:55,679 - #15 b
+INFO  11:37:55,680 - #13 =
+INFO  11:37:55,680 - #21 true
+INFO  11:37:55,680 - #5 ;
+INFO  11:37:55,682 - #15 c
+INFO  11:37:55,682 - #13 =
+INFO  11:37:55,682 - #20 x
+INFO  11:37:55,683 - #5 ;
+INFO  11:37:55,683 - #15 x
+INFO  11:37:55,683 - #13 =
+INFO  11:37:55,683 - #45 new
+INFO  11:37:55,683 - #15 int
+INFO  11:37:55,683 - #22 [
+INFO  11:37:55,683 - #19 3
+INFO  11:37:55,683 - #23 ]
+INFO  11:37:55,684 - #5 ;
+INFO  11:37:55,684 - #15 y
+INFO  11:37:55,684 - #13 =
+INFO  11:37:55,685 - #45 new
+INFO  11:37:55,685 - #15 int
+INFO  11:37:55,685 - #22 [
+INFO  11:37:55,685 - #19 4
+INFO  11:37:55,685 - #23 ]
+INFO  11:37:55,685 - #5 ;
+INFO  11:37:55,685 - #15 x
+INFO  11:37:55,685 - #22 [
+INFO  11:37:55,686 - #19 2
+INFO  11:37:55,686 - #23 ]
+INFO  11:37:55,686 - #13 =
+INFO  11:37:55,686 - #15 y
+INFO  11:37:55,686 - #22 [
+INFO  11:37:55,686 - #19 3
+INFO  11:37:55,686 - #23 ]
+INFO  11:37:55,686 - #5 ;
+INFO  11:37:55,687 - #15 aa
+INFO  11:37:55,687 - #13 =
+INFO  11:37:55,687 - #15 x
+INFO  11:37:55,687 - #22 [
+INFO  11:37:55,687 - #19 1
+INFO  11:37:55,687 - #23 ]
+INFO  11:37:55,687 - #5 ;
+INFO  11:37:55,687 - #4 }
+INFO  11:37:55,687 - #4 }
+INFO  11:37:55,707 - Deklarisana promenljiva x na liniji 2
+INFO  11:37:55,708 - Deklarisana promenljiva y na liniji 3
+INFO  11:37:55,708 - Deklarisana promenljiva b na liniji 4
+INFO  11:37:55,708 - Deklarisana promenljiva c na liniji 5
+INFO  11:37:55,709 - Deklarisana promenljiva aa na liniji 6
+INFO  11:37:55,709 - Deklarisana promenljiva i na liniji 10
+INFO  11:37:55,709 - Deklarisana promenljiva x na liniji 10
+INFO  11:37:55,710 - Print calls = 0
+INFO  11:46:13,845 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:46:13,907 - #2 program
+INFO  11:46:13,907 - #15 MJProgram
+INFO  11:46:13,907 - #15 int
+INFO  11:46:13,909 - #15 x
+INFO  11:46:13,909 - #22 [
+INFO  11:46:13,909 - #23 ]
+INFO  11:46:13,910 - #5 ;
+INFO  11:46:13,910 - #15 int
+INFO  11:46:13,911 - #15 y
+INFO  11:46:13,911 - #22 [
+INFO  11:46:13,911 - #23 ]
+INFO  11:46:13,911 - #5 ;
+INFO  11:46:13,911 - #15 bool
+INFO  11:46:13,911 - #15 b
+INFO  11:46:13,911 - #5 ;
+INFO  11:46:13,912 - #15 char
+INFO  11:46:13,912 - #15 c
+INFO  11:46:13,912 - #5 ;
+INFO  11:46:13,912 - #15 int
+INFO  11:46:13,912 - #15 aa
+INFO  11:46:13,912 - #5 ;
+INFO  11:46:13,912 - #18 const
+INFO  11:46:13,912 - #15 int
+INFO  11:46:13,913 - #15 pi
+INFO  11:46:13,913 - #13 =
+INFO  11:46:13,913 - #19 3
+INFO  11:46:13,913 - #8 ,
+INFO  11:46:13,913 - #15 e
+INFO  11:46:13,913 - #13 =
+INFO  11:46:13,914 - #19 2
+INFO  11:46:13,914 - #5 ;
+INFO  11:46:13,914 - #3 {
+INFO  11:46:13,915 - #14 void
+INFO  11:46:13,916 - #15 main
+INFO  11:46:13,916 - #6 (
+INFO  11:46:13,916 - #7 )
+INFO  11:46:13,917 - #15 int
+INFO  11:46:13,918 - #15 i
+INFO  11:46:13,918 - #5 ;
+INFO  11:46:13,918 - #15 int
+INFO  11:46:13,918 - #15 x
+INFO  11:46:13,918 - #22 [
+INFO  11:46:13,918 - #23 ]
+INFO  11:46:13,918 - #5 ;
+INFO  11:46:13,919 - #3 {
+INFO  11:46:13,919 - #15 b
+INFO  11:46:13,919 - #13 =
+INFO  11:46:13,920 - #21 true
+INFO  11:46:13,920 - #5 ;
+INFO  11:46:13,920 - #15 c
+INFO  11:46:13,921 - #13 =
+INFO  11:46:13,921 - #20 x
+INFO  11:46:13,921 - #5 ;
+INFO  11:46:13,921 - #15 x
+INFO  11:46:13,922 - #13 =
+INFO  11:46:13,922 - #45 new
+INFO  11:46:13,922 - #15 int
+INFO  11:46:13,922 - #22 [
+INFO  11:46:13,922 - #19 3
+INFO  11:46:13,922 - #23 ]
+INFO  11:46:13,922 - #5 ;
+INFO  11:46:13,922 - #15 y
+INFO  11:46:13,923 - #13 =
+INFO  11:46:13,923 - #45 new
+INFO  11:46:13,923 - #15 int
+INFO  11:46:13,923 - #22 [
+INFO  11:46:13,923 - #19 4
+INFO  11:46:13,923 - #23 ]
+INFO  11:46:13,923 - #5 ;
+INFO  11:46:13,923 - #15 x
+INFO  11:46:13,923 - #22 [
+INFO  11:46:13,923 - #19 2
+INFO  11:46:13,923 - #23 ]
+INFO  11:46:13,924 - #13 =
+INFO  11:46:13,924 - #15 y
+INFO  11:46:13,924 - #22 [
+INFO  11:46:13,924 - #19 3
+INFO  11:46:13,924 - #23 ]
+INFO  11:46:13,924 - #5 ;
+INFO  11:46:13,924 - #15 x
+INFO  11:46:13,924 - #22 [
+INFO  11:46:13,924 - #19 1
+INFO  11:46:13,925 - #23 ]
+INFO  11:46:13,925 - #13 =
+INFO  11:46:13,925 - #19 3
+INFO  11:46:13,925 - #5 ;
+INFO  11:46:13,925 - #15 aa
+INFO  11:46:13,925 - #13 =
+INFO  11:46:13,925 - #15 x
+INFO  11:46:13,925 - #22 [
+INFO  11:46:13,925 - #19 1
+INFO  11:46:13,926 - #23 ]
+INFO  11:46:13,926 - #5 ;
+INFO  11:46:13,926 - #4 }
+INFO  11:46:13,926 - #4 }
+INFO  11:46:13,944 - Deklarisana promenljiva x na liniji 2
+INFO  11:46:13,945 - Deklarisana promenljiva y na liniji 3
+INFO  11:46:13,945 - Deklarisana promenljiva b na liniji 4
+INFO  11:46:13,945 - Deklarisana promenljiva c na liniji 5
+INFO  11:46:13,945 - Deklarisana promenljiva aa na liniji 6
+INFO  11:46:13,945 - Deklarisana promenljiva i na liniji 10
+INFO  11:46:13,946 - Deklarisana promenljiva x na liniji 10
+INFO  11:46:13,947 - Print calls = 0
+INFO  11:47:27,733 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:47:27,788 - #2 program
+INFO  11:47:27,788 - #15 MJProgram
+INFO  11:47:27,788 - #15 int
+INFO  11:47:27,790 - #15 x
+INFO  11:47:27,791 - #22 [
+INFO  11:47:27,791 - #23 ]
+INFO  11:47:27,791 - #5 ;
+INFO  11:47:27,791 - #15 int
+INFO  11:47:27,792 - #15 y
+INFO  11:47:27,792 - #22 [
+INFO  11:47:27,792 - #23 ]
+INFO  11:47:27,792 - #5 ;
+INFO  11:47:27,793 - #15 bool
+INFO  11:47:27,793 - #15 b
+INFO  11:47:27,793 - #5 ;
+INFO  11:47:27,793 - #15 char
+INFO  11:47:27,793 - #15 c
+INFO  11:47:27,793 - #5 ;
+INFO  11:47:27,793 - #15 int
+INFO  11:47:27,793 - #15 aa
+INFO  11:47:27,794 - #5 ;
+INFO  11:47:27,794 - #18 const
+INFO  11:47:27,794 - #15 int
+INFO  11:47:27,794 - #15 pi
+INFO  11:47:27,794 - #13 =
+INFO  11:47:27,794 - #19 3
+INFO  11:47:27,794 - #8 ,
+INFO  11:47:27,795 - #15 e
+INFO  11:47:27,795 - #13 =
+INFO  11:47:27,795 - #19 2
+INFO  11:47:27,795 - #5 ;
+INFO  11:47:27,795 - #3 {
+INFO  11:47:27,797 - #14 void
+INFO  11:47:27,797 - #15 main
+INFO  11:47:27,798 - #6 (
+INFO  11:47:27,798 - #7 )
+INFO  11:47:27,799 - #15 int
+INFO  11:47:27,800 - #15 i
+INFO  11:47:27,800 - #5 ;
+INFO  11:47:27,800 - #15 int
+INFO  11:47:27,800 - #15 x
+INFO  11:47:27,800 - #22 [
+INFO  11:47:27,800 - #23 ]
+INFO  11:47:27,800 - #5 ;
+INFO  11:47:27,800 - #3 {
+INFO  11:47:27,801 - #15 b
+INFO  11:47:27,802 - #13 =
+INFO  11:47:27,802 - #21 true
+INFO  11:47:27,802 - #5 ;
+INFO  11:47:27,803 - #15 c
+INFO  11:47:27,804 - #13 =
+INFO  11:47:27,804 - #20 x
+INFO  11:47:27,804 - #5 ;
+INFO  11:47:27,804 - #15 x
+INFO  11:47:27,805 - #13 =
+INFO  11:47:27,805 - #45 new
+INFO  11:47:27,805 - #15 int
+INFO  11:47:27,805 - #22 [
+INFO  11:47:27,805 - #19 3
+INFO  11:47:27,805 - #23 ]
+INFO  11:47:27,805 - #5 ;
+INFO  11:47:27,806 - #15 y
+INFO  11:47:27,806 - #13 =
+INFO  11:47:27,806 - #45 new
+INFO  11:47:27,806 - #15 int
+INFO  11:47:27,806 - #22 [
+INFO  11:47:27,806 - #19 4
+INFO  11:47:27,806 - #23 ]
+INFO  11:47:27,806 - #5 ;
+INFO  11:47:27,807 - #15 x
+INFO  11:47:27,807 - #22 [
+INFO  11:47:27,807 - #19 2
+INFO  11:47:27,807 - #23 ]
+INFO  11:47:27,807 - #13 =
+INFO  11:47:27,807 - #15 y
+INFO  11:47:27,808 - #22 [
+INFO  11:47:27,808 - #19 3
+INFO  11:47:27,808 - #23 ]
+INFO  11:47:27,808 - #5 ;
+INFO  11:47:27,808 - #15 x
+INFO  11:47:27,808 - #22 [
+INFO  11:47:27,808 - #19 1
+INFO  11:47:27,808 - #23 ]
+INFO  11:47:27,809 - #13 =
+INFO  11:47:27,809 - #19 3
+INFO  11:47:27,809 - #5 ;
+INFO  11:47:27,809 - #15 aa
+INFO  11:47:27,809 - #13 =
+INFO  11:47:27,809 - #15 x
+INFO  11:47:27,809 - #22 [
+INFO  11:47:27,809 - #19 1
+INFO  11:47:27,810 - #23 ]
+INFO  11:47:27,810 - #5 ;
+INFO  11:47:27,810 - #15 x
+INFO  11:47:27,810 - #22 [
+INFO  11:47:27,810 - #19 2
+INFO  11:47:27,810 - #23 ]
+INFO  11:47:27,810 - #13 =
+INFO  11:47:27,811 - #21 true
+INFO  11:47:27,811 - #5 ;
+INFO  11:47:27,811 - #4 }
+INFO  11:47:27,811 - #4 }
+INFO  11:47:27,830 - Deklarisana promenljiva x na liniji 2
+INFO  11:47:27,831 - Deklarisana promenljiva y na liniji 3
+INFO  11:47:27,831 - Deklarisana promenljiva b na liniji 4
+INFO  11:47:27,831 - Deklarisana promenljiva c na liniji 5
+INFO  11:47:27,831 - Deklarisana promenljiva aa na liniji 6
+INFO  11:47:27,831 - Deklarisana promenljiva i na liniji 10
+INFO  11:47:27,832 - Deklarisana promenljiva x na liniji 10
+ERROR 11:47:27,832 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 18
+INFO  11:47:27,832 - Print calls = 0
+INFO  11:47:48,038 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:47:48,101 - #2 program
+INFO  11:47:48,101 - #15 MJProgram
+INFO  11:47:48,101 - #15 int
+INFO  11:47:48,102 - #15 x
+INFO  11:47:48,103 - #22 [
+INFO  11:47:48,103 - #23 ]
+INFO  11:47:48,103 - #5 ;
+INFO  11:47:48,104 - #15 int
+INFO  11:47:48,105 - #15 y
+INFO  11:47:48,105 - #22 [
+INFO  11:47:48,105 - #23 ]
+INFO  11:47:48,105 - #5 ;
+INFO  11:47:48,105 - #15 bool
+INFO  11:47:48,105 - #15 b
+INFO  11:47:48,105 - #5 ;
+INFO  11:47:48,105 - #15 char
+INFO  11:47:48,106 - #15 c
+INFO  11:47:48,106 - #5 ;
+INFO  11:47:48,106 - #15 int
+INFO  11:47:48,106 - #15 aa
+INFO  11:47:48,106 - #5 ;
+INFO  11:47:48,106 - #18 const
+INFO  11:47:48,106 - #15 int
+INFO  11:47:48,106 - #15 pi
+INFO  11:47:48,107 - #13 =
+INFO  11:47:48,107 - #19 3
+INFO  11:47:48,107 - #8 ,
+INFO  11:47:48,108 - #15 e
+INFO  11:47:48,108 - #13 =
+INFO  11:47:48,108 - #19 2
+INFO  11:47:48,108 - #5 ;
+INFO  11:47:48,109 - #3 {
+INFO  11:47:48,111 - #14 void
+INFO  11:47:48,112 - #15 main
+INFO  11:47:48,112 - #6 (
+INFO  11:47:48,112 - #7 )
+INFO  11:47:48,113 - #15 int
+INFO  11:47:48,114 - #15 i
+INFO  11:47:48,114 - #5 ;
+INFO  11:47:48,114 - #15 int
+INFO  11:47:48,114 - #15 x
+INFO  11:47:48,114 - #22 [
+INFO  11:47:48,114 - #23 ]
+INFO  11:47:48,114 - #5 ;
+INFO  11:47:48,114 - #3 {
+INFO  11:47:48,115 - #15 b
+INFO  11:47:48,115 - #13 =
+INFO  11:47:48,116 - #21 true
+INFO  11:47:48,116 - #5 ;
+INFO  11:47:48,116 - #15 c
+INFO  11:47:48,117 - #13 =
+INFO  11:47:48,117 - #20 x
+INFO  11:47:48,117 - #5 ;
+INFO  11:47:48,117 - #15 x
+INFO  11:47:48,118 - #13 =
+INFO  11:47:48,118 - #45 new
+INFO  11:47:48,118 - #15 int
+INFO  11:47:48,118 - #22 [
+INFO  11:47:48,118 - #19 3
+INFO  11:47:48,118 - #23 ]
+INFO  11:47:48,118 - #5 ;
+INFO  11:47:48,118 - #15 y
+INFO  11:47:48,119 - #13 =
+INFO  11:47:48,119 - #45 new
+INFO  11:47:48,119 - #15 int
+INFO  11:47:48,119 - #22 [
+INFO  11:47:48,119 - #19 4
+INFO  11:47:48,119 - #23 ]
+INFO  11:47:48,119 - #5 ;
+INFO  11:47:48,119 - #15 x
+INFO  11:47:48,119 - #22 [
+INFO  11:47:48,119 - #19 2
+INFO  11:47:48,120 - #23 ]
+INFO  11:47:48,120 - #13 =
+INFO  11:47:48,120 - #15 y
+INFO  11:47:48,120 - #22 [
+INFO  11:47:48,120 - #19 3
+INFO  11:47:48,120 - #23 ]
+INFO  11:47:48,120 - #5 ;
+INFO  11:47:48,120 - #15 x
+INFO  11:47:48,121 - #22 [
+INFO  11:47:48,121 - #19 1
+INFO  11:47:48,121 - #23 ]
+INFO  11:47:48,121 - #13 =
+INFO  11:47:48,121 - #19 3
+INFO  11:47:48,123 - #5 ;
+INFO  11:47:48,123 - #15 aa
+INFO  11:47:48,123 - #13 =
+INFO  11:47:48,123 - #15 x
+INFO  11:47:48,123 - #22 [
+INFO  11:47:48,123 - #19 1
+INFO  11:47:48,124 - #23 ]
+INFO  11:47:48,124 - #5 ;
+INFO  11:47:48,124 - #15 x
+INFO  11:47:48,124 - #22 [
+INFO  11:47:48,125 - #19 2
+INFO  11:47:48,125 - #11 +
+INFO  11:47:48,126 - #19 3
+INFO  11:47:48,127 - #42 /
+INFO  11:47:48,127 - #19 4
+INFO  11:47:48,129 - #23 ]
+INFO  11:47:48,129 - #13 =
+INFO  11:47:48,129 - #19 3
+INFO  11:47:48,129 - #5 ;
+INFO  11:47:48,129 - #4 }
+INFO  11:47:48,129 - #4 }
+INFO  11:47:48,153 - Deklarisana promenljiva x na liniji 2
+INFO  11:47:48,153 - Deklarisana promenljiva y na liniji 3
+INFO  11:47:48,153 - Deklarisana promenljiva b na liniji 4
+INFO  11:47:48,153 - Deklarisana promenljiva c na liniji 5
+INFO  11:47:48,153 - Deklarisana promenljiva aa na liniji 6
+INFO  11:47:48,154 - Deklarisana promenljiva i na liniji 10
+INFO  11:47:48,154 - Deklarisana promenljiva x na liniji 10
+INFO  11:47:48,154 - Print calls = 0
+INFO  11:48:42,083 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:48:42,148 - #2 program
+INFO  11:48:42,148 - #15 MJProgram
+INFO  11:48:42,148 - #15 int
+INFO  11:48:42,150 - #15 x
+INFO  11:48:42,151 - #22 [
+INFO  11:48:42,151 - #23 ]
+INFO  11:48:42,151 - #5 ;
+INFO  11:48:42,151 - #15 int
+INFO  11:48:42,152 - #15 y
+INFO  11:48:42,152 - #22 [
+INFO  11:48:42,152 - #23 ]
+INFO  11:48:42,152 - #5 ;
+INFO  11:48:42,152 - #15 bool
+INFO  11:48:42,153 - #15 b
+INFO  11:48:42,153 - #5 ;
+INFO  11:48:42,153 - #15 char
+INFO  11:48:42,153 - #15 c
+INFO  11:48:42,153 - #5 ;
+INFO  11:48:42,153 - #15 int
+INFO  11:48:42,154 - #15 aa
+INFO  11:48:42,154 - #5 ;
+INFO  11:48:42,154 - #18 const
+INFO  11:48:42,154 - #15 int
+INFO  11:48:42,154 - #15 pi
+INFO  11:48:42,154 - #13 =
+INFO  11:48:42,154 - #19 3
+INFO  11:48:42,155 - #8 ,
+INFO  11:48:42,155 - #15 e
+INFO  11:48:42,155 - #13 =
+INFO  11:48:42,155 - #19 2
+INFO  11:48:42,155 - #5 ;
+INFO  11:48:42,156 - #3 {
+INFO  11:48:42,157 - #15 int
+INFO  11:48:42,158 - #15 fja
+INFO  11:48:42,158 - #6 (
+INFO  11:48:42,158 - #7 )
+INFO  11:48:42,159 - #3 {
+INFO  11:48:42,160 - #10 return
+INFO  11:48:42,161 - #19 4
+INFO  11:48:42,161 - #5 ;
+INFO  11:48:42,162 - #4 }
+INFO  11:48:42,162 - #14 void
+INFO  11:48:42,163 - #15 main
+INFO  11:48:42,163 - #6 (
+INFO  11:48:42,163 - #7 )
+INFO  11:48:42,164 - #15 int
+INFO  11:48:42,164 - #15 i
+INFO  11:48:42,164 - #5 ;
+INFO  11:48:42,164 - #15 int
+INFO  11:48:42,164 - #15 x
+INFO  11:48:42,164 - #22 [
+INFO  11:48:42,164 - #23 ]
+INFO  11:48:42,164 - #5 ;
+INFO  11:48:42,164 - #3 {
+INFO  11:48:42,165 - #15 b
+INFO  11:48:42,165 - #13 =
+INFO  11:48:42,165 - #21 true
+INFO  11:48:42,166 - #5 ;
+INFO  11:48:42,166 - #15 c
+INFO  11:48:42,166 - #13 =
+INFO  11:48:42,167 - #20 x
+INFO  11:48:42,167 - #5 ;
+INFO  11:48:42,167 - #15 x
+INFO  11:48:42,167 - #13 =
+INFO  11:48:42,167 - #45 new
+INFO  11:48:42,167 - #15 int
+INFO  11:48:42,167 - #22 [
+INFO  11:48:42,168 - #19 3
+INFO  11:48:42,168 - #23 ]
+INFO  11:48:42,168 - #5 ;
+INFO  11:48:42,168 - #15 y
+INFO  11:48:42,168 - #13 =
+INFO  11:48:42,168 - #45 new
+INFO  11:48:42,168 - #15 int
+INFO  11:48:42,168 - #22 [
+INFO  11:48:42,168 - #19 4
+INFO  11:48:42,169 - #23 ]
+INFO  11:48:42,169 - #5 ;
+INFO  11:48:42,169 - #15 x
+INFO  11:48:42,169 - #22 [
+INFO  11:48:42,169 - #19 2
+INFO  11:48:42,169 - #23 ]
+INFO  11:48:42,169 - #13 =
+INFO  11:48:42,170 - #15 y
+INFO  11:48:42,170 - #22 [
+INFO  11:48:42,170 - #19 3
+INFO  11:48:42,170 - #23 ]
+INFO  11:48:42,170 - #5 ;
+INFO  11:48:42,171 - #15 x
+INFO  11:48:42,171 - #22 [
+INFO  11:48:42,171 - #19 1
+INFO  11:48:42,171 - #23 ]
+INFO  11:48:42,172 - #13 =
+INFO  11:48:42,172 - #19 3
+INFO  11:48:42,172 - #5 ;
+INFO  11:48:42,172 - #15 aa
+INFO  11:48:42,172 - #13 =
+INFO  11:48:42,172 - #15 x
+INFO  11:48:42,173 - #22 [
+INFO  11:48:42,173 - #19 1
+INFO  11:48:42,173 - #23 ]
+INFO  11:48:42,174 - #5 ;
+INFO  11:48:42,174 - #15 x
+INFO  11:48:42,174 - #22 [
+INFO  11:48:42,174 - #19 2
+INFO  11:48:42,174 - #11 +
+INFO  11:48:42,174 - #19 3
+INFO  11:48:42,176 - #42 /
+INFO  11:48:42,176 - #19 4
+INFO  11:48:42,177 - #23 ]
+INFO  11:48:42,178 - #13 =
+INFO  11:48:42,178 - #19 3
+INFO  11:48:42,178 - #5 ;
+INFO  11:48:42,178 - #15 y
+INFO  11:48:42,178 - #22 [
+INFO  11:48:42,178 - #19 1
+INFO  11:48:42,178 - #23 ]
+INFO  11:48:42,179 - #13 =
+INFO  11:48:42,179 - #15 fja
+INFO  11:48:42,179 - #6 (
+INFO  11:48:42,179 - #7 )
+INFO  11:48:42,180 - #5 ;
+INFO  11:48:42,180 - #4 }
+INFO  11:48:42,180 - #4 }
+INFO  11:48:42,265 - Deklarisana promenljiva x na liniji 2
+INFO  11:48:42,265 - Deklarisana promenljiva y na liniji 3
+INFO  11:48:42,265 - Deklarisana promenljiva b na liniji 4
+INFO  11:48:42,265 - Deklarisana promenljiva c na liniji 5
+INFO  11:48:42,265 - Deklarisana promenljiva aa na liniji 6
+INFO  11:48:42,266 - Deklarisana promenljiva i na liniji 14
+INFO  11:48:42,266 - Deklarisana promenljiva x na liniji 14
+INFO  11:48:42,269 - Print calls = 0
+INFO  11:53:27,945 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:53:28,013 - #2 program
+INFO  11:53:28,013 - #15 MJProgram
+INFO  11:53:28,013 - #15 int
+INFO  11:53:28,014 - #15 x
+INFO  11:53:28,015 - #22 [
+INFO  11:53:28,015 - #23 ]
+INFO  11:53:28,015 - #5 ;
+INFO  11:53:28,016 - #15 int
+INFO  11:53:28,017 - #15 y
+INFO  11:53:28,017 - #22 [
+INFO  11:53:28,017 - #23 ]
+INFO  11:53:28,017 - #5 ;
+INFO  11:53:28,017 - #15 bool
+INFO  11:53:28,017 - #15 b
+INFO  11:53:28,017 - #5 ;
+INFO  11:53:28,018 - #15 char
+INFO  11:53:28,018 - #15 c
+INFO  11:53:28,018 - #5 ;
+INFO  11:53:28,018 - #15 int
+INFO  11:53:28,018 - #15 aa
+INFO  11:53:28,018 - #5 ;
+INFO  11:53:28,018 - #18 const
+INFO  11:53:28,019 - #15 int
+INFO  11:53:28,019 - #15 pi
+INFO  11:53:28,019 - #13 =
+INFO  11:53:28,019 - #19 3
+INFO  11:53:28,019 - #8 ,
+INFO  11:53:28,020 - #15 e
+INFO  11:53:28,020 - #13 =
+INFO  11:53:28,020 - #19 2
+INFO  11:53:28,020 - #5 ;
+INFO  11:53:28,020 - #3 {
+INFO  11:53:28,022 - #15 int
+INFO  11:53:28,023 - #15 fja
+INFO  11:53:28,024 - #6 (
+INFO  11:53:28,024 - #7 )
+INFO  11:53:28,025 - #3 {
+INFO  11:53:28,026 - #10 return
+INFO  11:53:28,027 - #19 4
+INFO  11:53:28,027 - #5 ;
+INFO  11:53:28,027 - #4 }
+INFO  11:53:28,028 - #14 void
+INFO  11:53:28,029 - #15 main
+INFO  11:53:28,029 - #6 (
+INFO  11:53:28,029 - #7 )
+INFO  11:53:28,029 - #15 int
+INFO  11:53:28,029 - #15 i
+INFO  11:53:28,030 - #5 ;
+INFO  11:53:28,030 - #15 int
+INFO  11:53:28,030 - #15 x
+INFO  11:53:28,030 - #22 [
+INFO  11:53:28,030 - #23 ]
+INFO  11:53:28,031 - #5 ;
+INFO  11:53:28,031 - #3 {
+INFO  11:53:28,031 - #15 b
+INFO  11:53:28,031 - #13 =
+INFO  11:53:28,032 - #21 true
+INFO  11:53:28,032 - #5 ;
+INFO  11:53:28,032 - #15 c
+INFO  11:53:28,033 - #13 =
+INFO  11:53:28,033 - #20 x
+INFO  11:53:28,033 - #5 ;
+INFO  11:53:28,033 - #15 x
+INFO  11:53:28,034 - #13 =
+INFO  11:53:28,034 - #45 new
+INFO  11:53:28,034 - #15 int
+INFO  11:53:28,034 - #22 [
+INFO  11:53:28,034 - #19 3
+INFO  11:53:28,035 - #23 ]
+INFO  11:53:28,035 - #5 ;
+INFO  11:53:28,035 - #15 y
+INFO  11:53:28,035 - #13 =
+INFO  11:53:28,036 - #45 new
+INFO  11:53:28,036 - #15 int
+INFO  11:53:28,036 - #22 [
+INFO  11:53:28,036 - #19 4
+INFO  11:53:28,036 - #23 ]
+INFO  11:53:28,036 - #5 ;
+INFO  11:53:28,037 - #15 x
+INFO  11:53:28,037 - #22 [
+INFO  11:53:28,037 - #19 2
+INFO  11:53:28,037 - #23 ]
+INFO  11:53:28,037 - #13 =
+INFO  11:53:28,038 - #15 y
+INFO  11:53:28,038 - #22 [
+INFO  11:53:28,039 - #19 3
+INFO  11:53:28,039 - #23 ]
+INFO  11:53:28,039 - #5 ;
+INFO  11:53:28,039 - #15 x
+INFO  11:53:28,039 - #22 [
+INFO  11:53:28,040 - #19 1
+INFO  11:53:28,040 - #23 ]
+INFO  11:53:28,040 - #13 =
+INFO  11:53:28,042 - #19 3
+INFO  11:53:28,042 - #5 ;
+INFO  11:53:28,044 - #15 aa
+INFO  11:53:28,045 - #13 =
+INFO  11:53:28,045 - #15 x
+INFO  11:53:28,045 - #22 [
+INFO  11:53:28,045 - #19 1
+INFO  11:53:28,046 - #23 ]
+INFO  11:53:28,047 - #5 ;
+INFO  11:53:28,047 - #15 x
+INFO  11:53:28,047 - #22 [
+INFO  11:53:28,048 - #19 2
+INFO  11:53:28,048 - #11 +
+INFO  11:53:28,049 - #19 3
+INFO  11:53:28,052 - #42 /
+INFO  11:53:28,052 - #19 4
+INFO  11:53:28,054 - #23 ]
+INFO  11:53:28,055 - #13 =
+INFO  11:53:28,055 - #19 3
+INFO  11:53:28,055 - #5 ;
+INFO  11:53:28,055 - #15 y
+INFO  11:53:28,055 - #22 [
+INFO  11:53:28,055 - #19 1
+INFO  11:53:28,055 - #23 ]
+INFO  11:53:28,055 - #13 =
+INFO  11:53:28,056 - #15 fja
+INFO  11:53:28,056 - #6 (
+INFO  11:53:28,056 - #7 )
+INFO  11:53:28,057 - #5 ;
+INFO  11:53:28,057 - #10 return
+INFO  11:53:28,057 - #5 ;
+INFO  11:53:28,058 - #4 }
+INFO  11:53:28,059 - #4 }
+INFO  11:53:28,076 - Deklarisana promenljiva x na liniji 2
+INFO  11:53:28,076 - Deklarisana promenljiva y na liniji 3
+INFO  11:53:28,076 - Deklarisana promenljiva b na liniji 4
+INFO  11:53:28,077 - Deklarisana promenljiva c na liniji 5
+INFO  11:53:28,077 - Deklarisana promenljiva aa na liniji 6
+INFO  11:53:28,080 - Deklarisana promenljiva i na liniji 14
+INFO  11:53:28,080 - Deklarisana promenljiva x na liniji 14
+INFO  11:53:28,081 - Print calls = 0
+INFO  11:53:36,903 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:53:36,964 - #2 program
+INFO  11:53:36,964 - #15 MJProgram
+INFO  11:53:36,964 - #15 int
+INFO  11:53:36,965 - #15 x
+INFO  11:53:36,966 - #22 [
+INFO  11:53:36,966 - #23 ]
+INFO  11:53:36,966 - #5 ;
+INFO  11:53:36,967 - #15 int
+INFO  11:53:36,968 - #15 y
+INFO  11:53:36,968 - #22 [
+INFO  11:53:36,968 - #23 ]
+INFO  11:53:36,969 - #5 ;
+INFO  11:53:36,969 - #15 bool
+INFO  11:53:36,969 - #15 b
+INFO  11:53:36,969 - #5 ;
+INFO  11:53:36,969 - #15 char
+INFO  11:53:36,969 - #15 c
+INFO  11:53:36,969 - #5 ;
+INFO  11:53:36,970 - #15 int
+INFO  11:53:36,970 - #15 aa
+INFO  11:53:36,971 - #5 ;
+INFO  11:53:36,971 - #18 const
+INFO  11:53:36,971 - #15 int
+INFO  11:53:36,971 - #15 pi
+INFO  11:53:36,971 - #13 =
+INFO  11:53:36,972 - #19 3
+INFO  11:53:36,972 - #8 ,
+INFO  11:53:36,972 - #15 e
+INFO  11:53:36,972 - #13 =
+INFO  11:53:36,973 - #19 2
+INFO  11:53:36,973 - #5 ;
+INFO  11:53:36,973 - #3 {
+INFO  11:53:36,975 - #15 int
+INFO  11:53:36,975 - #15 fja
+INFO  11:53:36,976 - #6 (
+INFO  11:53:36,976 - #7 )
+INFO  11:53:36,977 - #3 {
+INFO  11:53:36,978 - #10 return
+INFO  11:53:36,979 - #19 4
+INFO  11:53:36,979 - #5 ;
+INFO  11:53:36,980 - #4 }
+INFO  11:53:36,981 - #14 void
+INFO  11:53:36,983 - #15 main
+INFO  11:53:36,983 - #6 (
+INFO  11:53:36,983 - #7 )
+INFO  11:53:36,984 - #15 int
+INFO  11:53:36,984 - #15 i
+INFO  11:53:36,984 - #5 ;
+INFO  11:53:36,984 - #15 int
+INFO  11:53:36,984 - #15 x
+INFO  11:53:36,985 - #22 [
+INFO  11:53:36,985 - #23 ]
+INFO  11:53:36,985 - #5 ;
+INFO  11:53:36,985 - #3 {
+INFO  11:53:36,985 - #15 b
+INFO  11:53:36,985 - #13 =
+INFO  11:53:36,986 - #21 true
+INFO  11:53:36,986 - #5 ;
+INFO  11:53:36,986 - #15 c
+INFO  11:53:36,987 - #13 =
+INFO  11:53:36,987 - #20 x
+INFO  11:53:36,987 - #5 ;
+INFO  11:53:36,988 - #15 x
+INFO  11:53:36,988 - #13 =
+INFO  11:53:36,988 - #45 new
+INFO  11:53:36,988 - #15 int
+INFO  11:53:36,988 - #22 [
+INFO  11:53:36,988 - #19 3
+INFO  11:53:36,989 - #23 ]
+INFO  11:53:36,989 - #5 ;
+INFO  11:53:36,989 - #15 y
+INFO  11:53:36,989 - #13 =
+INFO  11:53:36,990 - #45 new
+INFO  11:53:36,990 - #15 int
+INFO  11:53:36,990 - #22 [
+INFO  11:53:36,990 - #19 4
+INFO  11:53:36,990 - #23 ]
+INFO  11:53:36,990 - #5 ;
+INFO  11:53:36,991 - #15 x
+INFO  11:53:36,991 - #22 [
+INFO  11:53:36,991 - #19 2
+INFO  11:53:36,991 - #23 ]
+INFO  11:53:36,992 - #13 =
+INFO  11:53:36,992 - #15 y
+INFO  11:53:36,992 - #22 [
+INFO  11:53:36,992 - #19 3
+INFO  11:53:36,993 - #23 ]
+INFO  11:53:36,993 - #5 ;
+INFO  11:53:36,993 - #15 x
+INFO  11:53:36,993 - #22 [
+INFO  11:53:36,994 - #19 1
+INFO  11:53:36,994 - #23 ]
+INFO  11:53:36,994 - #13 =
+INFO  11:53:36,994 - #19 3
+INFO  11:53:36,994 - #5 ;
+INFO  11:53:36,995 - #15 aa
+INFO  11:53:36,995 - #13 =
+INFO  11:53:36,995 - #15 x
+INFO  11:53:36,995 - #22 [
+INFO  11:53:36,995 - #19 1
+INFO  11:53:36,995 - #23 ]
+INFO  11:53:36,996 - #5 ;
+INFO  11:53:36,996 - #15 x
+INFO  11:53:36,996 - #22 [
+INFO  11:53:36,996 - #19 2
+INFO  11:53:36,996 - #11 +
+INFO  11:53:36,996 - #19 3
+INFO  11:53:37,000 - #42 /
+INFO  11:53:37,000 - #19 4
+INFO  11:53:37,004 - #23 ]
+INFO  11:53:37,005 - #13 =
+INFO  11:53:37,005 - #19 3
+INFO  11:53:37,005 - #5 ;
+INFO  11:53:37,005 - #15 y
+INFO  11:53:37,005 - #22 [
+INFO  11:53:37,006 - #19 1
+INFO  11:53:37,006 - #23 ]
+INFO  11:53:37,006 - #13 =
+INFO  11:53:37,006 - #15 fja
+INFO  11:53:37,006 - #6 (
+INFO  11:53:37,006 - #7 )
+INFO  11:53:37,008 - #5 ;
+INFO  11:53:37,008 - #10 return
+INFO  11:53:37,009 - #19 3
+INFO  11:53:37,009 - #5 ;
+INFO  11:53:37,009 - #4 }
+INFO  11:53:37,010 - #4 }
+INFO  11:53:37,037 - Deklarisana promenljiva x na liniji 2
+INFO  11:53:37,038 - Deklarisana promenljiva y na liniji 3
+INFO  11:53:37,038 - Deklarisana promenljiva b na liniji 4
+INFO  11:53:37,038 - Deklarisana promenljiva c na liniji 5
+INFO  11:53:37,042 - Deklarisana promenljiva aa na liniji 6
+INFO  11:53:37,042 - Deklarisana promenljiva i na liniji 14
+INFO  11:53:37,042 - Deklarisana promenljiva x na liniji 14
+ERROR 11:53:37,043 - Greska na liniji 24 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije main
+INFO  11:53:37,043 - Print calls = 0
+INFO  11:57:01,108 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:57:01,171 - #2 program
+INFO  11:57:01,172 - #15 MJProgram
+INFO  11:57:01,172 - #15 int
+INFO  11:57:01,173 - #15 x
+INFO  11:57:01,173 - #22 [
+INFO  11:57:01,174 - #23 ]
+INFO  11:57:01,174 - #5 ;
+INFO  11:57:01,174 - #15 int
+INFO  11:57:01,175 - #15 y
+INFO  11:57:01,175 - #22 [
+INFO  11:57:01,175 - #23 ]
+INFO  11:57:01,176 - #5 ;
+INFO  11:57:01,176 - #15 bool
+INFO  11:57:01,176 - #15 b
+INFO  11:57:01,176 - #5 ;
+INFO  11:57:01,176 - #15 char
+INFO  11:57:01,176 - #15 c
+INFO  11:57:01,176 - #5 ;
+INFO  11:57:01,176 - #15 int
+INFO  11:57:01,177 - #15 aa
+INFO  11:57:01,177 - #5 ;
+INFO  11:57:01,177 - #18 const
+INFO  11:57:01,177 - #15 int
+INFO  11:57:01,177 - #15 pi
+INFO  11:57:01,177 - #13 =
+INFO  11:57:01,177 - #19 3
+INFO  11:57:01,177 - #8 ,
+INFO  11:57:01,178 - #15 e
+INFO  11:57:01,178 - #13 =
+INFO  11:57:01,178 - #19 2
+INFO  11:57:01,178 - #5 ;
+INFO  11:57:01,179 - #3 {
+INFO  11:57:01,180 - #15 int
+INFO  11:57:01,181 - #15 fja
+INFO  11:57:01,181 - #6 (
+INFO  11:57:01,182 - #7 )
+INFO  11:57:01,183 - #3 {
+INFO  11:57:01,184 - #10 return
+INFO  11:57:01,185 - #19 4
+INFO  11:57:01,185 - #5 ;
+INFO  11:57:01,185 - #4 }
+INFO  11:57:01,186 - #14 void
+INFO  11:57:01,188 - #15 main
+INFO  11:57:01,188 - #6 (
+INFO  11:57:01,188 - #15 int
+INFO  11:57:01,188 - #15 h
+INFO  11:57:01,189 - #5 ;
+ERROR 11:57:01,189 - 
+Sintaksna greska na liniji 14
+ERROR 11:57:01,189 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+INFO  11:57:13,874 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:57:13,952 - #2 program
+INFO  11:57:13,952 - #15 MJProgram
+INFO  11:57:13,952 - #15 int
+INFO  11:57:13,954 - #15 x
+INFO  11:57:13,955 - #22 [
+INFO  11:57:13,955 - #23 ]
+INFO  11:57:13,955 - #5 ;
+INFO  11:57:13,955 - #15 int
+INFO  11:57:13,957 - #15 y
+INFO  11:57:13,957 - #22 [
+INFO  11:57:13,957 - #23 ]
+INFO  11:57:13,957 - #5 ;
+INFO  11:57:13,957 - #15 bool
+INFO  11:57:13,957 - #15 b
+INFO  11:57:13,957 - #5 ;
+INFO  11:57:13,958 - #15 char
+INFO  11:57:13,958 - #15 c
+INFO  11:57:13,958 - #5 ;
+INFO  11:57:13,958 - #15 int
+INFO  11:57:13,958 - #15 aa
+INFO  11:57:13,958 - #5 ;
+INFO  11:57:13,959 - #18 const
+INFO  11:57:13,959 - #15 int
+INFO  11:57:13,959 - #15 pi
+INFO  11:57:13,959 - #13 =
+INFO  11:57:13,959 - #19 3
+INFO  11:57:13,960 - #8 ,
+INFO  11:57:13,960 - #15 e
+INFO  11:57:13,960 - #13 =
+INFO  11:57:13,960 - #19 2
+INFO  11:57:13,961 - #5 ;
+INFO  11:57:13,961 - #3 {
+INFO  11:57:13,963 - #15 int
+INFO  11:57:13,963 - #15 fja
+INFO  11:57:13,964 - #6 (
+INFO  11:57:13,964 - #7 )
+INFO  11:57:13,966 - #3 {
+INFO  11:57:13,967 - #10 return
+INFO  11:57:13,968 - #19 4
+INFO  11:57:13,968 - #5 ;
+INFO  11:57:13,969 - #4 }
+INFO  11:57:13,969 - #14 void
+INFO  11:57:13,970 - #15 main
+INFO  11:57:13,970 - #6 (
+INFO  11:57:13,970 - #15 int
+INFO  11:57:13,970 - #15 h
+INFO  11:57:13,970 - #7 )
+INFO  11:57:13,971 - #15 int
+INFO  11:57:13,972 - #15 i
+INFO  11:57:13,972 - #5 ;
+INFO  11:57:13,972 - #15 int
+INFO  11:57:13,973 - #15 x
+INFO  11:57:13,973 - #22 [
+INFO  11:57:13,973 - #23 ]
+INFO  11:57:13,973 - #5 ;
+INFO  11:57:13,973 - #3 {
+INFO  11:57:13,974 - #15 b
+INFO  11:57:13,974 - #13 =
+INFO  11:57:13,974 - #21 true
+INFO  11:57:13,975 - #5 ;
+INFO  11:57:13,977 - #15 c
+INFO  11:57:13,978 - #13 =
+INFO  11:57:13,978 - #20 x
+INFO  11:57:13,979 - #5 ;
+INFO  11:57:13,980 - #15 x
+INFO  11:57:13,980 - #13 =
+INFO  11:57:13,980 - #45 new
+INFO  11:57:13,981 - #15 int
+INFO  11:57:13,985 - #22 [
+INFO  11:57:13,985 - #19 3
+INFO  11:57:13,985 - #23 ]
+INFO  11:57:13,985 - #5 ;
+INFO  11:57:13,986 - #15 y
+INFO  11:57:13,986 - #13 =
+INFO  11:57:13,986 - #45 new
+INFO  11:57:13,986 - #15 int
+INFO  11:57:13,986 - #22 [
+INFO  11:57:13,986 - #19 4
+INFO  11:57:13,986 - #23 ]
+INFO  11:57:13,986 - #5 ;
+INFO  11:57:13,986 - #15 x
+INFO  11:57:13,987 - #22 [
+INFO  11:57:13,987 - #19 2
+INFO  11:57:13,987 - #23 ]
+INFO  11:57:13,987 - #13 =
+INFO  11:57:13,987 - #15 y
+INFO  11:57:13,987 - #22 [
+INFO  11:57:13,988 - #19 3
+INFO  11:57:13,988 - #23 ]
+INFO  11:57:13,988 - #5 ;
+INFO  11:57:13,988 - #15 x
+INFO  11:57:13,988 - #22 [
+INFO  11:57:13,988 - #19 1
+INFO  11:57:13,988 - #23 ]
+INFO  11:57:13,989 - #13 =
+INFO  11:57:13,989 - #19 3
+INFO  11:57:13,989 - #5 ;
+INFO  11:57:13,989 - #15 aa
+INFO  11:57:13,989 - #13 =
+INFO  11:57:13,989 - #15 x
+INFO  11:57:13,989 - #22 [
+INFO  11:57:13,989 - #19 1
+INFO  11:57:13,990 - #23 ]
+INFO  11:57:13,990 - #5 ;
+INFO  11:57:13,990 - #15 x
+INFO  11:57:13,990 - #22 [
+INFO  11:57:13,990 - #19 2
+INFO  11:57:13,990 - #11 +
+INFO  11:57:13,990 - #19 3
+INFO  11:57:13,992 - #42 /
+INFO  11:57:13,992 - #19 4
+INFO  11:57:13,993 - #23 ]
+INFO  11:57:13,994 - #13 =
+INFO  11:57:13,994 - #19 3
+INFO  11:57:13,994 - #5 ;
+INFO  11:57:13,994 - #15 y
+INFO  11:57:13,994 - #22 [
+INFO  11:57:13,994 - #19 1
+INFO  11:57:13,995 - #23 ]
+INFO  11:57:13,995 - #13 =
+INFO  11:57:13,995 - #15 fja
+INFO  11:57:13,995 - #6 (
+INFO  11:57:13,995 - #7 )
+INFO  11:57:13,996 - #5 ;
+INFO  11:57:13,996 - #10 return
+INFO  11:57:13,996 - #19 3
+INFO  11:57:13,996 - #5 ;
+INFO  11:57:13,997 - #4 }
+INFO  11:57:13,997 - #4 }
+INFO  11:57:14,017 - Deklarisana promenljiva x na liniji 2
+INFO  11:57:14,017 - Deklarisana promenljiva y na liniji 3
+INFO  11:57:14,017 - Deklarisana promenljiva b na liniji 4
+INFO  11:57:14,017 - Deklarisana promenljiva c na liniji 5
+INFO  11:57:14,017 - Deklarisana promenljiva aa na liniji 6
+INFO  11:57:14,018 - Deklarisana promenljiva h na liniji 14
+INFO  11:57:14,018 - Deklarisana promenljiva i na liniji 14
+INFO  11:57:14,018 - Deklarisana promenljiva x na liniji 14
+ERROR 11:57:14,018 - Greska na liniji 24 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije main
+INFO  11:57:14,018 - Print calls = 0
+INFO  12:02:45,686 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:02:45,754 - #2 program
+INFO  12:02:45,755 - #15 MJProgram
+INFO  12:02:45,755 - #15 int
+INFO  12:02:45,756 - #15 x
+INFO  12:02:45,757 - #22 [
+INFO  12:02:45,757 - #23 ]
+INFO  12:02:45,757 - #5 ;
+INFO  12:02:45,757 - #15 int
+INFO  12:02:45,758 - #15 y
+INFO  12:02:45,758 - #22 [
+INFO  12:02:45,758 - #23 ]
+INFO  12:02:45,758 - #5 ;
+INFO  12:02:45,759 - #15 bool
+INFO  12:02:45,759 - #15 b
+INFO  12:02:45,759 - #5 ;
+INFO  12:02:45,759 - #15 char
+INFO  12:02:45,759 - #15 c
+INFO  12:02:45,759 - #5 ;
+INFO  12:02:45,759 - #15 int
+INFO  12:02:45,760 - #15 aa
+INFO  12:02:45,760 - #5 ;
+INFO  12:02:45,760 - #18 const
+INFO  12:02:45,760 - #15 int
+INFO  12:02:45,760 - #15 pi
+INFO  12:02:45,760 - #13 =
+INFO  12:02:45,760 - #19 3
+INFO  12:02:45,760 - #8 ,
+INFO  12:02:45,761 - #15 e
+INFO  12:02:45,761 - #13 =
+INFO  12:02:45,761 - #19 2
+INFO  12:02:45,761 - #5 ;
+INFO  12:02:45,761 - #3 {
+INFO  12:02:45,763 - #15 int
+INFO  12:02:45,764 - #15 fja
+INFO  12:02:45,764 - #6 (
+INFO  12:02:45,764 - #7 )
+INFO  12:02:45,765 - #3 {
+INFO  12:02:45,766 - #10 return
+INFO  12:02:45,767 - #19 4
+INFO  12:02:45,768 - #5 ;
+INFO  12:02:45,768 - #4 }
+INFO  12:02:45,768 - #14 void
+INFO  12:02:45,770 - #15 main
+INFO  12:02:45,770 - #6 (
+INFO  12:02:45,770 - #15 int
+INFO  12:02:45,771 - #15 h
+INFO  12:02:45,771 - #22 [
+INFO  12:02:45,771 - #23 ]
+INFO  12:02:45,771 - #7 )
+INFO  12:02:45,771 - #15 int
+INFO  12:02:45,771 - #15 i
+INFO  12:02:45,771 - #5 ;
+INFO  12:02:45,772 - #15 int
+INFO  12:02:45,772 - #15 x
+INFO  12:02:45,772 - #22 [
+INFO  12:02:45,772 - #23 ]
+INFO  12:02:45,772 - #5 ;
+INFO  12:02:45,772 - #3 {
+INFO  12:02:45,772 - #15 b
+INFO  12:02:45,772 - #13 =
+INFO  12:02:45,773 - #21 true
+INFO  12:02:45,773 - #5 ;
+INFO  12:02:45,773 - #15 c
+INFO  12:02:45,773 - #13 =
+INFO  12:02:45,774 - #20 x
+INFO  12:02:45,774 - #5 ;
+INFO  12:02:45,774 - #15 x
+INFO  12:02:45,774 - #13 =
+INFO  12:02:45,774 - #45 new
+INFO  12:02:45,775 - #15 int
+INFO  12:02:45,775 - #22 [
+INFO  12:02:45,775 - #19 3
+INFO  12:02:45,775 - #23 ]
+INFO  12:02:45,775 - #5 ;
+INFO  12:02:45,776 - #15 y
+INFO  12:02:45,776 - #13 =
+INFO  12:02:45,776 - #45 new
+INFO  12:02:45,776 - #15 int
+INFO  12:02:45,776 - #22 [
+INFO  12:02:45,776 - #19 4
+INFO  12:02:45,776 - #23 ]
+INFO  12:02:45,777 - #5 ;
+INFO  12:02:45,777 - #15 x
+INFO  12:02:45,777 - #22 [
+INFO  12:02:45,777 - #19 2
+INFO  12:02:45,777 - #23 ]
+INFO  12:02:45,777 - #13 =
+INFO  12:02:45,778 - #15 y
+INFO  12:02:45,778 - #22 [
+INFO  12:02:45,778 - #19 3
+INFO  12:02:45,778 - #23 ]
+INFO  12:02:45,778 - #5 ;
+INFO  12:02:45,778 - #15 x
+INFO  12:02:45,778 - #22 [
+INFO  12:02:45,778 - #19 1
+INFO  12:02:45,779 - #23 ]
+INFO  12:02:45,779 - #13 =
+INFO  12:02:45,779 - #19 3
+INFO  12:02:45,779 - #5 ;
+INFO  12:02:45,779 - #15 aa
+INFO  12:02:45,779 - #13 =
+INFO  12:02:45,779 - #15 x
+INFO  12:02:45,779 - #22 [
+INFO  12:02:45,779 - #19 1
+INFO  12:02:45,779 - #23 ]
+INFO  12:02:45,780 - #5 ;
+INFO  12:02:45,780 - #15 x
+INFO  12:02:45,780 - #22 [
+INFO  12:02:45,780 - #19 2
+INFO  12:02:45,780 - #11 +
+INFO  12:02:45,780 - #19 3
+INFO  12:02:45,781 - #42 /
+INFO  12:02:45,781 - #19 4
+INFO  12:02:45,783 - #23 ]
+INFO  12:02:45,784 - #13 =
+INFO  12:02:45,784 - #19 3
+INFO  12:02:45,784 - #5 ;
+INFO  12:02:45,784 - #15 y
+INFO  12:02:45,784 - #22 [
+INFO  12:02:45,784 - #19 1
+INFO  12:02:45,784 - #23 ]
+INFO  12:02:45,784 - #13 =
+INFO  12:02:45,785 - #15 fja
+INFO  12:02:45,785 - #6 (
+INFO  12:02:45,785 - #7 )
+INFO  12:02:45,786 - #5 ;
+INFO  12:02:45,787 - #10 return
+INFO  12:02:45,788 - #19 3
+INFO  12:02:45,788 - #5 ;
+INFO  12:02:45,788 - #4 }
+INFO  12:02:45,788 - #4 }
+INFO  12:02:45,810 - Deklarisana promenljiva x na liniji 2
+INFO  12:02:45,811 - Deklarisana promenljiva y na liniji 3
+INFO  12:02:45,811 - Deklarisana promenljiva b na liniji 4
+INFO  12:02:45,811 - Deklarisana promenljiva c na liniji 5
+INFO  12:02:45,811 - Deklarisana promenljiva aa na liniji 6
+INFO  12:02:45,811 - Deklarisana promenljiva h na liniji 14
+INFO  12:02:45,811 - Deklarisana promenljiva i na liniji 14
+INFO  12:02:45,811 - Deklarisana promenljiva x na liniji 14
+ERROR 12:02:45,812 - Greska na liniji 24 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije main
+INFO  12:02:45,812 - Print calls = 0
+INFO  12:10:49,220 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:10:49,302 - #2 program
+INFO  12:10:49,303 - #15 MJProgram
+INFO  12:10:49,303 - #15 int
+INFO  12:10:49,304 - #15 x
+INFO  12:10:49,305 - #22 [
+INFO  12:10:49,305 - #23 ]
+INFO  12:10:49,305 - #5 ;
+INFO  12:10:49,305 - #15 int
+INFO  12:10:49,306 - #15 y
+INFO  12:10:49,306 - #22 [
+INFO  12:10:49,306 - #23 ]
+INFO  12:10:49,306 - #5 ;
+INFO  12:10:49,307 - #15 bool
+INFO  12:10:49,307 - #15 b
+INFO  12:10:49,307 - #5 ;
+INFO  12:10:49,307 - #15 char
+INFO  12:10:49,307 - #15 c
+INFO  12:10:49,307 - #5 ;
+INFO  12:10:49,307 - #15 int
+INFO  12:10:49,307 - #15 aa
+INFO  12:10:49,308 - #5 ;
+INFO  12:10:49,308 - #18 const
+INFO  12:10:49,308 - #15 int
+INFO  12:10:49,308 - #15 pi
+INFO  12:10:49,308 - #13 =
+INFO  12:10:49,308 - #19 3
+INFO  12:10:49,308 - #8 ,
+INFO  12:10:49,309 - #15 e
+INFO  12:10:49,309 - #13 =
+INFO  12:10:49,309 - #19 2
+INFO  12:10:49,309 - #5 ;
+INFO  12:10:49,309 - #3 {
+INFO  12:10:49,311 - #15 int
+INFO  12:10:49,312 - #15 fja
+INFO  12:10:49,312 - #6 (
+INFO  12:10:49,313 - #7 )
+INFO  12:10:49,314 - #3 {
+INFO  12:10:49,314 - #10 return
+INFO  12:10:49,315 - #19 4
+INFO  12:10:49,315 - #5 ;
+INFO  12:10:49,316 - #4 }
+INFO  12:10:49,316 - #14 void
+INFO  12:10:49,318 - #15 main
+INFO  12:10:49,318 - #6 (
+INFO  12:10:49,318 - #15 int
+INFO  12:10:49,319 - #15 h
+INFO  12:10:49,319 - #22 [
+INFO  12:10:49,319 - #23 ]
+INFO  12:10:49,319 - #7 )
+INFO  12:10:49,320 - #15 int
+INFO  12:10:49,320 - #15 i
+INFO  12:10:49,320 - #5 ;
+INFO  12:10:49,320 - #15 int
+INFO  12:10:49,321 - #15 x
+INFO  12:10:49,322 - #22 [
+INFO  12:10:49,322 - #23 ]
+INFO  12:10:49,322 - #5 ;
+INFO  12:10:49,322 - #3 {
+INFO  12:10:49,322 - #15 b
+INFO  12:10:49,322 - #13 =
+INFO  12:10:49,323 - #21 true
+INFO  12:10:49,323 - #5 ;
+INFO  12:10:49,323 - #15 c
+INFO  12:10:49,324 - #13 =
+INFO  12:10:49,324 - #20 x
+INFO  12:10:49,324 - #5 ;
+INFO  12:10:49,324 - #15 x
+INFO  12:10:49,324 - #13 =
+INFO  12:10:49,325 - #45 new
+INFO  12:10:49,325 - #15 int
+INFO  12:10:49,325 - #22 [
+INFO  12:10:49,325 - #19 3
+INFO  12:10:49,326 - #23 ]
+INFO  12:10:49,326 - #5 ;
+INFO  12:10:49,328 - #15 y
+INFO  12:10:49,328 - #13 =
+INFO  12:10:49,328 - #45 new
+INFO  12:10:49,328 - #15 int
+INFO  12:10:49,328 - #22 [
+INFO  12:10:49,328 - #19 4
+INFO  12:10:49,329 - #23 ]
+INFO  12:10:49,329 - #5 ;
+INFO  12:10:49,329 - #15 x
+INFO  12:10:49,329 - #22 [
+INFO  12:10:49,329 - #19 2
+INFO  12:10:49,329 - #23 ]
+INFO  12:10:49,329 - #13 =
+INFO  12:10:49,329 - #15 y
+INFO  12:10:49,330 - #22 [
+INFO  12:10:49,330 - #19 3
+INFO  12:10:49,330 - #23 ]
+INFO  12:10:49,330 - #5 ;
+INFO  12:10:49,330 - #15 x
+INFO  12:10:49,330 - #22 [
+INFO  12:10:49,330 - #19 1
+INFO  12:10:49,330 - #23 ]
+INFO  12:10:49,331 - #13 =
+INFO  12:10:49,331 - #19 3
+INFO  12:10:49,331 - #5 ;
+INFO  12:10:49,331 - #15 aa
+INFO  12:10:49,331 - #13 =
+INFO  12:10:49,331 - #15 x
+INFO  12:10:49,331 - #22 [
+INFO  12:10:49,332 - #19 1
+INFO  12:10:49,332 - #23 ]
+INFO  12:10:49,332 - #5 ;
+INFO  12:10:49,332 - #15 x
+INFO  12:10:49,332 - #22 [
+INFO  12:10:49,332 - #19 2
+INFO  12:10:49,332 - #11 +
+INFO  12:10:49,332 - #19 3
+INFO  12:10:49,334 - #42 /
+INFO  12:10:49,334 - #19 4
+INFO  12:10:49,335 - #23 ]
+INFO  12:10:49,335 - #13 =
+INFO  12:10:49,336 - #19 3
+INFO  12:10:49,336 - #5 ;
+INFO  12:10:49,336 - #15 y
+INFO  12:10:49,336 - #22 [
+INFO  12:10:49,336 - #19 1
+INFO  12:10:49,336 - #23 ]
+INFO  12:10:49,336 - #13 =
+INFO  12:10:49,336 - #15 fja
+INFO  12:10:49,336 - #6 (
+INFO  12:10:49,336 - #7 )
+INFO  12:10:49,337 - #5 ;
+INFO  12:10:49,337 - #10 return
+INFO  12:10:49,338 - #19 3
+INFO  12:10:49,338 - #5 ;
+INFO  12:10:49,338 - #4 }
+INFO  12:10:49,338 - #4 }
+INFO  12:10:49,364 - Deklarisana promenljiva x na liniji 2
+INFO  12:10:49,364 - Deklarisana promenljiva y na liniji 3
+INFO  12:10:49,364 - Deklarisana promenljiva b na liniji 4
+INFO  12:10:49,364 - Deklarisana promenljiva c na liniji 5
+INFO  12:10:49,364 - Deklarisana promenljiva aa na liniji 6
+INFO  12:10:49,365 - Deklarisana promenljiva h na liniji 14
+INFO  12:10:49,365 - Deklarisana promenljiva i na liniji 14
+INFO  12:10:49,365 - Deklarisana promenljiva x na liniji 14
+ERROR 12:10:49,366 - Greska na liniji 24 : tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije main
+ERROR 12:10:49,366 - Semanticka greska: main funkcija ne sme da ima formalne parametre 
+INFO  12:10:49,366 - Print calls = 0
+INFO  12:11:14,663 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:11:14,724 - #2 program
+INFO  12:11:14,724 - #15 MJProgram
+INFO  12:11:14,724 - #15 int
+INFO  12:11:14,726 - #15 x
+INFO  12:11:14,727 - #22 [
+INFO  12:11:14,727 - #23 ]
+INFO  12:11:14,727 - #5 ;
+INFO  12:11:14,728 - #15 int
+INFO  12:11:14,729 - #15 y
+INFO  12:11:14,729 - #22 [
+INFO  12:11:14,729 - #23 ]
+INFO  12:11:14,729 - #5 ;
+INFO  12:11:14,729 - #15 bool
+INFO  12:11:14,729 - #15 b
+INFO  12:11:14,730 - #5 ;
+INFO  12:11:14,730 - #15 char
+INFO  12:11:14,730 - #15 c
+INFO  12:11:14,730 - #5 ;
+INFO  12:11:14,730 - #15 int
+INFO  12:11:14,730 - #15 aa
+INFO  12:11:14,730 - #5 ;
+INFO  12:11:14,731 - #18 const
+INFO  12:11:14,731 - #15 int
+INFO  12:11:14,731 - #15 pi
+INFO  12:11:14,731 - #13 =
+INFO  12:11:14,732 - #19 3
+INFO  12:11:14,732 - #8 ,
+INFO  12:11:14,732 - #15 e
+INFO  12:11:14,732 - #13 =
+INFO  12:11:14,732 - #19 2
+INFO  12:11:14,733 - #5 ;
+INFO  12:11:14,733 - #3 {
+INFO  12:11:14,734 - #15 int
+INFO  12:11:14,735 - #15 fja
+INFO  12:11:14,735 - #6 (
+INFO  12:11:14,735 - #7 )
+INFO  12:11:14,736 - #3 {
+INFO  12:11:14,737 - #10 return
+INFO  12:11:14,738 - #19 4
+INFO  12:11:14,738 - #5 ;
+INFO  12:11:14,738 - #4 }
+INFO  12:11:14,739 - #15 int
+INFO  12:11:14,740 - #15 main
+INFO  12:11:14,740 - #6 (
+INFO  12:11:14,740 - #15 int
+INFO  12:11:14,741 - #15 h
+INFO  12:11:14,741 - #22 [
+INFO  12:11:14,741 - #23 ]
+INFO  12:11:14,741 - #7 )
+INFO  12:11:14,741 - #15 int
+INFO  12:11:14,741 - #15 i
+INFO  12:11:14,741 - #5 ;
+INFO  12:11:14,742 - #15 int
+INFO  12:11:14,742 - #15 x
+INFO  12:11:14,742 - #22 [
+INFO  12:11:14,742 - #23 ]
+INFO  12:11:14,742 - #5 ;
+INFO  12:11:14,742 - #3 {
+INFO  12:11:14,743 - #15 b
+INFO  12:11:14,743 - #13 =
+INFO  12:11:14,743 - #21 true
+INFO  12:11:14,743 - #5 ;
+INFO  12:11:14,744 - #15 c
+INFO  12:11:14,744 - #13 =
+INFO  12:11:14,744 - #20 x
+INFO  12:11:14,745 - #5 ;
+INFO  12:11:14,745 - #15 x
+INFO  12:11:14,745 - #13 =
+INFO  12:11:14,745 - #45 new
+INFO  12:11:14,745 - #15 int
+INFO  12:11:14,745 - #22 [
+INFO  12:11:14,745 - #19 3
+INFO  12:11:14,746 - #23 ]
+INFO  12:11:14,746 - #5 ;
+INFO  12:11:14,746 - #15 y
+INFO  12:11:14,746 - #13 =
+INFO  12:11:14,746 - #45 new
+INFO  12:11:14,746 - #15 int
+INFO  12:11:14,747 - #22 [
+INFO  12:11:14,747 - #19 4
+INFO  12:11:14,747 - #23 ]
+INFO  12:11:14,747 - #5 ;
+INFO  12:11:14,747 - #15 x
+INFO  12:11:14,747 - #22 [
+INFO  12:11:14,747 - #19 2
+INFO  12:11:14,747 - #23 ]
+INFO  12:11:14,748 - #13 =
+INFO  12:11:14,748 - #15 y
+INFO  12:11:14,748 - #22 [
+INFO  12:11:14,748 - #19 3
+INFO  12:11:14,748 - #23 ]
+INFO  12:11:14,748 - #5 ;
+INFO  12:11:14,749 - #15 x
+INFO  12:11:14,749 - #22 [
+INFO  12:11:14,749 - #19 1
+INFO  12:11:14,749 - #23 ]
+INFO  12:11:14,749 - #13 =
+INFO  12:11:14,749 - #19 3
+INFO  12:11:14,749 - #5 ;
+INFO  12:11:14,749 - #15 aa
+INFO  12:11:14,750 - #13 =
+INFO  12:11:14,750 - #15 x
+INFO  12:11:14,750 - #22 [
+INFO  12:11:14,750 - #19 1
+INFO  12:11:14,750 - #23 ]
+INFO  12:11:14,750 - #5 ;
+INFO  12:11:14,750 - #15 x
+INFO  12:11:14,750 - #22 [
+INFO  12:11:14,750 - #19 2
+INFO  12:11:14,751 - #11 +
+INFO  12:11:14,751 - #19 3
+INFO  12:11:14,753 - #42 /
+INFO  12:11:14,754 - #19 4
+INFO  12:11:14,755 - #23 ]
+INFO  12:11:14,755 - #13 =
+INFO  12:11:14,755 - #19 3
+INFO  12:11:14,755 - #5 ;
+INFO  12:11:14,756 - #15 y
+INFO  12:11:14,756 - #22 [
+INFO  12:11:14,756 - #19 1
+INFO  12:11:14,756 - #23 ]
+INFO  12:11:14,756 - #13 =
+INFO  12:11:14,756 - #15 fja
+INFO  12:11:14,756 - #6 (
+INFO  12:11:14,756 - #7 )
+INFO  12:11:14,757 - #5 ;
+INFO  12:11:14,758 - #10 return
+INFO  12:11:14,758 - #19 3
+INFO  12:11:14,758 - #5 ;
+INFO  12:11:14,758 - #4 }
+INFO  12:11:14,758 - #4 }
+INFO  12:11:14,784 - Deklarisana promenljiva x na liniji 2
+INFO  12:11:14,784 - Deklarisana promenljiva y na liniji 3
+INFO  12:11:14,784 - Deklarisana promenljiva b na liniji 4
+INFO  12:11:14,784 - Deklarisana promenljiva c na liniji 5
+INFO  12:11:14,785 - Deklarisana promenljiva aa na liniji 6
+ERROR 12:11:14,785 - Semanticka greska: main metoda ne sme imati povratnu vrednost 
+INFO  12:11:14,785 - Deklarisana promenljiva h na liniji 14
+INFO  12:11:14,785 - Deklarisana promenljiva i na liniji 14
+INFO  12:11:14,785 - Deklarisana promenljiva x na liniji 14
+ERROR 12:11:14,786 - Semanticka greska: main funkcija ne sme da ima formalne parametre 
+INFO  12:11:14,786 - Print calls = 0

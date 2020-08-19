@@ -1,0 +1,23 @@
+INFO  19:23:23,252 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:23:23,317 - #2 program
+INFO  19:23:23,317 - #15 MJProgram
+INFO  19:23:23,317 - #15 int
+INFO  19:23:23,317 - #15 x
+INFO  19:23:23,317 - #5 ;
+INFO  19:23:23,317 - #3 {
+INFO  19:23:23,317 - #14 void
+INFO  19:23:23,317 - #15 main
+INFO  19:23:23,317 - #6 (
+INFO  19:23:23,317 - #7 )
+INFO  19:23:23,317 - #3 {
+INFO  19:23:23,317 - #15 x
+INFO  19:23:23,317 - #13 =
+INFO  19:23:23,317 - #5 ;
+ERROR 19:23:23,317 - 
+Sintaksna greska na liniji 8
+INFO  19:23:23,317 - #4 }
+INFO  19:23:23,317 - #4 }
+INFO  19:23:23,333 - Deklarisana je globalna promenljiva x na liniji 2
+INFO  19:23:23,333 - Uspesan oporavak od greske pri iskazu dodele na liniji 8
+INFO  19:23:23,333 - Print calls = 0
+ERROR 19:23:23,348 - Parsiranje NIJE uspesno zavrseno!

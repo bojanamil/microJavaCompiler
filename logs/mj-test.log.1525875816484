@@ -1,0 +1,48 @@
+INFO  14:31:41,584 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:31:41,644 - #2 program
+INFO  14:31:41,644 - #15 MJProgram
+INFO  14:31:41,644 - #15 int
+INFO  14:31:41,645 - #15 y
+INFO  14:31:41,646 - #5 ;
+INFO  14:31:41,647 - #3 {
+INFO  14:31:41,647 - #15 int
+INFO  14:31:41,649 - #15 fja
+INFO  14:31:41,649 - #6 (
+INFO  14:31:41,649 - #15 int
+INFO  14:31:41,650 - #15 x
+INFO  14:31:41,650 - #7 )
+INFO  14:31:41,650 - #15 int
+INFO  14:31:41,651 - #15 z
+INFO  14:31:41,651 - #5 ;
+INFO  14:31:41,651 - #15 int
+INFO  14:31:41,652 - #15 p
+INFO  14:31:41,652 - #5 ;
+INFO  14:31:41,652 - #3 {
+INFO  14:31:41,652 - #10 return
+INFO  14:31:41,653 - #19 5
+INFO  14:31:41,653 - #5 ;
+INFO  14:31:41,654 - #4 }
+INFO  14:31:41,654 - #14 void
+INFO  14:31:41,655 - #15 main
+INFO  14:31:41,655 - #6 (
+INFO  14:31:41,656 - #7 )
+INFO  14:31:41,656 - #3 {
+INFO  14:31:41,656 - #15 fja
+INFO  14:31:41,656 - #6 (
+INFO  14:31:41,657 - #19 3
+INFO  14:31:41,657 - #8 ,
+INFO  14:31:41,657 - #19 4
+INFO  14:31:41,657 - #8 ,
+INFO  14:31:41,657 - #19 5
+INFO  14:31:41,657 - #7 )
+INFO  14:31:41,657 - #5 ;
+INFO  14:31:41,658 - #4 }
+INFO  14:31:41,658 - #4 }
+INFO  14:31:41,677 - Deklarisana promenljiva y na liniji 2
+INFO  14:31:41,677 - Deklarisana promenljiva x na liniji 5
+INFO  14:31:41,677 - Deklarisana promenljiva z na liniji 5
+INFO  14:31:41,677 - Deklarisana promenljiva p na liniji 5
+ERROR 14:31:41,678 - Greska na liniji 10 : funkcija ima vise stvarnih argumenata nego formalnih 
+INFO  14:31:41,678 - Pronadjen poziv funkcije fja na liniji 10
+INFO  14:31:41,678 - Print calls = 0
+ERROR 14:31:41,679 - Parsiranje NIJE uspesno zavrseno!

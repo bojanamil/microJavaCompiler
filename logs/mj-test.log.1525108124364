@@ -1,0 +1,30 @@
+INFO  19:08:34,478 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:08:34,555 - #2 program
+INFO  19:08:34,555 - #15 MJProgram
+INFO  19:08:34,555 - #15 int
+INFO  19:08:34,556 - #15 x
+INFO  19:08:34,557 - #22 [
+INFO  19:08:34,557 - #23 ]
+INFO  19:08:34,557 - #5 ;
+INFO  19:08:34,558 - #3 {
+INFO  19:08:34,558 - #14 void
+INFO  19:08:34,559 - #15 main
+INFO  19:08:34,559 - #6 (
+INFO  19:08:34,560 - #7 )
+INFO  19:08:34,561 - #3 {
+INFO  19:08:34,562 - #15 x
+INFO  19:08:34,563 - #13 =
+INFO  19:08:34,563 - #19 3
+INFO  19:08:34,563 - #5 ;
+INFO  19:08:34,564 - #30 read
+INFO  19:08:34,564 - #6 (
+INFO  19:08:34,565 - #15 x
+INFO  19:08:34,565 - #22 [
+INFO  19:08:34,570 - #19 3
+INFO  19:08:34,570 - #23 ]
+INFO  19:08:34,570 - #7 )
+INFO  19:08:34,570 - #5 ;
+INFO  19:08:34,570 - #4 }
+INFO  19:08:34,571 - #4 }
+INFO  19:08:34,591 - Deklarisana promenljiva x na liniji 2
+INFO  19:08:34,591 - Print calls = 0

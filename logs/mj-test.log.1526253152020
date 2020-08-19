@@ -1,0 +1,62 @@
+INFO  01:12:20,725 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:12:20,787 - #2 program
+INFO  01:12:20,787 - #15 MJProgram
+INFO  01:12:20,787 - #15 int
+INFO  01:12:20,788 - #15 x
+INFO  01:12:20,789 - #5 ;
+INFO  01:12:20,790 - #3 {
+INFO  01:12:20,791 - #15 int
+INFO  01:12:20,792 - #15 fja3
+INFO  01:12:20,792 - #6 (
+INFO  01:12:20,792 - #15 int
+INFO  01:12:20,793 - #15 aa
+INFO  01:12:20,793 - #8 ,
+INFO  01:12:20,793 - #15 int
+INFO  01:12:20,793 - #15 b
+INFO  01:12:20,793 - #7 )
+INFO  01:12:20,794 - #3 {
+INFO  01:12:20,795 - #10 return
+INFO  01:12:20,796 - #19 4
+INFO  01:12:20,796 - #5 ;
+INFO  01:12:20,797 - #4 }
+INFO  01:12:20,797 - #14 void
+INFO  01:12:20,799 - #15 main
+INFO  01:12:20,799 - #6 (
+INFO  01:12:20,799 - #7 )
+INFO  01:12:20,799 - #15 int
+INFO  01:12:20,799 - #15 x4
+INFO  01:12:20,800 - #5 ;
+INFO  01:12:20,800 - #15 char
+INFO  01:12:20,800 - #15 x5
+INFO  01:12:20,800 - #5 ;
+INFO  01:12:20,800 - #15 bool
+INFO  01:12:20,800 - #15 x6
+INFO  01:12:20,800 - #5 ;
+INFO  01:12:20,800 - #3 {
+INFO  01:12:20,800 - #9 print
+INFO  01:12:20,800 - #6 (
+INFO  01:12:20,801 - #19 3
+INFO  01:12:20,801 - #7 )
+INFO  01:12:20,801 - #5 ;
+INFO  01:12:20,801 - #15 x
+INFO  01:12:20,801 - #31 ++
+INFO  01:12:20,801 - #5 ;
+INFO  01:12:20,801 - #15 x
+INFO  01:12:20,802 - #13 =
+INFO  01:12:20,802 - #15 fja3
+INFO  01:12:20,802 - #6 (
+INFO  01:12:20,802 - #19 1
+INFO  01:12:20,802 - #8 ,
+INFO  01:12:20,802 - #19 2
+INFO  01:12:20,802 - #7 )
+INFO  01:12:20,803 - #5 ;
+INFO  01:12:20,803 - #4 }
+INFO  01:12:20,803 - #4 }
+INFO  01:12:20,822 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:12:20,823 - Deklarisan je formalni parametar aa na liniji 22
+INFO  01:12:20,823 - Deklarisan je formalni parametar b na liniji 22
+INFO  01:12:20,823 - Deklarisana je lokalna promenljiva x4 na liniji 26
+INFO  01:12:20,823 - Deklarisana je lokalna promenljiva x5 na liniji 26
+INFO  01:12:20,823 - Deklarisana je lokalna promenljiva x6 na liniji 26
+INFO  01:12:20,823 - Pronadjen poziv funkcije fja3 na liniji 31
+INFO  01:12:20,824 - Print calls = 0

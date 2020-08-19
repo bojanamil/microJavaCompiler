@@ -1,0 +1,68 @@
+INFO  13:20:52,728 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:20:52,819 - #2 program
+INFO  13:20:52,820 - #15 MJProgram
+INFO  13:20:52,820 - #15 int
+INFO  13:20:52,821 - #15 x
+INFO  13:20:52,822 - #5 ;
+INFO  13:20:52,822 - #15 int
+INFO  13:20:52,823 - #15 y
+INFO  13:20:52,823 - #5 ;
+INFO  13:20:52,823 - #3 {
+INFO  13:20:52,823 - #15 int
+INFO  13:20:52,824 - #15 k
+INFO  13:20:52,824 - #6 (
+INFO  13:20:52,824 - #7 )
+INFO  13:20:52,825 - #15 int
+INFO  13:20:52,826 - #15 c
+INFO  13:20:52,826 - #5 ;
+INFO  13:20:52,826 - #3 {
+INFO  13:20:52,827 - #15 c
+INFO  13:20:52,827 - #13 =
+INFO  13:20:52,828 - #19 1
+INFO  13:20:52,828 - #5 ;
+INFO  13:20:52,829 - #10 return
+INFO  13:20:52,829 - #15 c
+INFO  13:20:52,829 - #11 +
+INFO  13:20:52,829 - #19 2
+INFO  13:20:52,831 - #5 ;
+INFO  13:20:52,832 - #4 }
+INFO  13:20:52,832 - #14 void
+INFO  13:20:52,833 - #15 main
+INFO  13:20:52,833 - #6 (
+INFO  13:20:52,834 - #7 )
+INFO  13:20:52,834 - #3 {
+INFO  13:20:52,834 - #15 y
+INFO  13:20:52,834 - #13 =
+INFO  13:20:52,834 - #19 2
+INFO  13:20:52,834 - #5 ;
+INFO  13:20:52,834 - #15 x
+INFO  13:20:52,834 - #13 =
+INFO  13:20:52,835 - #15 y
+INFO  13:20:52,835 - #11 +
+INFO  13:20:52,835 - #19 2
+INFO  13:20:52,836 - #5 ;
+INFO  13:20:52,837 - #15 y
+INFO  13:20:52,837 - #13 =
+INFO  13:20:52,837 - #15 k
+INFO  13:20:52,837 - #6 (
+INFO  13:20:52,837 - #7 )
+INFO  13:20:52,838 - #11 +
+INFO  13:20:52,839 - #19 3
+INFO  13:20:52,839 - #5 ;
+INFO  13:20:52,839 - #9 print
+INFO  13:20:52,840 - #6 (
+INFO  13:20:52,840 - #15 y
+INFO  13:20:52,840 - #7 )
+INFO  13:20:52,840 - #5 ;
+INFO  13:20:52,840 - #10 return
+INFO  13:20:52,841 - #19 0
+INFO  13:20:52,841 - #5 ;
+INFO  13:20:52,841 - #4 }
+INFO  13:20:52,841 - #4 }
+INFO  13:20:52,880 - Deklarisana promenljiva x na liniji 2
+INFO  13:20:52,881 - Deklarisana promenljiva y na liniji 2
+INFO  13:20:52,881 - Deklarisana promenljiva c na liniji 5
+ERROR 13:20:52,881 - Semanticka greska: tip izraza mora biti Integer  na liniji 6
+ERROR 13:20:52,882 - Semanticka greska: tip izraza mora biti Integer  na liniji 6
+ERROR 13:20:52,882 - Semanticka greska: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 6
+ERROR 13:20:52,882 - Semanticka greska: tip izraza mora biti Integer  na liniji 7

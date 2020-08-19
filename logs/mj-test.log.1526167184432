@@ -1,0 +1,84 @@
+INFO  01:07:25,777 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:07:25,840 - #2 program
+INFO  01:07:25,840 - #15 MJProgram
+INFO  01:07:25,840 - #15 int
+INFO  01:07:25,841 - #15 x
+INFO  01:07:25,842 - #5 ;
+INFO  01:07:25,842 - #18 const
+INFO  01:07:25,843 - #15 int
+INFO  01:07:25,844 - #15 c1
+INFO  01:07:25,844 - #13 =
+INFO  01:07:25,844 - #19 1
+INFO  01:07:25,844 - #5 ;
+INFO  01:07:25,845 - #15 char
+INFO  01:07:25,847 - #15 y
+INFO  01:07:25,847 - #5 ;
+INFO  01:07:25,847 - #18 const
+INFO  01:07:25,847 - #15 char
+INFO  01:07:25,847 - #15 c2
+INFO  01:07:25,848 - #13 =
+INFO  01:07:25,848 - #20 c
+INFO  01:07:25,848 - #5 ;
+INFO  01:07:25,848 - #15 bool
+INFO  01:07:25,849 - #15 z
+INFO  01:07:25,849 - #5 ;
+INFO  01:07:25,849 - #18 const
+INFO  01:07:25,849 - #15 bool
+INFO  01:07:25,849 - #15 c3
+INFO  01:07:25,850 - #13 =
+INFO  01:07:25,850 - #21 false
+INFO  01:07:25,850 - #5 ;
+INFO  01:07:25,850 - #3 {
+INFO  01:07:25,850 - #15 int
+INFO  01:07:25,851 - #15 fja1
+INFO  01:07:25,851 - #6 (
+INFO  01:07:25,852 - #7 )
+INFO  01:07:25,853 - #15 int
+INFO  01:07:25,854 - #15 xx
+INFO  01:07:25,854 - #5 ;
+INFO  01:07:25,854 - #15 int
+INFO  01:07:25,854 - #15 yy
+INFO  01:07:25,854 - #5 ;
+INFO  01:07:25,854 - #3 {
+INFO  01:07:25,855 - #10 return
+INFO  01:07:25,856 - #19 2
+INFO  01:07:25,856 - #5 ;
+INFO  01:07:25,856 - #4 }
+INFO  01:07:25,857 - #15 int
+INFO  01:07:25,858 - #15 fja2
+INFO  01:07:25,858 - #6 (
+INFO  01:07:25,858 - #7 )
+INFO  01:07:25,858 - #15 int
+INFO  01:07:25,858 - #15 xxx
+INFO  01:07:25,858 - #5 ;
+INFO  01:07:25,858 - #15 int
+INFO  01:07:25,859 - #15 yyy
+INFO  01:07:25,859 - #5 ;
+INFO  01:07:25,859 - #3 {
+INFO  01:07:25,859 - #10 return
+INFO  01:07:25,859 - #19 3
+INFO  01:07:25,859 - #5 ;
+INFO  01:07:25,859 - #4 }
+INFO  01:07:25,859 - #14 void
+INFO  01:07:25,859 - #15 main
+INFO  01:07:25,859 - #6 (
+INFO  01:07:25,860 - #7 )
+INFO  01:07:25,860 - #3 {
+INFO  01:07:25,860 - #9 print
+INFO  01:07:25,860 - #6 (
+INFO  01:07:25,860 - #19 3
+INFO  01:07:25,863 - #7 )
+INFO  01:07:25,863 - #5 ;
+INFO  01:07:25,863 - #4 }
+INFO  01:07:25,863 - #4 }
+INFO  01:07:25,882 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:07:25,882 - Deklarisana je konstanta c1 na liniji 4
+INFO  01:07:25,882 - Deklarisana je globalna promenljiva y na liniji 5
+INFO  01:07:25,883 - Deklarisana je konstanta c2 na liniji 6
+INFO  01:07:25,883 - Deklarisana je globalna promenljiva z na liniji 7
+INFO  01:07:25,883 - Deklarisana je konstanta c3 na liniji 8
+INFO  01:07:25,883 - Deklarisana je lokalna promenljiva xx na liniji 11
+INFO  01:07:25,883 - Deklarisana je lokalna promenljiva yy na liniji 12
+INFO  01:07:25,884 - Deklarisana je lokalna promenljiva xxx na liniji 16
+INFO  01:07:25,884 - Deklarisana je lokalna promenljiva yyy na liniji 18
+INFO  01:07:25,884 - Print calls = 0

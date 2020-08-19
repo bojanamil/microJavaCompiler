@@ -1,0 +1,122 @@
+INFO  12:45:45,241 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\primer2.mj
+INFO  12:45:45,649 - #2 program
+INFO  12:45:45,649 - #15 MJProgram
+INFO  12:45:45,650 - #15 int
+INFO  12:45:45,655 - #15 nizA
+INFO  12:45:45,658 - #22 [
+INFO  12:45:45,658 - #23 ]
+INFO  12:45:45,658 - #5 ;
+INFO  12:45:45,658 - #15 int
+INFO  12:45:45,661 - #15 nizB
+INFO  12:45:45,661 - #22 [
+INFO  12:45:45,661 - #23 ]
+INFO  12:45:45,662 - #5 ;
+INFO  12:45:45,662 - #15 char
+INFO  12:45:45,662 - #15 nizC
+INFO  12:45:45,662 - #22 [
+INFO  12:45:45,662 - #23 ]
+INFO  12:45:45,662 - #5 ;
+INFO  12:45:45,662 - #15 bool
+INFO  12:45:45,663 - #15 nizD
+INFO  12:45:45,663 - #22 [
+INFO  12:45:45,663 - #23 ]
+INFO  12:45:45,663 - #5 ;
+INFO  12:45:45,663 - #18 const
+INFO  12:45:45,664 - #15 int
+INFO  12:45:45,664 - #15 konstanta
+INFO  12:45:45,664 - #13 =
+INFO  12:45:45,664 - #19 5
+INFO  12:45:45,664 - #5 ;
+INFO  12:45:45,665 - #15 int
+INFO  12:45:45,685 - #15 x
+INFO  12:45:45,686 - #5 ;
+INFO  12:45:45,686 - #15 int
+INFO  12:45:45,686 - #15 y
+INFO  12:45:45,686 - #5 ;
+INFO  12:45:45,686 - #3 {
+INFO  12:45:45,686 - #15 int
+INFO  12:45:45,694 - #15 fja1
+INFO  12:45:45,694 - #6 (
+INFO  12:45:45,695 - #15 int
+INFO  12:45:45,695 - #15 x
+INFO  12:45:45,695 - #8 ,
+INFO  12:45:45,695 - #15 int
+INFO  12:45:45,695 - #15 y
+INFO  12:45:45,695 - #7 )
+INFO  12:45:45,696 - #15 int
+INFO  12:45:45,698 - #15 z
+INFO  12:45:45,698 - #5 ;
+INFO  12:45:45,698 - #3 {
+INFO  12:45:45,707 - #15 z
+INFO  12:45:45,709 - #13 =
+INFO  12:45:45,709 - #19 3
+INFO  12:45:45,710 - #41 *
+INFO  12:45:45,710 - #15 x
+INFO  12:45:45,744 - #11 +
+INFO  12:45:45,744 - #15 y
+INFO  12:45:45,760 - #42 /
+INFO  12:45:45,761 - #19 4
+INFO  12:45:45,763 - #11 +
+INFO  12:45:45,764 - #19 5
+INFO  12:45:45,764 - #12 -
+INFO  12:45:45,764 - #19 6
+INFO  12:45:45,771 - #5 ;
+INFO  12:45:45,772 - #10 return
+INFO  12:45:45,772 - #15 z
+INFO  12:45:45,773 - #5 ;
+INFO  12:45:45,773 - #4 }
+INFO  12:45:45,774 - #14 void
+INFO  12:45:45,776 - #15 main
+INFO  12:45:45,779 - #6 (
+INFO  12:45:45,779 - #7 )
+INFO  12:45:45,781 - #15 int
+INFO  12:45:45,781 - #15 x
+INFO  12:45:45,781 - #8 ,
+INFO  12:45:45,781 - #15 y
+INFO  12:45:45,781 - #5 ;
+INFO  12:45:45,782 - #15 bool
+INFO  12:45:45,782 - #15 b
+INFO  12:45:45,782 - #5 ;
+INFO  12:45:45,782 - #3 {
+INFO  12:45:45,782 - #15 x
+INFO  12:45:45,782 - #13 =
+INFO  12:45:45,782 - #19 5
+INFO  12:45:45,782 - #5 ;
+INFO  12:45:45,782 - #15 y
+INFO  12:45:45,782 - #13 =
+INFO  12:45:45,783 - #15 x
+INFO  12:45:45,783 - #11 +
+INFO  12:45:45,783 - #19 4
+INFO  12:45:45,783 - #5 ;
+INFO  12:45:45,783 - #15 b
+INFO  12:45:45,783 - #13 =
+INFO  12:45:45,783 - #21 true
+INFO  12:45:45,783 - #5 ;
+INFO  12:45:45,784 - #15 y
+INFO  12:45:45,784 - #13 =
+INFO  12:45:45,784 - #15 fja1
+INFO  12:45:45,784 - #6 (
+INFO  12:45:45,784 - #15 x
+INFO  12:45:45,784 - #8 ,
+INFO  12:45:45,784 - #15 y
+INFO  12:45:45,785 - #7 )
+INFO  12:45:45,785 - #5 ;
+INFO  12:45:45,785 - #4 }
+INFO  12:45:45,785 - #4 }
+INFO  12:45:45,846 - Deklarisana je globalna promenljiva nizA na liniji 2
+INFO  12:45:45,847 - Deklarisana je globalna promenljiva nizB na liniji 3
+INFO  12:45:45,847 - Deklarisana je globalna promenljiva nizC na liniji 4
+INFO  12:45:45,847 - Deklarisana je globalna promenljiva nizD na liniji 5
+INFO  12:45:45,847 - Deklarisana je konstanta konstanta na liniji 6
+INFO  12:45:45,847 - Deklarisana je globalna promenljiva x na liniji 7
+INFO  12:45:45,847 - Deklarisana je globalna promenljiva y na liniji 8
+INFO  12:45:45,847 - Deklarisan je formalni parametar x na liniji 11
+INFO  12:45:45,847 - Deklarisan je formalni parametar y na liniji 11
+INFO  12:45:45,848 - Deklarisana je lokalna promenljiva z na liniji 11
+INFO  12:45:45,848 - Deklarisana je lokalna promenljiva x na liniji 16
+INFO  12:45:45,848 - Deklarisana je lokalna promenljiva y na liniji 16
+INFO  12:45:45,848 - Deklarisana je lokalna promenljiva b na liniji 16
+INFO  12:45:45,848 - Pronadjen poziv funkcije fja1 na liniji 20
+INFO  12:45:45,849 - Print calls = 0
+INFO  12:45:45,850 - Generating bytecode file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:45:45,908 - Parsiranje uspesno zavrseno!

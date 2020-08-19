@@ -1,0 +1,65 @@
+INFO  22:25:17,348 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:25:17,410 - #2 program
+INFO  22:25:17,410 - #15 MJProgram
+INFO  22:25:17,410 - #15 int
+INFO  22:25:17,411 - #15 x
+INFO  22:25:17,412 - #5 ;
+INFO  22:25:17,412 - #15 int
+INFO  22:25:17,414 - #15 y
+INFO  22:25:17,414 - #5 ;
+INFO  22:25:17,414 - #3 {
+INFO  22:25:17,414 - #15 int
+INFO  22:25:17,415 - #15 k
+INFO  22:25:17,415 - #6 (
+INFO  22:25:17,415 - #7 )
+INFO  22:25:17,416 - #15 int
+INFO  22:25:17,417 - #15 c
+INFO  22:25:17,417 - #5 ;
+INFO  22:25:17,417 - #3 {
+INFO  22:25:17,418 - #15 c
+INFO  22:25:17,419 - #13 =
+INFO  22:25:17,419 - #19 1
+INFO  22:25:17,419 - #5 ;
+INFO  22:25:17,420 - #10 return
+INFO  22:25:17,421 - #15 c
+INFO  22:25:17,421 - #11 +
+INFO  22:25:17,421 - #19 2
+INFO  22:25:17,422 - #5 ;
+INFO  22:25:17,422 - #4 }
+INFO  22:25:17,423 - #14 void
+INFO  22:25:17,424 - #15 main
+INFO  22:25:17,424 - #6 (
+INFO  22:25:17,424 - #7 )
+INFO  22:25:17,424 - #3 {
+INFO  22:25:17,424 - #15 y
+INFO  22:25:17,424 - #13 =
+INFO  22:25:17,424 - #19 2
+INFO  22:25:17,424 - #5 ;
+INFO  22:25:17,424 - #15 x
+INFO  22:25:17,425 - #13 =
+INFO  22:25:17,425 - #15 y
+INFO  22:25:17,425 - #11 +
+INFO  22:25:17,425 - #19 2
+INFO  22:25:17,425 - #5 ;
+INFO  22:25:17,425 - #15 y
+INFO  22:25:17,425 - #13 =
+INFO  22:25:17,426 - #15 k
+INFO  22:25:17,426 - #6 (
+INFO  22:25:17,426 - #7 )
+INFO  22:25:17,427 - #11 +
+INFO  22:25:17,427 - #19 3
+INFO  22:25:17,428 - #5 ;
+INFO  22:25:17,428 - #9 print
+INFO  22:25:17,428 - #6 (
+INFO  22:25:17,428 - #15 y
+INFO  22:25:17,428 - #7 )
+INFO  22:25:17,428 - #5 ;
+INFO  22:25:17,428 - #10 return
+INFO  22:25:17,429 - #19 0
+INFO  22:25:17,429 - #5 ;
+INFO  22:25:17,429 - #4 }
+INFO  22:25:17,429 - #4 }
+INFO  22:25:17,449 - Deklarisana promenljiva x na liniji 2
+INFO  22:25:17,449 - Deklarisana promenljiva y na liniji 2
+INFO  22:25:17,450 - Deklarisana promenljiva c na liniji 5
+INFO  22:25:17,451 - Print calls = 1

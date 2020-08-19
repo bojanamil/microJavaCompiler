@@ -1,0 +1,22 @@
+INFO  17:04:47,955 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:04:48,037 - #2 program
+INFO  17:04:48,038 - #15 MJProgram
+INFO  17:04:48,038 - #3 {
+INFO  17:04:48,040 - #14 void
+INFO  17:04:48,041 - #15 main
+INFO  17:04:48,041 - #6 (
+INFO  17:04:48,041 - #7 )
+INFO  17:04:48,042 - #3 {
+INFO  17:04:48,043 - #15 x
+INFO  17:04:48,044 - #22 [
+INFO  17:04:48,044 - #19 2
+INFO  17:04:48,044 - #23 ]
+INFO  17:04:48,045 - #13 =
+INFO  17:04:48,045 - #19 3
+INFO  17:04:48,045 - #5 ;
+INFO  17:04:48,046 - #4 }
+INFO  17:04:48,046 - #4 }
+ERROR 17:04:48,069 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom x na liniji 6
+ERROR 17:04:48,069 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom noObj na liniji 6
+ERROR 17:04:48,084 - Semanticka greska aaa: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 6
+INFO  17:04:48,084 - Print calls = 0

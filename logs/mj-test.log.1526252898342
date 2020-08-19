@@ -1,0 +1,60 @@
+INFO  01:07:56,903 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:07:56,968 - #2 program
+INFO  01:07:56,968 - #15 MJProgram
+INFO  01:07:56,969 - #15 int
+INFO  01:07:56,970 - #15 x
+INFO  01:07:56,971 - #5 ;
+INFO  01:07:56,972 - #3 {
+INFO  01:07:56,973 - #14 void
+INFO  01:07:56,973 - #15 fja3
+INFO  01:07:56,974 - #6 (
+INFO  01:07:56,974 - #15 int
+INFO  01:07:56,974 - #15 aa
+INFO  01:07:56,974 - #8 ,
+INFO  01:07:56,975 - #15 int
+INFO  01:07:56,975 - #15 b
+INFO  01:07:56,975 - #7 )
+INFO  01:07:56,975 - #3 {
+INFO  01:07:56,977 - #4 }
+INFO  01:07:56,978 - #14 void
+INFO  01:07:56,979 - #15 main
+INFO  01:07:56,979 - #6 (
+INFO  01:07:56,979 - #7 )
+INFO  01:07:56,980 - #15 int
+INFO  01:07:56,980 - #15 x4
+INFO  01:07:56,981 - #5 ;
+INFO  01:07:56,981 - #15 char
+INFO  01:07:56,981 - #15 x5
+INFO  01:07:56,981 - #5 ;
+INFO  01:07:56,981 - #15 bool
+INFO  01:07:56,981 - #15 x6
+INFO  01:07:56,981 - #5 ;
+INFO  01:07:56,981 - #3 {
+INFO  01:07:56,981 - #15 x
+INFO  01:07:56,981 - #13 =
+INFO  01:07:56,982 - #15 fja
+INFO  01:07:56,982 - #6 (
+INFO  01:07:56,982 - #19 2
+INFO  01:07:56,982 - #8 ,
+INFO  01:07:56,983 - #19 3
+INFO  01:07:56,983 - #7 )
+INFO  01:07:56,983 - #5 ;
+INFO  01:07:56,984 - #15 fja3
+INFO  01:07:56,984 - #6 (
+INFO  01:07:56,984 - #19 1
+INFO  01:07:56,984 - #8 ,
+INFO  01:07:56,984 - #19 2
+INFO  01:07:56,984 - #7 )
+INFO  01:07:56,985 - #5 ;
+INFO  01:07:56,985 - #4 }
+INFO  01:07:56,985 - #4 }
+INFO  01:07:57,003 - Deklarisana je globalna promenljiva x na liniji 3
+INFO  01:07:57,003 - Deklarisan je formalni parametar aa na liniji 22
+INFO  01:07:57,003 - Deklarisan je formalni parametar b na liniji 22
+INFO  01:07:57,004 - Deklarisana je lokalna promenljiva x4 na liniji 25
+INFO  01:07:57,004 - Deklarisana je lokalna promenljiva x5 na liniji 25
+INFO  01:07:57,004 - Deklarisana je lokalna promenljiva x6 na liniji 25
+ERROR 01:07:57,004 - Semanticka greska: u tabeli simbola ne postoji nista sa imenom fja na liniji 28
+INFO  01:07:57,004 - Pronadjen poziv funkcije fja3 na liniji 29
+ERROR 01:07:57,005 - Greska na liniji 29 broj formalnih i stvarnih argumenata u funkciji nije isti
+INFO  01:07:57,005 - Print calls = 0

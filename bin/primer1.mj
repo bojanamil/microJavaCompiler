@@ -1,0 +1,82 @@
+program MJProgram 
+	int x[];
+	int y[];
+	bool b;
+	char c;
+	int aa;
+	const int pi = 3, e = 2;
+{
+
+	int fja(){
+		return 4;
+	}
+	
+	int fja2(){
+		return c;
+		}
+		
+		int fja3(){
+			
+		}
+		
+		int fja4(){
+		return;
+		}
+	
+	void pp(){
+	}
+
+	int ff(int h[]) int i; int x[]; {
+		aa=fja();
+		aa=fja() + 3;
+		aa= fja() + true;
+		c= fja();
+	
+		y = new int[5];
+		y = new int[5+6];
+		y = new int[aa];
+		y = new char[5];
+		
+		y = new int[pi];
+		y = new int[pi+4];
+		y = new int[c];
+	
+		b= true;
+		c= 'x';
+		
+		g=3;      
+		c=xxx; 
+		nepostojeca_fja();
+		x=nepostojeca_fja_druga(); 
+		
+		x = new int[3];
+		y= new int[4];
+		x[2] = y[3]; 
+		x[1] = 3; 
+		aa= x[1]; 
+		aa= x[1] +3/4 -1;
+		x[2+3/4]= 3;
+		y[1]=fja();
+		
+		x[2]();
+		pp();
+		kk(); 
+		
+		read(aa);
+		read(x[1]); 
+		read(metoda);
+		
+		print(3);
+		//print(4,pi);
+		print(2+5/7-6);
+		print(a); 
+		print(aa); 
+		print(x[2]); 
+		
+		return 3;
+		//return aa;
+		//return x[2]; 
+		return x[1]+3;
+		
+	}
+}

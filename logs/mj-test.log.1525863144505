@@ -1,0 +1,64 @@
+INFO  12:45:16,266 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:45:16,337 - #2 program
+INFO  12:45:16,337 - #15 MJProgram
+INFO  12:45:16,337 - #15 int
+INFO  12:45:16,338 - #15 x
+INFO  12:45:16,339 - #5 ;
+INFO  12:45:16,340 - #18 const
+INFO  12:45:16,341 - #15 int
+INFO  12:45:16,341 - #15 y
+INFO  12:45:16,341 - #13 =
+INFO  12:45:16,342 - #19 4
+INFO  12:45:16,342 - #5 ;
+INFO  12:45:16,342 - #15 int
+INFO  12:45:16,344 - #15 z
+INFO  12:45:16,344 - #5 ;
+INFO  12:45:16,345 - #3 {
+INFO  12:45:16,345 - #15 int
+INFO  12:45:16,346 - #15 k
+INFO  12:45:16,347 - #6 (
+INFO  12:45:16,347 - #7 )
+INFO  12:45:16,348 - #15 int
+INFO  12:45:16,349 - #15 o
+INFO  12:45:16,350 - #5 ;
+INFO  12:45:16,350 - #15 int
+INFO  12:45:16,350 - #15 p
+INFO  12:45:16,350 - #5 ;
+INFO  12:45:16,350 - #3 {
+INFO  12:45:16,350 - #9 print
+INFO  12:45:16,351 - #6 (
+INFO  12:45:16,351 - #19 2
+INFO  12:45:16,351 - #7 )
+INFO  12:45:16,352 - #5 ;
+INFO  12:45:16,352 - #10 return
+INFO  12:45:16,352 - #19 2
+INFO  12:45:16,353 - #5 ;
+INFO  12:45:16,353 - #4 }
+INFO  12:45:16,353 - #14 void
+INFO  12:45:16,356 - #15 main
+INFO  12:45:16,356 - #6 (
+INFO  12:45:16,356 - #7 )
+INFO  12:45:16,356 - #3 {
+INFO  12:45:16,356 - #15 x
+INFO  12:45:16,357 - #13 =
+INFO  12:45:16,357 - #19 8
+INFO  12:45:16,357 - #5 ;
+INFO  12:45:16,357 - #9 print
+INFO  12:45:16,358 - #6 (
+INFO  12:45:16,358 - #15 x
+INFO  12:45:16,358 - #7 )
+INFO  12:45:16,358 - #5 ;
+INFO  12:45:16,359 - #15 k
+INFO  12:45:16,359 - #6 (
+INFO  12:45:16,359 - #7 )
+INFO  12:45:16,360 - #5 ;
+INFO  12:45:16,360 - #4 }
+INFO  12:45:16,360 - #4 }
+INFO  12:45:16,395 - Deklarisana promenljiva x na liniji 2
+INFO  12:45:16,395 - Deklarisana promenljiva z na liniji 4
+INFO  12:45:16,396 - Deklarisana promenljiva o na liniji 7
+INFO  12:45:16,396 - Deklarisana promenljiva p na liniji 7
+INFO  12:45:16,396 - Pronadjen poziv funkcije k na liniji 26
+INFO  12:45:16,397 - Print calls = 2
+INFO  12:45:16,398 - Generating bytecode file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  12:45:16,409 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,64 @@
+INFO  20:02:41,652 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:02:41,732 - #2 program
+INFO  20:02:41,732 - #15 MJProgram
+INFO  20:02:41,733 - #15 int
+INFO  20:02:41,734 - #15 x
+INFO  20:02:41,734 - #8 ,
+INFO  20:02:41,735 - #15 y
+INFO  20:02:41,735 - #8 ,
+INFO  20:02:41,735 - #15 z
+INFO  20:02:41,735 - #5 ;
+INFO  20:02:41,735 - #3 {
+INFO  20:02:41,737 - #15 int
+INFO  20:02:41,738 - #15 f
+INFO  20:02:41,738 - #6 (
+INFO  20:02:41,738 - #7 )
+INFO  20:02:41,739 - #3 {
+INFO  20:02:41,740 - #4 }
+INFO  20:02:41,741 - #14 void
+INFO  20:02:41,743 - #15 main
+INFO  20:02:41,743 - #6 (
+INFO  20:02:41,743 - #7 )
+INFO  20:02:41,744 - #3 {
+INFO  20:02:41,744 - #15 f
+INFO  20:02:41,744 - #6 (
+INFO  20:02:41,744 - #7 )
+INFO  20:02:41,746 - #5 ;
+INFO  20:02:41,746 - #15 x
+INFO  20:02:41,747 - #6 (
+INFO  20:02:41,747 - #7 )
+INFO  20:02:41,747 - #5 ;
+INFO  20:02:41,747 - #15 x
+INFO  20:02:41,747 - #13 =
+INFO  20:02:41,747 - #19 2
+INFO  20:02:41,747 - #5 ;
+INFO  20:02:41,748 - #15 x
+INFO  20:02:41,748 - #13 =
+INFO  20:02:41,748 - #19 3
+INFO  20:02:41,748 - #5 ;
+INFO  20:02:41,748 - #15 x
+INFO  20:02:41,748 - #13 =
+INFO  20:02:41,748 - #19 4
+INFO  20:02:41,749 - #5 ;
+INFO  20:02:41,749 - #15 y
+INFO  20:02:41,749 - #13 =
+INFO  20:02:41,749 - #19 2
+INFO  20:02:41,749 - #5 ;
+INFO  20:02:41,749 - #15 y
+INFO  20:02:41,749 - #13 =
+INFO  20:02:41,749 - #19 3
+INFO  20:02:41,750 - #5 ;
+INFO  20:02:41,750 - #15 y
+INFO  20:02:41,750 - #13 =
+INFO  20:02:41,750 - #19 4
+INFO  20:02:41,750 - #5 ;
+INFO  20:02:41,750 - #4 }
+INFO  20:02:41,751 - #4 }
+INFO  20:02:41,775 - Deklarisana promenljiva x na liniji 2
+INFO  20:02:41,776 - Deklarisana promenljiva y na liniji 2
+INFO  20:02:41,776 - Deklarisana promenljiva z na liniji 2
+ERROR 20:02:41,776 - Semanticka greska na liniji 4: funkcija f nema return iskaz!
+INFO  20:02:41,776 - Pronadjen poziv funkcije f na liniji 7
+ERROR 20:02:41,776 - Greska na liniji 7 : funkcija f ima povratni tip!
+ERROR 20:02:41,777 - Greska na liniji 8 : ime x nije funkcija!
+INFO  20:02:41,777 - Print calls = 0

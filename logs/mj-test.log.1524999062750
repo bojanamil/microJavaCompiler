@@ -1,0 +1,66 @@
+INFO  12:49:50,096 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:49:50,349 - #2 program
+INFO  12:49:50,349 - #15 MJProgram
+INFO  12:49:50,349 - #15 int
+INFO  12:49:50,351 - #15 x
+INFO  12:49:50,353 - #5 ;
+INFO  12:49:50,354 - #15 int
+INFO  12:49:50,355 - #15 y
+INFO  12:49:50,355 - #5 ;
+INFO  12:49:50,355 - #3 {
+INFO  12:49:50,355 - #15 int
+INFO  12:49:50,356 - #15 k
+INFO  12:49:50,356 - #6 (
+INFO  12:49:50,356 - #7 )
+INFO  12:49:50,357 - #15 int
+INFO  12:49:50,358 - #15 c
+INFO  12:49:50,358 - #5 ;
+INFO  12:49:50,358 - #3 {
+INFO  12:49:50,358 - #15 c
+INFO  12:49:50,359 - #13 =
+INFO  12:49:50,360 - #19 1
+INFO  12:49:50,360 - #5 ;
+INFO  12:49:50,361 - #10 return
+INFO  12:49:50,361 - #15 c
+INFO  12:49:50,361 - #11 +
+INFO  12:49:50,361 - #19 2
+INFO  12:49:50,362 - #5 ;
+INFO  12:49:50,363 - #4 }
+INFO  12:49:50,363 - #14 void
+INFO  12:49:50,364 - #15 main
+INFO  12:49:50,364 - #6 (
+INFO  12:49:50,364 - #7 )
+INFO  12:49:50,364 - #3 {
+INFO  12:49:50,364 - #15 y
+INFO  12:49:50,364 - #13 =
+INFO  12:49:50,365 - #19 2
+INFO  12:49:50,365 - #5 ;
+INFO  12:49:50,365 - #15 x
+INFO  12:49:50,365 - #13 =
+INFO  12:49:50,365 - #15 y
+INFO  12:49:50,365 - #11 +
+INFO  12:49:50,365 - #19 2
+INFO  12:49:50,365 - #5 ;
+INFO  12:49:50,365 - #15 y
+INFO  12:49:50,366 - #13 =
+INFO  12:49:50,366 - #15 k
+INFO  12:49:50,366 - #6 (
+INFO  12:49:50,366 - #7 )
+INFO  12:49:50,367 - #11 +
+INFO  12:49:50,367 - #19 3
+INFO  12:49:50,368 - #5 ;
+INFO  12:49:50,368 - #9 print
+INFO  12:49:50,368 - #6 (
+INFO  12:49:50,369 - #15 y
+INFO  12:49:50,369 - #7 )
+INFO  12:49:50,369 - #5 ;
+INFO  12:49:50,369 - #10 return
+INFO  12:49:50,370 - #19 0
+INFO  12:49:50,370 - #5 ;
+INFO  12:49:50,370 - #4 }
+INFO  12:49:50,370 - #4 }
+INFO  12:49:50,405 - Deklarisana promenljiva x na liniji 2
+INFO  12:49:50,405 - Deklarisana promenljiva y na liniji 2
+INFO  12:49:50,405 - Deklarisana promenljiva c na liniji 5
+ERROR 12:49:50,406 - Semanticka greska: tip izraza mora biti Integer  na liniji 6
+ERROR 12:49:50,406 - Semanticka greska: leva strana operatora dodele mora biti istog tipa kao desna strana  na liniji 6

@@ -1,0 +1,42 @@
+INFO  20:10:11,259 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:10:11,334 - #2 program
+INFO  20:10:11,334 - #15 MJProgram
+INFO  20:10:11,334 - #15 int
+INFO  20:10:11,336 - #15 x
+INFO  20:10:11,338 - #8 ,
+INFO  20:10:11,338 - #15 y
+INFO  20:10:11,338 - #8 ,
+INFO  20:10:11,339 - #15 z
+INFO  20:10:11,339 - #5 ;
+INFO  20:10:11,339 - #3 {
+INFO  20:10:11,340 - #15 int
+INFO  20:10:11,341 - #15 f
+INFO  20:10:11,342 - #6 (
+INFO  20:10:11,342 - #7 )
+INFO  20:10:11,343 - #3 {
+INFO  20:10:11,344 - #10 return
+INFO  20:10:11,345 - #19 4
+INFO  20:10:11,346 - #5 ;
+INFO  20:10:11,347 - #4 }
+INFO  20:10:11,348 - #14 void
+INFO  20:10:11,349 - #15 fja
+INFO  20:10:11,349 - #6 (
+INFO  20:10:11,349 - #7 )
+INFO  20:10:11,350 - #3 {
+INFO  20:10:11,350 - #4 }
+INFO  20:10:11,350 - #14 void
+INFO  20:10:11,350 - #15 main
+INFO  20:10:11,350 - #6 (
+INFO  20:10:11,350 - #7 )
+INFO  20:10:11,350 - #3 {
+INFO  20:10:11,350 - #15 fja
+INFO  20:10:11,350 - #6 (
+INFO  20:10:11,350 - #7 )
+INFO  20:10:11,351 - #5 ;
+INFO  20:10:11,351 - #4 }
+INFO  20:10:11,352 - #4 }
+INFO  20:10:11,378 - Deklarisana promenljiva x na liniji 2
+INFO  20:10:11,379 - Deklarisana promenljiva y na liniji 2
+INFO  20:10:11,379 - Deklarisana promenljiva z na liniji 2
+INFO  20:10:11,379 - Pronadjen poziv funkcije fja na liniji 11
+INFO  20:10:11,380 - Print calls = 0

@@ -1,0 +1,42 @@
+INFO  00:28:57,320 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:28:57,705 - #2 program
+INFO  00:28:57,705 - #15 MJProgram
+INFO  00:28:57,706 - #15 int
+INFO  00:28:57,710 - #15 x
+INFO  00:28:57,712 - #5 ;
+INFO  00:28:57,713 - #18 const
+INFO  00:28:57,722 - #15 int
+INFO  00:28:57,722 - #15 y
+INFO  00:28:57,722 - #13 =
+INFO  00:28:57,722 - #19 4
+INFO  00:28:57,723 - #5 ;
+INFO  00:28:57,723 - #15 int
+INFO  00:28:57,726 - #15 z
+INFO  00:28:57,726 - #5 ;
+INFO  00:28:57,727 - #3 {
+INFO  00:28:57,727 - #14 void
+INFO  00:28:57,736 - #15 main
+INFO  00:28:57,737 - #6 (
+INFO  00:28:57,737 - #7 )
+INFO  00:28:57,739 - #3 {
+INFO  00:28:57,742 - #15 z
+INFO  00:28:57,744 - #13 =
+INFO  00:28:57,745 - #19 5
+INFO  00:28:57,745 - #5 ;
+INFO  00:28:57,746 - #15 x
+INFO  00:28:57,746 - #13 =
+INFO  00:28:57,746 - #15 z
+INFO  00:28:57,746 - #41 *
+INFO  00:28:57,746 - #19 3
+INFO  00:28:57,751 - #12 -
+INFO  00:28:57,751 - #19 4
+INFO  00:28:57,753 - #41 *
+INFO  00:28:57,754 - #19 5
+INFO  00:28:57,754 - #5 ;
+INFO  00:28:57,754 - #4 }
+INFO  00:28:57,754 - #4 }
+INFO  00:28:57,810 - Deklarisana promenljiva x na liniji 2
+INFO  00:28:57,810 - Deklarisana promenljiva z na liniji 4
+INFO  00:28:57,811 - Print calls = 0
+INFO  00:28:57,812 - Generating bytecode file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  00:28:57,836 - Parsiranje uspesno zavrseno!

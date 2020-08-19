@@ -1,0 +1,52 @@
+INFO  19:55:27,556 - Compiling source file: C:\Users\Bojana\Desktop\pp1 projekat\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:55:27,618 - #2 program
+INFO  19:55:27,618 - #15 MJProgram
+INFO  19:55:27,618 - #15 int
+INFO  19:55:27,619 - #15 x
+INFO  19:55:27,620 - #8 ,
+INFO  19:55:27,620 - #15 y
+INFO  19:55:27,620 - #8 ,
+INFO  19:55:27,620 - #15 z
+INFO  19:55:27,621 - #5 ;
+INFO  19:55:27,621 - #3 {
+INFO  19:55:27,622 - #14 void
+INFO  19:55:27,623 - #15 f
+INFO  19:55:27,623 - #6 (
+INFO  19:55:27,623 - #7 )
+INFO  19:55:27,624 - #3 {
+INFO  19:55:27,624 - #4 }
+INFO  19:55:27,625 - #14 void
+INFO  19:55:27,626 - #15 main
+INFO  19:55:27,627 - #6 (
+INFO  19:55:27,627 - #7 )
+INFO  19:55:27,627 - #3 {
+INFO  19:55:27,627 - #15 x
+INFO  19:55:27,627 - #13 =
+INFO  19:55:27,628 - #19 2
+INFO  19:55:27,628 - #5 ;
+INFO  19:55:27,628 - #15 x
+INFO  19:55:27,629 - #13 =
+INFO  19:55:27,629 - #19 3
+INFO  19:55:27,629 - #5 ;
+INFO  19:55:27,629 - #15 x
+INFO  19:55:27,629 - #13 =
+INFO  19:55:27,629 - #19 4
+INFO  19:55:27,629 - #5 ;
+INFO  19:55:27,629 - #15 y
+INFO  19:55:27,630 - #13 =
+INFO  19:55:27,630 - #19 2
+INFO  19:55:27,630 - #5 ;
+INFO  19:55:27,630 - #15 y
+INFO  19:55:27,630 - #13 =
+INFO  19:55:27,630 - #19 3
+INFO  19:55:27,630 - #5 ;
+INFO  19:55:27,630 - #15 y
+INFO  19:55:27,630 - #13 =
+INFO  19:55:27,630 - #19 4
+INFO  19:55:27,631 - #5 ;
+INFO  19:55:27,631 - #4 }
+INFO  19:55:27,631 - #4 }
+INFO  19:55:27,650 - Deklarisana promenljiva x na liniji 2
+INFO  19:55:27,650 - Deklarisana promenljiva y na liniji 2
+INFO  19:55:27,650 - Deklarisana promenljiva z na liniji 2
+INFO  19:55:27,651 - Print calls = 0
