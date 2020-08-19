@@ -1,6 +1,6 @@
 # microJavaCompiler
 
-This was a project done as part of compilers course at the University of Belgrade, faculty of Electrical engineering.
+This was a project done as part of compilers course at the University of Belgrade, faculty of Electrical engineering in 2018.
 
 ## Description
 
