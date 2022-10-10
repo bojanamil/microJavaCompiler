@@ -1,7 +1,3 @@
-# microJavaCompiler
-
-This was a project done as part of compilers course at the University of Belgrade, faculty of Electrical engineering in 2018.
-
 ## Description
 
 MicroJava compiler has 4 basic functionalities: lexical analysis, syntax analysis, semantic analysis, and bytecode generation.
